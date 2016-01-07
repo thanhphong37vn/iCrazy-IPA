@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">aɪ ˈkreɪzi</string>
+    <!-- Thu chi -->
+
+    <string name="ct_ct_thu">Thu</string>
+    <string name="ct_ct_chi">Chi</string>
+    <string name="ct_ct_thu_chi">Thu/Chi</string>
+    <string name="ct_ct_idChiTieu">Id</string>
+    <string name="ct_ct_idDanh_muc">Id danh muc</string>
+    <string name="ct_ct_tenChiTieu">Tên khoản</string>
+    <string name="ct_ct_tienChiTieu">Số tiền</string>
+    <string name="ct_ct_tienChiTieu_50000">50000</string>
+    <string name="ct_ct_trang_thai">Trạng thái</string>
+    <string name="ct_ct_ghiChu">Ghi chú</string>
+    <string name="ct_ct_ngayTao">Ngày tạo</string>
+    <string name="ct_ct_ngaySua">Ngày sửa</string>
+    <string name="ct_ct_tenDanhMuc">Tên danh mục</string>
+    <!-- action -->
+    <string name="ct_ct_them">Thêm</string>
+    <string name="ct_ct_THEM">THÊM</string>
+    <string name="ct_ct_sua">Sửa</string>
+    <string name="ct_ct_tim">Tìm</string>
+    <string name="ct_ct_xoa">Xóa</string>
+    <string name="ct_ct_luu">Lưu</string>
+    <string name="ct_ct_LUU">LƯU</string>
+    <!-- <! - Activities -> -->
+    <string name="ct_hd_hoatdong">Activity</string>
+    <string name="ct_hd_ngay">Day</string>
+    <string name="ct_hd_sotien">Amount</string>
+    <string name="ct_hd_caigi">Something</string>
+    <!-- <! - Accocunt -> -->
+    <string name="ct_tk_taikhoan">Accounts</string>
+    <string name="ct_tk_tkchon">Select Account</string>
+    <string name="ct_tk_tienmat">Cash</string>
+    <string name="ct_tk_tknganhang">bank account</string>
+    <string name="ct_tk_tktindung">Account Credit Card</string>
+    <string name="ct_tk_themmoi">Add new</string>
+    <!-- <! - Du lieu -> -->
+    <string name="ct_dl_dulieu">Data</string>
+    <string name="ct_dl_taikhoan">Accounts</string>
+    <string name="ct_dl_theloai">Category</string>
+    <string name="ct_dl_nguoi">The</string>
+    <string name="ct_dl_duan">Project</string>
+    <string name="ct_dl_kdkhachhang">Business customers</string>
+    <string name="ct_dl_taichinhdulieu">Financial data</string>
+    <string name="ct_dl_thegioi">World</string>
+    <string name="ct_dl_dongbo">Sync</string>
+    <string name="ct_dl_them">More</string>
+    <string name="ct_dl_sua">Edit</string>
+    <string name="ct_dl_saochep">Copy</string>
+    <string name="ct_dl_an">Hide</string>
+    <!-- <! - Analyze -> -->
+    <string name="ct_pt_phantich">Analysis</string>
+    <string name="ct_pt_chitieu">Spend</string>
+    <string name="ct_pt_tongcong">Total</string>
+    <string name="ct_pt_thucan">Food</string>
+    <string name="ct_pt_quanao">Clothing</string>
+    <!-- <! - Help -> -->
+    <string name="ct_tg_trogiup">Help</string>
+
+</resources>

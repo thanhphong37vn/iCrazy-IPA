@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="starter_lession_content">
+
+        <!-- //1	[	i	]	pliz  	- -->
+        <item>	pliz spik ˈɪŋglɪʃ wɪð mi
+\nPlease speak English with me.</item>
+        <!-- //2	[	ɪ	]	ˈdɪfəkəlt 	- -->
+        <item>	ɪts nɑt ˈdɪfəkəlt tu spik ˈɪŋglɪʃ
+\nIt\'s not difficult to speak English</item>
+        <!-- //3	[	ɛ	]	ˈɛvriˌθɪŋ 	- -->
+        <item>	ˈɛvriˌθɪŋ ɪz ˈrɛdi
+\nEverything is ready</item>
+        <!-- //4	[	æ	]	ˈpræktɪsɪz 	- -->
+        <item>	ˈpræktɪsɪz meɪk ˈpɜrˌfɪkt
+\nPractices make perfect.</item>
+        <!-- //5	[	ʌ	]	ˈwʌndɜrfəl 	- -->
+        <item>	maɪ ˈmʌðər ɪz ˈwʌndɜrfəl ˈtiʧər
+\nMy mother is wonderful teacher</item>
+        <!-- //6	[	ɜr	]	ˈpɜrˌfɪkt 	- -->
+        <item>	hi spiks ˈpɜrˌfɪkt ˈɪŋglɪʃ
+\nHe speaks perfect English</item>
+        <!-- //7	[	ər 	]	rɪˈmɛmbər 	- -->
+        <item>	rɪˈmɛmbər tu kɔl jʊər ˈmʌðər
+\nRemember to call your mother</item>
+        <!-- //8	[	ə	]	təˈgɛðər 	- -->
+        <item>	əˈmɛrəkə ænd viˌɛtˈnɑm ʃʊd ˈɔlˌweɪz wɜrk təˈgɛðər
+\nAmerica and Vietnam should always work together</item>
+        <!-- //9	[	ɑ	]	ˈbɑðər 	- -->
+        <item>	ˈsɑri tu ˈbɑðər ju
+\nSorry to bother you</item>
+        <!-- //10	[	ɑr	]	ˈʧɑrmɪŋ  	- -->
+        <item>	ju hæv ˈʧɑrmɪŋ smaɪl
+\nYou have charming smile</item>
+        <!-- //11	[	ɔ	]	ˈɔlˌweɪz 	- -->
+        <item>	ˈɔlˌweɪz seɪ "pliz" ænd "θæŋk ju"
+\nAlways say "please" and "thank you"</item>
+        <!-- //12	[	ɔr	]	ɪmˈpɔrtənt 	- -->
+        <item>	ɪts ˈvɛri ɪmˈpɔrtənt tu ˈpræktəs ˈɪŋglɪʃ ˈɛvriˈdeɪ
+\nIt\'s very important to practice English everyday</item>
+        <!-- //13	[	ʊ	]	ʃʊd 	- -->
+        <item>	ju ʃʊd wɜrk ˈhɑrdər
+\nYou should work harder</item>
+        <!-- //14	[	u	]	fud 	- -->
+        <item>	wʌts jʊər ˈfeɪvərɪt fud?
+\nWhat\'s your favorite food?</item>
+        <!-- //15	[	eɪ	]	mɪsˈteɪk 	- -->
+        <item>	doʊnt bi əˈfreɪd ɑv ˈmeɪkɪŋ mɪsˈteɪks
+\nDon\'t be afraid of making mistakes</item>
+        <!-- //16	[	aɪ	]	taɪm 	- -->
+        <item>	ɪz ðɪs jʊər fɜrst taɪm ɪn viˌɛtˈnɑm
+\nIs this your first time in Vietnam</item>
+        <!-- //17	[	ɔɪ 	]	ɛnˈʤɔɪ 	- -->
+        <item>	aɪ ˈrɪli ɛnˈʤɔɪd ˈtɔkɪŋ tu ju
+\nI really enjoyed talking to you</item>
+        <!-- //18	[	oʊ	]	hoʊp 	- -->
+        <item>	aɪ hoʊp tu si ju əˈgɛn
+\nI hope to see you again</item>
+        <!-- //19	[	aʊ	]	ˌaʊtˈstændɪŋ 	- -->
+        <item>	jʊr ˌaʊtˈstændɪŋ
+\nYou\'re outstanding</item>
+        <!-- //20	[	ɪr 	]	klɪr 	- -->
+        <item>	ɪts ˈvɛri ɪmˈpɔrtənt tu hæv klɪr prəˌnʌnsiˈeɪʃən
+\nIt\'s very important to have clear pronunciation</item>
+        <!-- //21	[	ɛr 	]	kɛr 	- -->
+        <item>	wi ʃʊd ɔl kɛr əˈbaʊt ði ɪnˈvaɪrənmənt
+\nWe should all care about the environment</item>
+        <!-- //22	[	ʊr 	]	ʃʊr 	- -->
+        <item>	aɪm ʃʊr ju wɪl ɛnˈʤɔɪ ɪt
+\nI\'m sure you will enjoy it</item>
+        <!-- //23	[	p	]	ɪmˈpɑsəbəl 	- -->
+        <item>	ˈnʌθɪŋ ɪz ɪmˈpɑsəbəl
+\nNothing is impossible</item>
+        <!-- //24	[	b	]	bɪˈliv 	- -->
+        <item>	bɪˈliv ɪn jʊər sɛlf
+\nBelieve in your self</item>
+        <!-- //25	[	t	]	taɪm 	- -->
+        <item>	doʊnt weɪst taɪm
+\nDon\'t waste time</item>
+        <!-- //26	[	d	]	ˌdɪˈsaɪd 	- -->
+        <item>	lɛt mi noʊ wʌt ju ˌdɪˈsaɪd
+\nLet me know what you decide</item>
+        <!-- //27	[	k 	]	kip 	- -->
+        <item>	kip ʌp ðə gʊd wɜrk
+\nKeep up the good work</item>
+        <!-- //28	[	g	]	ˈgʌvərmənt 	- -->
+        <item>	ˈaʊər ˈgʌvɜrmənt dʌz ə gʊd ʤɑb
+\nOur government does a good job</item>
+        <!-- //29	[	f	]	fil 	- -->
+        <item>	aɪ fil ə ˈlɪtəl sɪk təˈdeɪ
+\nI feel a little sick today</item>
+        <!-- //30	[	v	]	liv 	- -->
+        <item>	wɛn ɑr ju ˈlivɪŋ
+\nWhen are you leaving</item>
+        <!-- //31	[	s	]	ˈnɜrvəs 	- -->
+        <item>	doʊnt bi ˈnɜrvəs. rɪˈlæks.
+\nDon\'t be nervous. Relax.</item>
+        <!-- //32	[	z	]	ˈbɪznəs 	- -->
+        <item>	du ju du ə lɑt ɑv ˈbɪznəs ɪn viˌɛtˈnɑm?
+\nDo you do a lot of business in Vietnam?</item>
+        <!-- //33	[	ʃ	]	ˈspɛʃəl 	- -->
+        <item>	ðɪs ɪz ə ˈspɛʃəl ˈloʊkəl dɪʃ
+\nThis is a special local dish</item>
+        <!-- //34	[	ʒ	]	ˈplɛʒər  	- -->
+        <item>	ɪts ə ˈplɛʒər tu bi hir təˈdeɪ
+\nIt\'s a  pleasure to be here today</item>
+        <!-- //35	[	θ	]	ˈbæˌθrum 	- -->
+        <item>	aɪ nid tu juz ðə ˈbæˌθrum
+\nI need to use the bathroom</item>
+        <!-- //36	[	ð	]	ˈwɛðər 	- -->
+        <item>	ɑr ju juzd tu ðə ˈwɛðər hir?
+\nAre you used to the weather here?</item>
+        <!-- //37	[	h	]	hɛlp 	- -->
+        <item>	lɛt mi hɛlp ju
+\nLet me help you</item>
+        <!-- //38	[	r	]	təˈrɪfɪk 	- -->
+        <item>	ju lʊk təˈrɪfɪk təˈdeɪ
+\nYou look terrific today</item>
+        <!-- //39	[	ʧ	]	ʧeɪnʤ 	- -->
+        <item>	viˌɛtˈnɑm ɪz ˈʧeɪnʤɪŋ ˈɛvriˈdeɪ
+\nVietnam is changing everyday</item>
+        <!-- //40	[	ʤ 	]	ˈlæŋgwəʤ 	- -->
+        <item>	ˈɪŋglɪʃ ɪz ən ˌɪntərˈnæʃənəl ˈlæŋgwəʤ
+\nEnglish is an international language</item>
+        <!-- //41	[	m	]	ˈmɛməri 	- -->
+        <item>	ju hæv ə gʊd ˈmɛməri
+\nYou have a good memory</item>
+        <!-- //42	[	n	]	ˈnʌmbər 	- -->
+        <item>	kæn ju gɪv mi jʊər ˈtɛləˌfoʊn ˈnʌmbər?
+\nCan you give me your telephone number?</item>
+        <!-- //43	[	ŋ 	]	rɔŋ 	- -->
+        <item>	ɪz ðeər ˈɛniˌθɪŋ rɔŋ?
+\nIs there anything wrong?</item>
+        <!-- //44	[	l-                 ]	lɜrn 	-</item> -->
+        <item>	lɜrn ˈsʌmθɪŋ nu ˈɛvriˈdeɪ.
+\nLearn something new everyday.</item>
+        <!-- //45	[	l+	]	hɛlp 	- -->
+        <item>	jʊr ˈvɛri ˈhɛlpfəl
+\nYou\'re very helpful</item>
+        <!-- //46	[	w	]	ˈwɛlkəm 	- -->
+        <item>	jʊr ˈwɛlkəm tu ʤɔɪn ʌz
+\nYou\'re welcome to join us</item>
+        <!-- //47	[	j	]	ˈjɛstərˌdeɪ 	- -->
+        <item>	aɪ əˈraɪvd ˈjɛstərˌdeɪ ˈmɔrnɪŋ
+\nI arrived yesterday morning</item>
+        <!-- //48	[	tr	]	ˈtrʌbəl 	- -->
+        <item>	aɪ doʊnt wɑnt tu ˈtrʌbəl ju
+\nI don\'t want to trouble you</item>
+        <!-- //49	[	dr	]	drɪŋk 	- -->
+        <item>	wʌt wʊd ju laɪk tu drɪŋk?
+\nWhat would you like to drink?</item>
+        <!-- //50	[	ts 	]	lɑts 	- -->
+        <item>	aɪ hæv lɑts ɑv frɛndz frʌm ɔl ˈoʊvər ðə wɜrld
+\nI have lots of friends from all over the world</item>
+        <!-- //51	[	dz 	]	wɜrdz 	- -->
+        <item>wɜrdz kænt ɪkˈsprɛs haʊ ˈθæŋkfəl aɪ æm.
+\nWords can\'t express how thankful I am.                          </item>
+
+        <!-- Nguyen am -->
+        <!-- <item>Please speak English with me\npliz spik ˈɪŋglɪʃ wɪð mi </item> -->
+        <!-- <item>It's not difficult to speak English\nɪts nɑt ˈdɪfəkəlt tu spik ˈɪŋglɪʃ </item> -->
+        <!-- <item>ˈɛvriˌθɪŋ ɪz ˈrɛdi </item> -->
+        <!-- <item>ˈpræktəsəz meɪk ˈpɜrˌfɪkt </item> -->
+        <!-- <item>maɪ ˈmʌðər ɪz ˈwʌndɜrfəl ˈtiʧər </item> -->
+        <!-- <item>hi spiks ˈpɜrˌfɪkt ˈɪŋglɪʃ </item> -->
+        <!-- <item>rɪˈmɛmbər tu kɔl jʊər ˈmʌðər </item> -->
+        <!-- <item>əˈmɛrəkə ænd viˌɛtˈnɑm ʃʊd ˈɔlˌweɪz wɜrk təˈgɛðər </item> -->
+        <!-- <item>ˈsɑri tu ˈbɑðər ju </item> -->
+        <!-- <item>ju hæv ˈʧɑrmɪŋ smaɪl </item> -->
+        <!-- <item>ˈɔlˌweɪz seɪ "pliz" ænd "θæŋk ju" </item> -->
+        <!-- <item>ɪts ˈvɛri ɪmˈpɔrtənt tu ˈpræktəs ˈɪŋglɪʃ ˈɛvriˈdeɪ </item> -->
+        <!-- <item>ju ʃʊd wɜrk ˈhɑrdər </item> -->
+        <!-- <item>wʌts jʊər ˈfeɪvərɪt fud? </item> -->
+        <!-- <item>doʊnt bi ə fraid ɑv ˈmeɪkɪŋ mɪsˈteɪks </item> -->
+        <!-- <item>ɪz ðɪs jʊər fɜrst taɪm ɪn viˌɛtˈnɑm </item> -->
+        <!-- <item>aɪ ˈrɪli ɛnˈʤɔɪd ˈtɔkɪŋ tu ju </item> -->
+        <!-- <item>aɪ hoʊp tu si ju əˈgɛn </item> -->
+        <!-- <item>jʊr ˌaʊtˈstændɪŋ </item> -->
+        <!-- <item>ɪts ˈvɛri ɪmˈpɔrtənt tu hæv klɪr prəˌnʌnsiˈeɪʃən </item> -->
+        <!-- <item>wi ʃʊd ɔl kɛr əˈbaʊt ði ɪnˈvaɪrənmənt </item> -->
+        <!-- <item>aɪm ʃʊr ju wɪl ɛnˈʤɔɪ ɪt </item> -->
+        <!-- <item>ˈnʌθɪŋ ɪz ɪmˈpɑsəbəl </item> -->
+        <!-- <item>bɪˈliv ɪn jʊər sɛlf </item> -->
+        <!-- <item>doʊnt weɪst taɪm </item> -->
+        <!-- <item>lɛt mi noʊ wʌt ju ˌdɪˈsaɪd </item> -->
+        <!-- <item>kip ʌp ðə gʊd wɜrk </item> -->
+        <!-- <item>ˈaʊər ˈgʌvɜrmənt dʌz ə gʊd ʤɑb </item> -->
+        <!-- <item>aɪ fil ə ˈlɪtəl sɪk təˈdeɪ </item> -->
+        <!-- <item>wɛn ɑr ju ˈlivɪŋ </item> -->
+        <!-- <item>doʊnt bi ˈnɜrvəs. rɪˈlæks. </item> -->
+        <!-- <item>du ju du ə lɑt ɑv ˈbɪznəs ɪn viˌɛtˈnɑm? </item> -->
+        <!-- <item>ðɪs ɪz ə ˈspɛʃəl ˈloʊkəl dɪʃ </item> -->
+        <!-- <item>ɪts ə ˈplɛʒər tu bi hir təˈdeɪ </item> -->
+        <!-- <item>aɪ nid tu juz ðə ˈbæˌθrum </item> -->
+        <!-- <item>ɑr ju juzd tu ðə ˈwɛðər hir? </item> -->
+        <!-- <item>lɛt mi hɛlp ju </item> -->
+        <!-- <item>ju lʊk təˈrɪfɪk təˈdeɪ </item> -->
+        <!-- <item>viˌɛtˈnɑm ɪz ˈʧeɪnʤɪŋ ˈɛvriˈdeɪ </item> -->
+        <!-- <item>ˈɪŋglɪʃ ɪz ən ˌɪntərˈnæʃənəl ˈlæŋgwəʤ </item> -->
+        <!-- <item>ju hæv ə gʊd ˈmɛməri </item> -->
+        <!-- <item>kæn ju gɪv mi jʊər ˈtɛləˌfoʊn ˈnʌmbər? </item> -->
+        <!-- <item>ɪz ðeər ˈɛniˌθɪŋ rɔŋ? </item> -->
+        <!-- <item>lɜrn ˈsʌmθɪŋ nu ˈɛvriˈdeɪ. </item> -->
+        <!-- <item>jʊr ˈvɛri ˈhɛlpfəl </item> -->
+        <!-- <item>jʊr ˈwɛlkəm tu ʤɔɪn ʌs </item> -->
+        <!-- <item>aɪ əˈraɪvd ˈjɛstərˌdeɪ ˈmɔrnɪŋ </item> -->
+        <!-- <item>aɪ doʊnt wɑnt tu ˈtrʌbəl ju </item> -->
+        <!-- <item>wʌt wʊd ju laɪk tu drɪŋk? </item> -->
+        <!-- <item>aɪ hæv lɑts ɑv frɛndz frʌm ɔl ˈoʊvər ðə wɜrld </item> -->
+        <!-- <item>wɜrdz kænt ɪkˈsprɛs haʊ ˈθæŋkfəl aɪ æm. </item> -->
+
+
+        <!-- ================ 50 bai================ -->
+        <!-- 1 -->
+        <!-- <item>θæŋk ju fɔr ɪnˈvaɪtɪŋ mi tu it. ɪts maɪ trit ðɪs taɪm. pliz lɛt mi peɪ ðə bɪl.ju kæn trit mi nɛkst taɪm wi it. ɪt hæz bɪn maɪ drim tu mit ju. aɪ ˈrɪli ɛnˈʤɔɪd ðɪs mil. aɪ ˈrɪli ɛnˈʤɔɪd ˈspikɪŋ wɪð ju. θæŋk ju fɔr jʊər taɪm. wi ʃʊd mit ˈɛvəri wik ænd it ˈdinər təˈgɛðər.</item> -->
+        <!-- 2 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ wɑnt tu tɔk əˈbaʊt ðə ˈdɪfərənsɪz bɪˈtwin ˈɪŋglɪʃ ænd viɛtnɑˈmis. ˈɪŋglɪʃ ɪz ˈvɛri ˈdɪfərənt frʌm viɛtnɑˈmis. ðə saʊndz ˈdɪfərənt, ðə ˈgræmər ɪz ˈdɪfərənt, ænd ðə ˈraɪtɪŋ ɪz ˈtoʊtəli ˈdɪfərənt. ɪts ˈvɛri ˈdɪfəkəlt tu spik ˈɪŋglɪʃ wɛl. ɪf ju wɑnt tu spik ˈɪŋglɪʃ, ju mʌst fərˈgɛt əˈbaʊt ðə ˈdɪfərənsɪz, ʤʌst ˈpræktəs kəˈrɛkt ˈsɛntənsəz ənˈtɪl jʊr juzd tu ðɛm. ðə mɔr ˈsɛntənsəz ju kæn blɜrt aʊt, ðə ˈbɛtər ju kæn ɪkˈsprɛs jərˈsɛlf. ɪf ju bɪˈliv ɪn jərˈsɛlf, ænd ˈpræktəs ˈkreɪzəli ˈɛvəri deɪ, ju wɪl meɪk ɪt ju wɪl ˈkɑŋkər ˈɪŋglɪʃ. viɛtnɑˈmis ɪz ðə moʊst ˈdɪfəkəlt ˈlæŋgwəʤ ɪn ðə wɜrld. ɪf ju kæn spik viɛtnɑˈmis, ju kæn spik ˈɪŋglɪʃ.</item> -->
+        <!-- 3 -->
+        <!-- <item>ˈmɛni ˈpipəl tɛl mi ðæt ɪt ɪz ˈvɛri hɑrd tu rɪˈmɛmbər nu wɜrdz. ðeɪ kəmˈpleɪn ðæt noʊ ˈmætər haʊ hɑrd ðeɪ traɪ tu ˈmɛməˌraɪz nu wɜrdz, ðeɪ ˈɔlˌweɪz fərˈgɛt ðɛm. ðə bɛst weɪ tu rɪˈmɛmbər nu wɜrdz ɪz tu ˈpræktəs ðɛm ˈɛvəri deɪ. ˈpræktəs ðɛm ɪn ˈsɛntənsəz ænd ˈpærəˌgræfs. ˈlɪsən tu teɪps ænd rid əˈlɔŋ ˈɛvəri deɪ. ˈʌðərˌwaɪz ju wɪl fərˈgɛt ˈizəli. ɪf ju nid maɪ hɛlp, pliz kɔl mi. wir frɛndz. frɛndz hɛlp iʧ ˈʌðər. lɛts ˈkɑŋkər nu wɜrdz təˈgɛðər.</item> -->
+        <!-- 4 -->
+        <!-- <item>wɑʧ jʊər θɔts, ðeɪ bɪˈkʌm wɜrdz.\nwɑʧ jʊər wɜrd, ðeɪ bɪˈkʌm ˈækʃən.\nwɑʧ jʊər ˈækʃənz, ðeɪ bɪˈkʌm ˈhæbəts.\nwɑʧ jʊər ˈhæbəts, ðeɪ bɪˈkʌm ˈkɛrɪktər.\nwɑʧ jʊər ˈkɛrɪktər, ɪt bɪˈkʌmz ˈdɛstəni.\nˈsupər ˈɪŋglɪʃ - ˈstɑrtər</item> -->
+        <!-- 5 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, ˈpipəl ˈɔfən æsk mi haʊ lɜrnd tu spik sʌʧ ˈwʌndɜrfəl ˈɪŋglɪʃ. ðeɪ wɑnt mi tu sʌm ʌp ðə ˈsikrəts ʌv maɪ səkˈsɛs. bʌt, ˈstʌdiɪŋ ðə ˈsikrəts ʌv maɪ səkˈsɛs ɪz nɑt ˈrɪli ɪˈnʌf tu hɛlp ju səkˈsid. ɪf ju ˈrɪli wɑnt tu səkˈsid, ju mʌst lʌv ˈɪŋglɪʃ. ju mʌst lʌv ˈɪŋglɪʃ soʊ mʌʧ ðæt ju ˈpræktəs ɛl ˈɛvəri ˈsɪŋgəl deɪ, mʌnθ ˈæftər mʌnθ. ju mʌst ˈnɛvər bi ˈsætəˌsfaɪd ðæt jʊər ˈɪŋglɪʃ ɪz gʊd ɪˈnʌf. ju mʌst bi tʌf ɑn jərˈsɛlf ænd kip ˈstraɪvɪŋ fɔr ɪmˈpruvmənt. ril səkˈsɛs ɪn ˈspikɪŋ ˈɪŋglɪʃ ˈdʌzənt dɪˈpɛnd ɑn lʌk ɔr haʊ mʌʧ ˈmʌni ju spɛnd ɑn bʊks ɔr ˈkɔrsəz.ril səkˈsɛs dɪˈpɛndz ɑn ˈwɑntɪŋ ˈsʌmθɪŋ ˈwɜrkɪŋ ˈbædli ɪˈnʌf ænd hɑrd ɪˈnʌf tu gɛt ɪt.</item> -->
+        <!-- 6 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, ʤʌst gɑt bæk frʌm əˈmɛrəkə ˈjɛstərˌdeɪ. ðɪs wʌz maɪ fɜrst ˈvɪzət tu əˈmɛrəkə. aɪd laɪk tu seɪ ə fju wɜrdz əˈbaʊt maɪ fɜrst trɪp. ˈɛvriˌθɪŋ wʌz nu ænd frɛʃ. aɪ gɑt ʌp ˈɜrli tu ˈɛksərˌsaɪz ɪn ðə pɑrk. aɪ ˈvɪzətəd ˈmɛni ˈɪntrəstɪŋ ˈpleɪsəz. aɪ mɛt ə lɑt ʌv ˈɪntrəstɪŋ ˈpipəl. aɪ fɛlt ə ˈlɪtəl ˈnɜrvəs, bʌt aɪ stɪl tɔkt tu ˈpipəl. ðeɪ wɜr ˈvɛri ˈfrɛndli ænd ˈhɛlpfəl. aɪ hæd ə greɪt fɜrst ɪmˈprɛʃən ʌv ði əˈmɛrəkən ˈpipəl. \nðɪs trɪp wʌz ðə fɜrst taɪm. aɪ hæd tu aɪ juz ˈɪŋglɪʃ ɪn ril laɪf. maɪ ˈɪŋglɪʃ wʌz nɑt ˈpɜrˌfɪkt, bʌt aɪ sərˈvaɪvd. ðə mɔr aɪ juzd ˈɪŋglɪʃ, ði ˈiziər ɪt bɪˈkeɪm. aɪm stɪl ˈwɜrkɪŋ ˈvɛri hɑrd ɑn maɪ ˈɪŋglɪʃ. ju noʊ, ˈpræktəs meɪks ˈpɜrˌfɪkt. nɛkst taɪm aɪ goʊ tu əˈmɛrəkə, aɪ woʊnt fil ˈnɜrvəs æt ɔl.</item> -->
+        <!-- 7 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ wɑnt tu tɔk əˈbaʊt ˈsɪmpəl weɪ ðæt wi kæn wɜrk təˈgɛðər tu meɪk səˈsaɪəti ˈbɛtər. wi mʌst ˈɔlˌweɪz rɪˈmɛmbər ðæt ˈɛvəri ˈpɜrsən ɪz ɪmˈpɔrtənt. ɪt ˈdʌzənt ˈmætər ɪf wi noʊ ə ˈpɜrsən ɔr ɪf hi ɪz ə ˈtoʊtəl ˈstreɪnʤər. ˈɛvəri ˈpɜrsən ɪz ˈsʌmˌbɑdiz ˈmʌðər, ˈfɑðər, ˈsɪstər ɔr ˈbrʌðər. wi mʌst ˈnɛvər lʊk əˈweɪ wɛn wi si ˈsʌmˌwʌn ˈsʌfər. wi mʌst ˈnɛvər fil əˈnʌðər ˈpɜrsən ˈdʌzənt ˈmætər. wi mʌst ˈnɛvər seɪ, "ɪts tu mʌʧ ˈbɑðər”. wi ʃʊd ˈɔfər hɛlp ˌʌnkənˈdɪʃənəli. ɪf wi wɑnt tu lɪv təˈgɛðər ɪn ˈhɑrməni, wi mʌst lɜrn tu trit ˈɛvəri ˈsɪŋgəl ˈpɜrsən æz ˈaʊər oʊn ˈmʌðər, ˈfɑðər, ˈsɪstər ɔr ˈbrʌðər ðɪs ɪz ðə weɪ ˈtruli meɪk ˈaʊər səˈsaɪəti ˈstrɔŋər ænd ˈbɛtər.</item> -->
+        <!-- 8 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, əˈmɛrəkə ɪz greɪt ˈkʌntri. viˌɛtˈnɑm ə greɪt ˈkʌntri. viˌɛtˈnɑm ænd əˈmɛrəkə hæv ə lɔŋ ˈhɪstəri təˈgɛðər. naʊ, ɪz ðə raɪt taɪm tu bɪld ən ˈivɪn ˈkloʊsər ænd ˈstrɔŋər riˈleɪʃənˌʃɪp. viˌɛtˈnɑm ɪz ɪnˈvaɪtɪŋ mɔr ænd mɔr ˈɛkspɜrts frʌm əˈmɛrəkə tu ʃɛr ðɛr ˈnɑləʤ. æt ðə seɪm taɪm, əˈmɛrəkə ɪz ˈwɛlkəmɪŋ mɔr ænd mɔr ˈtæləntəd viɛtnɑˈmis tu ˈstʌdi ænd wɜrk ɪn əˈmɛrəkə. boʊθ ˈkʌntriz kæn geɪn ə greɪt dil frʌm iʧ ˈʌðər. əˈmɛrəkə ænd viˌɛtˈnɑm ʃʊd kip ˈwɜrkɪŋ təˈgɛðər tu bɪld ə ˈpisfəl ænd braɪt ˈfjuʧər. θæŋk ju.</item> -->
+        <!-- 9 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪm ˈɑnɜrd tu hæv ðɪs ˌɑpərˈtunəti tu tɔk tu ju. ˈsɑlvɪŋ ˈprɑbləm ɪz ðə tɑp praɪˈɔrəti fɔr ˈgʌvɜrmənt əˈfɪʃəlz. wir nɑt əˈfreɪd ʌv ˈprɑbləmz. wi kənˈsɪdər ˈprɑbləmz tu bi ˈʧælənʤɪz. wi hæv lɑts ʌv ˈkɑnfədəns ɪn ˈaʊər əˈbɪləti tu sɑlv ˈɛni ˈprɑbləm. wɪð jʊər səˈpɔrt ænd ˌʌndərˈstændɪŋ, wi kæn du ə greɪt ʤɑb təˈgɛðər. θæŋk ju fɔr jʊər koʊˌɑpəˈreɪʃən. ɪf ju hæv ˈɛni ˈprɑbləmz, stɑp baɪ ˈaʊər ˈɔfəs.</item> -->
+        <!-- 10 -->
+        <!-- <item>aɪ wɜrk ɛkˈstrimli hɑrd ˈɛvəri deɪ, bʌt aɪm ˈvɛri ˈtaɪɜrd. aɪ nid tu wɜrk ˈsmɑrtər, nɑt ˈhɑrdər. aɪ mʌst faɪnd ˈbɛtər weɪz tu du maɪ ʤɑb. aɪ mʌst faɪnd mɔr taɪm tu ɛnˈʤɔɪ laɪf. aɪ noʊ hɑrd wɜrk ɪz ə pɑrt ʌv ˈɛvriˌbɑdiz laɪf. bʌt aɪ wɜrk tu hɑrd. maɪ hɑrd wɜrk goʊz tu fɑr. maɪ hɑrd wɜrk ɪz ˈrʌnɪŋ maɪ hɛlθ. maɪ hɑrd wɜrk ɪz ˈkɪlɪŋ mi. ˈʌðər ˈpipəl hæv taɪm fɔr fʌn, ˈgoʊɪŋ tu bɑrz ænd ˈgoʊɪŋ tu ˈpɑrtiz. ɔl aɪ du ɪz gɛt ɪn maɪ kɑr ænd goʊ tu wɜrk ˈɛvəri deɪ. ðɪs laɪf ɪz tu hɑrd. aɪ nid tu meɪk ə frɛʃ stɑrt.\n\nˌɛʤəˈkeɪʃən ɪz ðə moʊst ɪmˈpɔrtənt ki tu səkˈsɛs</item> -->
+        <!-- 11 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈnaɪt aɪm ˈgoʊɪŋ tu tɔk əˈbaʊt ˈteɪkɪŋ riˌspɑnsəˈbɪləti. ɪts ˈɔlˌweɪz hɑrd ʤeɪ tu ədˈmɪt ˈsʌmθɪŋ ɪz jʊər fɔlt. ɪn fækt ˈpipəl ˈrɪli seɪ: "ɪts ɔl maɪ fɔlt”. ˈpipəl ˈɔlˌweɪz meɪk ɪkˈskjusɪz ɔr seɪ ɪt ɪz ˈsʌmˌbɑdi ˈɛlsɪz fɔlt. ɪts hɑrd tu sɑlv ˈprɑbləmz bɪˈkɔz ˈpipəl laɪk tu bleɪm ˈʌðɜrz. ðə nɛkst taɪm ju meɪk ə mɪsˈteɪk, teɪk riˌspɑnsəˈbɪləti. fɔr ˈlɪtəl wɜrdz, kæn meɪk ə bɪg ˈdɪfərəns. traɪ ˈseɪɪŋ: "ɪts ɔl maɪ fɔlt”.\nə ˈʤinjəs ɪz ðə ˈpɜrsən hu rɪˈpits ðə moʊst taɪmz.\nˈʤinjəs ˈoʊnli minz ˈwɜrkɪŋ hɑrd ɔl wʌnz laɪf.</item> -->
+        <!-- 12 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, mɔr ænd mɔr ˈfɔrənɜrz ɑr ˈkʌmɪŋ tu viˌɛtˈnɑm. mɔr ænd mɔr ˈpipəl əˈraʊnd ðə wɜrld ɑr ˈstɑrtɪŋ tu lɜrn ˈɪŋglɪʃ. mɔr ænd mɔr viɛtnɑˈmis ɑr ˈstɑrtɪŋ tu du ˈbɪznəs ænd ˈtrævəl əˈraʊnd ðə wɜrld. ðə wɜrld ɪz bɪˈkʌmɪŋ ˈsmɔlər ænd ˈsmɔlər. ðæts waɪ ˈɪŋglɪʃ ɪz bɪˈkʌmɪŋ mɔr ænd mɔr ɪmˈpɔrtənt ɪn viˌɛtˈnɑm. ɪf wi wɑnt aɪ tu ɛnˈʃʊr ə greɪt ˈfjuʧər fɔr viˌɛtˈnɑm, wi mʌst ˈpræktəs ˈɪŋglɪʃ ˈhɑrdər ðæn ˈɛvər bɪˈfɔr.\n\nˈtoʊtəli ˈmæstərɪŋ ˈɪŋglɪʃ ɪz ðə moʊst ɪˈfɛktɪv weɪ tu lʌv jʊər ˈkʌntri!\nˈsupər ˈɪŋglɪʃ - ˈstɑrtər</item> -->
+        <!-- 13 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪd laɪk tu tɔk əˈbaʊt bʊks. ə gʊd bʊk ɪz ə gʊd frɛnd. ju ʃʊd rid æz ˈmɛni bʊks æz ju ˈpɑsəbli kæn. ju ˈʃʊdənt ʤʌst teɪk ə kwɪk lʊk æt ə bʊk. ju ʃʊd rid ɪt ˈkɛrfəli, əˈgɛn ænd əˈgɛn. ðeər ɪz ə ˈfeɪməs kwoʊt "ə mæn hu ˈdʌzənt rid bʊks ɪz fɑr wɜrs ɔf ðæn ə mæn hu kænt rid bʊks". meɪk bʊks jʊər frɛndz ænd lɛt bʊks teɪk ju əˈraʊnd ðə wɜrld. gɛt ə bʊk naʊ ænd daɪv ˈɪntu ɪt. lɛt ðə ˈwɪzdəm kənˈteɪnd ɪn bʊks gaɪd ju θru jʊər laɪf .\n\nɪts ɪmˈpɑsəbəl tu dɪˈfit ə ˈpɜrsən hu ˈnɛvər gɪvz ʌp</item> -->
+        <!-- 14 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪd laɪk tu tɔk əˈbaʊt tu wɜrdz, fʊt ænd fud. aɪl ˈnɛvər fərˈgɛt haʊ ʃɑkt aɪ wʌz ðə fɜrst taɪm aɪ keɪm tu viˌɛtˈnɑm aɪ ænd maɪ hoʊst æskt mi "du ju laɪk viɛtnɑˈmis fʊt?" aɪ wʌz toʊld aɪ ðæt viɛtnɑˈmis ˈpipəl laɪk tu it ɔl kaɪndz ʌv ənˈjuʒˌuəl fud, bʌt aɪ ˈnɛvər ɪˈmæʤənd ðæt ðeɪ eɪt ðɛr ɔr ˈpipəlz fit. ʌv kɔrs aɪ rɪˈplaɪd "noʊ! aɪ doʊnt laɪk ɪt". bʌt maɪ hoʊst ɪnˈsɪstəd ðæt "viɛtnɑˈmis fʊt" ɪz soʊ dɪˈlɪʃəs. ju mʌst æt list traɪ "viɛtnɑˈmis fʊt” aɪ toʊld hɪm ðæt aɪ wʊd bi glæd tu traɪ, "viɛtnɑˈmis pɪgz fʊt", bʌt nɑt viɛtnɑˈmis fʊt! maɪ hoʊst ˈriəˌlaɪzd hɪz mɪsˈteɪk ænd wi boʊθ hæd ə greɪt læf. aɪ wʌz soʊ rɪˈlivd ðæt ðə ˈprɑbləm wʌz nɑt ə ˈkʌlʧər ˈdɪfərəns, ˈmɪrli ə keɪs ʌv bæd proʊˌnʌnsiˈeɪʃən. pliz teɪk maɪ ædˈvaɪs ænd ˈpræktəs ðə kəˈrɛkt proʊˌnʌnsiˈeɪʃən ʌv "fud" ænd "fʊt" ənˈtɪl ju ɑr ʃʊr ðɪs ɪmˈbɛrəsɪŋ ˌsɪʧuˈeɪʃən kʊd ˈnɛvər ˈhæpən!</item> -->
+        <!-- 15 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪ bɪˈliv ju ɔl wɑnt tu spik gʊd ˈɪŋglɪʃ. naʊ, lɛt mi gɪv ju sʌm ædˈvaɪs.\ndoʊnt bi əˈʃeɪmd ʌv ˈspikɪŋ pur ˈɪŋglɪʃ. doʊnt bi əˈʃeɪmd ʌv aɪ ˈbiɪŋ læft æt.\ndoʊnt bi əˈʃeɪmd ʌv ˈbiɪŋ stɛrd æt. ði ˈoʊnli ril ʃeɪm ɪz ðæt ju ˈnɛvər jʊər maʊθ.\nði ˈoʊnli weɪ aɪ tu lɜrn ˈɪŋglɪʃ ɪz tu ˈnɛvər bi əˈfreɪd ænd ˈnɜrvər ʃeɪmd. ɪts ˈnɛvər tu leɪt tu meɪk ə ʧeɪnʤ jʊər laɪf. doʊnt bi ə əˈfreɪd. noʊ peɪn, noʊ geɪn. ju kæn meɪk ɪt. jʊr greɪt.</item> -->
+        <!-- 16 -->
+        <!-- <item>ɪt ɪz naɪs tu bi ɪmˈpɔrtənt, bʌt ɪt ɪz mɔr ɪmˈpɔrtənt tu bi naɪs.\nwʌt ˈsɪmpəl ækt ʌv ˈkaɪndnəs kʊd ju ʃoʊ əˈnʌðər ˈpɜrsən təˈdeɪ?\nˌdɪˈsaɪd naʊ, teɪk ˈækʃən, ænd bi ʃʊr tu əˈpriʃiˌeɪt haʊ ðɪs meɪks ju fil.\nmeɪk ˈkaɪndnəs ə ˈlaɪˈflɔŋ ˈhæbət.</item> -->
+        <!-- 17 -->
+        <!-- <item>ˈleɪdiz ˈænd ˈʤɛntəlmɪn, aɪ wɑnt tu tɛl ju ˈsʌmθɪŋ ˈvɛri ɪmˈpɔrtənt təˈdeɪ. aɪ wɑnt tu tɛl ju ðæt laɪf ɪz əˈbaʊt ˈʧɔɪsəz. ju kæn ʧuz tu bi tu ˈmɪzərəbəl ɔr ju kæn ʧuz tu ɛnˈʤɔɪ laɪf. ju kæn ʧuz tu ɪmˈpruv jʊər hɛlθ ɔr ju kæn ʧuz tu dɪˈstrɔɪ ɪt. aɪ hoʊp aɪ ju wɪl meɪk kəˈrɛkt ˈʧɔɪsəz. aɪ hoʊp ju wɪl ʧuz tu ɛnˈʤɔɪ jʊər ˈfæməli, ɛnˈʤɔɪ jʊər frɛndz, ɛnˈʤɔɪ jʊər wɜrk, ænd ɛnˈʤɔɪ jʊər ˈɛvriˈdeɪ laɪf. laɪf ɪz ə gɪft ænd wi ˈrɪli ʃʊd ɛnˈʤɔɪ ˈɛvəri ˈmɪnət ʌv ɪt. ʤɔɪn ðə grup ʌv ˈpipəl hu meɪk gʊd ˈʧɔɪsəz. ɛnˈʤɔɪ jʊər laɪf!\nju kæn hæv ˈɛniˌθɪŋ ɪn laɪf ɪf ju ˈsækrəˌfaɪs ˈɛvriˌθɪŋ ɛls fɔr ɪt.\nˈsupər ˈɪŋglɪʃ - ˈstɑrtər</item> -->
+        <!-- 18 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪd laɪk tu tɔk əˈbaʊt ˈsmoʊkɪŋ. ˈsmoʊkɪŋ nɑt ˈoʊnli meɪks ju smɛl ˈtɛrəbəl ɪt ɪz ˈɔlsoʊ ˈtɛrəbəl fɔr jʊər hɛlθ. ɪf ju smoʊk, ˈɛvriˌwʌn ɪn jʊər hoʊm ɪz ˈbriðɪŋ ɪn jʊər ˈsɛkənd-hænd smoʊk. smoʊk meɪks jʊər θroʊt hɜrt, jʊər tiθ ˈjɛloʊ, ænd jʊər lʌŋz blæk. ˈsmoʊkɪŋ ɪz ˈɔlsoʊ laɪk ˈθroʊɪŋ ˈmʌni əˈweɪ. iʧ pæk ʌv ˌsɪgəˈrɛts ju smoʊk ˈmʌni ˈgoʊɪŋ ʌp ɪn smoʊk. ju ɑr ˈbɜrnɪŋ ˈmʌni wɪð ˈnʌθɪŋ tu ʃoʊ fɔr ɪt. ɪf ju smoʊk, aɪ hoʊp wɪl traɪ tu gɪv ʌp ðɪs dɪˈstrʌktɪv ˈhæbət. ju oʊ ɪt tu jərˈsɛlf ænd jʊər ˈfæməli tu lɪv ə ˈhɛlθiər laɪf.\nɪf ju lʌv wʌt ju du, ju wɪl ˈnɛvər ʤʌst wɜrk ə deɪ ɪn jʊər laɪf.</item> -->
+        <!-- 19 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪd laɪk tu tɔk əˈbaʊt haʊ tu prəˈnaʊns ˈɪŋglɪʃ wɜrdz kəˈrɛktli. fɜrst spɛl ðə wɜrd əˈlaʊd, ðɛn rid əˈlaʊd ðə wɜrd əˈkɔrdɪŋ tu ðə teɪp. ˈkɛrfəli ˈɪməˌteɪt iʧ saʊnd, ðɛn ʃaʊt aʊt ðə wɜrd æz ˈlaʊdli æz ˈpɑsəbəl, ˈlæstli faɪnd ə ˈsɛntəns juz ðɪs wɜrd, θɪŋk əˈbaʊt wʌt ðə wɜrd minz ɪn ðɪs ˈsɛntəns. laɪ jæŋ wʌns sɛd: ˈpræktəs ɔl proʊˌnʌnsiˈeɪʃən ˈsɛntənsəz ənˈtɪl ju ɑr sɪk ʌv ðɛm wɛn ju fil sɪk ænd ˈtaɪɜrd ʌv ə ˈsɛntəns, rɪˈpit ɪt æt list tɛn mɔr taɪmz. ðɛn ju wɪl bi ɑn jʊər weɪ tu ˈpɜrˌfɪkt proʊˌnʌnsiˈeɪʃən. ɪf ju ˈfɑloʊ ðiz stɛps, jul sun bi praʊd ʌv haʊ wɛl ju kæn prəˈnaʊns ˈɪŋglɪʃ wɜrdz.\nˈsupər ˈɪŋglɪʃ – ˈstɑrtər</item> -->
+        <!-- 20 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪ wɑnt tu tɔk əˈbaʊt ði ɪmˈpɔrtəns ʌv klɪr comnunication. klɪr kəmˌjunəˈkeɪʃən minz ˈbiɪŋ ˈeɪbəl tu ˈrɪli hir wʌt ˈsʌmˌwʌn ɪz ˈseɪɪŋ. ju nid tu ˈlɪsən wɪð jʊər hɑrt nɑt ˈoʊnli jʊər ɪrz. rɪˈmɛmbər ju hæv tu ɪrz bʌt ˈoʊnli wʌn maʊθ. ðæt minz ju ʃʊd ˈlɪsən mɔr ænd spik lɛs. ˈlɪsənɪŋ æz wɛl æz ˈspikɪŋ ɪz ˌæbsəˈlutli ˈnɛsəˌsɛri fɔr klɪr kəmˌjunəˈkeɪʃən. gʊd kəmˌjunəˈkeɪʃən ɪz nɑt æz ˈizi æz ɪt əˈpɪrz. ɪt teɪks hɑrd wɜrk ænd jɪrz ʌv ˈpræktəs. θæŋks fɔr ˈbiɪŋ hir ænd ˈlɪsənɪŋ tu maɪ spiʧ. aɪ hoʊp aɪ meɪd maɪ ˈmɛsəʤ klɪr. aɪ hoʊp ju meɪk ɪt ə goʊl hir tu ɪmˈpruv jʊər kəmˌjunəˈkeɪʃən. θæŋks fɔr jʊər əˈtɛnʃən.</item> -->
+        <!-- 21 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ wɑnt tu tɔk əˈbaʊt kɛr. ðə ˈbɪgəst ˈprɑbləm ˈfeɪsɪŋ ðə wɜrld təˈdeɪ ɪz ə læk ʌv kɛr. ˈpipəl ˈoʊnli kɛr əˈbaʊt ðɛmˈsɛlvz. ðeɪ doʊnt kɛr əˈbaʊt ˈʌðər ˈpipəl, ðeɪ doʊnt ˈivɪn kɛr əˈbaʊt ðɛr ˈfæməli, ðeɪ doʊnt kɛr əˈbaʊt ði ɪnˈvaɪrənmənt, ðeɪ doʊnt kɛr əˈbaʊt ðɛr kəmˈjunəti. wɜrst ʌv ɔl ðeɪ doʊnt kɛr əˈbaʊt ðɛr ˈkʌntri. aɪm hir tu ɛnˈkɜrɪʤ ju tu stɑrt ˈkɛrɪŋ. wi ɔl wɑnt tu bi ˈtritəd ˈfɛrli. wi ɔl wɑnt tu bi lʌvd, wi ɔl wɑnt tu bi ˈteɪkən kɛr ʌv. wi ɔl nid klin ɛr tu brið. wi ɔl nid klin ˈwɔtər tu drɪŋk. wi ɔl nid grin ˈpleɪsəz tu ɛnˈʤɔɪ. wi ɔl ʃɛr ðə seɪm ˈmʌðərˌlænd. wi ɔl ʃɛr ðə seɪm ɪˈmoʊʃənz. lɛts du ˈaʊər bɛst tu stɑrt ˈkɛrɪŋ mɔr.\nˈsupər ˈɪŋglɪʃ - ˈstɑrtər</item> -->
+        <!-- 22 -->
+        <!-- <item>pur ˈætəˌtudz lid tu pur kəmˌjunəˈkeɪʃən.\npur kəmˌjunəˈkeɪʃən lidz tu pur ˈsɜrvəs.\npur ˈsɜrvəs lidz tu noʊ ˈkʌstəmɜrz.\nnoʊ ˈkʌstəmɜrz lidz tu noʊ ˈkʌmpəni.\nnoʊ ˈkʌmpəni lidz tu noʊ ʤɑb.\nnoʊ ʤɑb lidz tu noʊ ˈmʌni.\nnoʊ ˈmʌni lidz tu noʊ fud.\nɪn ði ɛnd, ə pur ˈætəˌtud ˈrɪli meɪk ju pur.\nsəkˈsɛs ɪz ˈgoʊɪŋ frʌm ˈfeɪljər tu ˈfeɪljər wɪˈθaʊt ˈluzɪŋ jʊər ɪnˈθuziˌæzəm.</item> -->
+        <!-- 23 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, ˈmʌðɜrz ænd ˈfɑðɜrz, təˈdeɪ aɪd laɪk tu tɔk əˈbaʊt haʊ tu bi ə gʊd ˈpɛrənt. ˈbiɪŋ ə ˈpɛrənt ɪz ðə ˈtʌfəst ʤɑb ɪn ðə wɜrld. ˈpɛrənts ʃʊd bi ˈpeɪʃənt. ˈpɛrənts ʃʊd hɛlp ðɛr ˈʧɪldrən groʊ. ˈpɛrənts ʃʊd nɑt pʊʃ ðɛr ˈʧɪldrən tu mʌʧ. ˈpɛrənts ʃʊd ˈɔlˌweɪz bi praʊd ʌv ðɛr ˈʧɪldrən. ˈpɛrənts ʃʊd lʌv ðɛr ˈʧɪldrən ˌʌnkənˈdɪʃənəli. rɪˈmɛmbər, ˈnoʊˌbɑˌdi ɪz ˈpɜrˌfɪkt. ɪf ju wɑnt jʊər ʧaɪld groʊ ʌp ˈhɛlθi ænd ˈhæpi, pliz rɪˈmɛmbər ðɪs ɪmˈpɔrtənt ænd ˈpræktəkəl ædˈvaɪs.\nˌɪnspəˈreɪʃən kʌmz frʌm ˈwɜrkɪŋ æz hɑrd æz ju kæn ˈɛvəri deɪ.\nˈsupər ˈɪŋglɪʃ - ˈstɑrtər</item> -->
+        <!-- 24 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, bɔɪz ænd gɜrlz, təˈdeɪ aɪ wɑnt tu tɔk əˈbaʊt ˈbɪldɪŋ ə ˈbɛtər ˈfæməli. ˈɛvriˌwʌn wɑnts ə ˈbɛtər ˈfæməli. bʌt moʊst ˈpipəl doʊnt noʊ haʊ tu kriˈeɪt wʌn. hir ɑr sʌm ˈhɛlpfəl tɪps. bɔɪz ænd gɜrlz, ju nid tu bɪˈheɪv. ju nid tu bi kaɪnd. ju nid tu ˈɔlˌweɪz traɪ jʊər bɛst. ju nid tu bɪˈliv ɪn jərˈsɛlf ænd bɪˈliv ɪn jʊər ˈpɛrənts. jʊər ˈpɛrənts ˈrɪli wɑnt wʌt ɪz bɛst fɔr ju.\nˈmʌðər ænd ˈfɑðɜrz, ju nid tu bi ˈpeɪʃənt. ju nid tu baɪ ˈfjuər θɪŋz fɔr ˈʧɪldrən ænd gɪv ðɛm mɔr ʌv jʊər taɪm. ju nid tu rid mɔr bʊks tu lɜrn əˈbaʊt ˈbiɪŋ gʊd ˈpɛrənts. ɪf jʊər ʧaɪld siz ju aɪ ˈrɛdɪŋ bʊks, hi wɪl lʌv bʊks tu. ju nid tu brɪŋ ʌp jʊər ˈʧɪldrən baɪ ˈtiʧɪŋ ðɛm ðə ˈvælju ʌv hæd wɜrk ænd baɪ ˈsɛtɪŋ ə gʊd ɪgˈzæmpəl. ˈʧɪldrən bɪˈliv wʌt ðeɪ si mɔr ðæn wʌt ðeɪ ɑr toʊld. bi ʃʊr ðæt jʊər ʧaɪld ɪz ˈsiɪŋ ðə bɪˈheɪvjər ðæt ju wɑnt hɪm tu ˈmɑdəl. aɪ bɪˈliv ðæt wi kæn meɪk familes ˈbɛtər ænd ˈstrɔŋər baɪ ˈwɜrkɪŋ ænd ˈlɜrnɪŋ təˈgɛðər.</item> -->
+        <!-- 25 -->
+        <!-- <item>tu frɑgz fɛl ˈɪntu ə ˈbʌkət ɑv krim \nðə fɜrst frɑg sɔ ðeər wʌz noʊ weɪ tu gɛt ˈfʊtɪŋ ðə ˈslɪpəri waɪt ˈfluəd, ækˈsɛptɪd hɪz feɪt ænd draʊnd. \nðə ˈsɛkənd frɑg ˈdɪdənt laɪk ðɪs əˈproʊʧ. hi θræʃt əˈraʊnd ænd dɪd ˌwʌˈtɛvər hi saʊndz tu steɪ əˈfloʊt. sun hɪz ˈʧɜrnɪŋ tɜrnd ðə krim ˈɪntu ˈbʌtər ænd hi wʌz ˈeɪbəl tu ʤʌmp aʊt. \nhaʊ pərˈsɪstənt ɑr ju ? </item> -->
+        <!-- 26 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ aɪm ˈgoʊɪŋ tu tɔk əˈbaʊt haʊ tu lɪv ə prəˈdʌktɪv laɪf. ˈɛvəri deɪ ɪz ə gɪft, ˈivɪn deɪz ðæt ɑr ˈdɪfəkəlt ɔr deɪz ju fil daʊn. əˈpriʃiˌeɪt ˈɛvəri deɪ. lɜrn ˈsʌmθɪŋ nu ˈɛvəri deɪ. du ˈsʌmθɪŋ tu ɪmˈpruv jʊər sɛlf ˈɛvəri deɪ. doʊnt dɪˈleɪ. doʊnt lɛt jʊər drimz daɪ. doʊnt weɪst taɪm. ʤʌst du ɪt. laɪf ɪz tu ʃɔrt tu weɪst ˈivɪn wʌn ˈsɪŋgəl deɪ. ɪf ju lɪv ˈɛvəri deɪ ˈfʊli ænd prəˈdʌktɪvli, jʊr baʊnd tu səkˈsid. rɪˈmɛmbər, ˈjɛstərˌdeɪ ɪz ə ˈmɛməri, təˈmɑˌroʊ ɪz ə drim, lɪv fɔr təˈdeɪ. \nðə weɪ tu hæv ə ˈbɛtər təˈmɑˌroʊ ɪz tu stɑrt ˈwɜrkɪŋ ɑn ɪt təˈdeɪ.\nˈsupər ˈɪŋglɪʃ – ˈstɑrtər</item> -->
+        <!-- 27 -->
+        <!-- <item>lʊk bæk! si haʊ ˈmɛni gʊd θɪŋz hæv ˈhæpənd tu ju sɪns ju wɜr bɔrn. æd ʌp ɔl jʊər əˈkɑmplɪʃmənts frʌm ɔl jʊər ˈjɛstərˌdeɪz ænd jul bi sərˈpraɪzd tu si juv kʌm frʌm ˈnoʊˌwɛr tu ˈsʌmˌwɛr. \nlʊk əˈraʊnd! si haʊ ˈmɛni gʊd θɪŋz ɑr ˈhæpənɪŋ tu ju təˈdeɪ.\nlʊk əˈhɛd! si haʊ ˈmɛni gʊd θɪŋz kæn ˈhæpən ɪn ɔl ʌv jʊər təˈmɑˌroʊz ɪf jul ˈoʊnli kip ðə feɪθ.</item> -->
+        <!-- 28 -->
+        <!-- <item>ˈdilɪŋ wɪð ˈpipəl laɪk ˈdɪgɪŋ wɛn ju ˈdɪgɪŋ fɔr ən aʊns ʌv goʊld, ju hæv tu muv tʌnz ʌv dɜrt tu gɛt ən aʊns ʌv goʊld. bʌt wɛn ju goʊ ˈdɪgɪŋ, ju doʊnt goʊ ˈlʊkɪŋ fɔr ðə dɜrt, ju goʊ ˈlʊkɪŋ fɔr ðə goʊld. wʌt ɪz jʊər ˈfoʊkəs? bɪˈkʌm ə ˈdɪgər ʌv goʊld. ɪf ju ɑr ˈlʊkɪŋ fɔr wʌt ɪz rɔŋ wɪð ˈpipəl ɔr wɪð θɪŋz, ju wɪl faɪnd ˈmɛni. \nˈfoʊkəs ɑn ðə gʊd, nɑt ɑn ðə bæd. dɪg fɔr ðə gʊd ɪn ɔl ˈpipəl ənˈtɪl ju riʧ ðə goʊld ɪn ə ˈpɜrsən. doʊnt ˈwɜri əˈbaʊt ðə dɜrt.\nˈfeɪljər ɪz səkˈsɛs ɪf wi lɜrn frʌm ɪt.\nˈsupər ˈɪŋglɪʃ – ˈstɑrtər</item> -->
+        <!-- 29 -->
+        <!-- <item>maɪ ˈfeɪvərɪt fud ɪz fæst fud. ɪt seɪvz ə lɑt ʌv taɪm doʊnt kɛr fɔr ˈfænsi ˈdɪnɜrz. aɪ θɪŋk ˈpipəl ʃʊd fərˈgɛt əˈbaʊt ˈweɪstɪŋ taɪm ænd ˈmʌni ɑn ɪkˈspɛnsɪv fud. ɪt ˈrɪli ˈdʌzənt ˈmætər ɪf ju it ɪkˈspɛnsɪv fud ɔr fæst fud æz lɔŋ æz ðə fud ɪz nuˈtrɪʃəs.\nˈsupər ˈɪŋglɪʃ – ˈstɑrtər</item> -->
+        <!-- 30 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪ hoʊp ju wɪl hæv ə ˈvɛri naɪs taɪm hir ɪn viˌɛtˈnɑm. ðeər ɑr ˈmɛni ˈbjutəfəl vjuz, ˈkaʊntləs hɪˈstɔrɪkəl saɪts, ænd ə vəˈraɪəti ʌv dɪˈlɪʃəs fudz fɔr ju tu ɛnˈʤɔɪ. viˌɛtˈnɑm ɪz ə greɪt pleɪs tu du ˈbɪznəs. viˌɛtˈnɑm ɪz ə ˈwʌndɜrfəl pleɪs fɔr ə veɪˈkeɪʃən. aɪ hoʊp ju wɪl fɔl ɪn lʌv wɪð viˌɛtˈnɑm. aɪ bɪˈliv! viˌɛtˈnɑm ɪz ə fænˈtæstɪk pleɪs tu ˈvɪzət ænd ə ˈmɑrvələs pleɪs tu lɪv. ɪf ðeər ɪz ˈɛniˌθɪŋ aɪ kæn du fɔr ju, pliz lɛt mi noʊ. aɪ hoʊp aɪ ju wɪl ˈvɪzət viˌɛtˈnɑm əˈgɛn ænd əˈgɛn.\nbaɪ ˈhɛlpɪŋ ˈʌðɜrz, ju wɪl fil gʊd əˈbaʊt jərˈsɛlf.\nˈsupər ˈɪŋglɪʃ - ˈstɑrtər</item> -->
+        <!-- 31 -->
+        <!-- <item> ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪm sæd ðæt ðɪs spiʧ maɪ ˌfɛrˈwɛl taɪmz spiʧ. ˈhæpi taɪm ˈɔlˌweɪz pæs tu ˈkwɪkli. maɪ tu jɪrz steɪ ɪn viˌɛtˈnɑm wɪl kʌm tu ən ɛnd sun. aɪ wɪl mɪs ju. aɪ wɪl mɪs maɪ ˈstudənts. aɪ wɪl mɪs ɔl maɪ frɛndz. aɪ wɪl mɪs viˌɛtˈnɑm. ænd ʌv kɔrs, aɪ wɪl mɪs viɛtnɑˈmis fud. aɪ wɪl kʌm bæk tu viˌɛtˈnɑm æz sun æz aɪ kæn. θæŋk ju fɔr ˈmeɪkɪŋ maɪ steɪ ˈwʌndɜrfəl ɪkˈspɪriəns. θæŋk ju fɔr jʊər ˌhɑspəˈtæləti. moʊst ʌv ɔl, θæŋk ju fɔr jʊər ənˈpɛrəˌlɛld ˈfrɛndʃɪp.\nðə ki tu ˈlɔŋˈtɜrm səkˈsɛs ɪz fɔr ju tu ˈdɛdəˌkeɪt jərˈsɛlf ɪn kənˈtɪnjuəs ɪmˈpruvmənt.\nˈsupər ˈɪŋglɪʃ - ˈstɑrtər</item> -->
+        <!-- 32 -->
+        <!-- <item>mɔr ænd mɔr ˈpipəl ɑr ˈstɑrtɪŋ tu ˈriəˌlaɪz ðə ˈbɛnəfɪts ʌv ˈɛksərˌsaɪz. ˈɛksərˌsaɪz ɪz ði ˈoʊnli weɪ tu hæv ə ˈhɛlθi ˈbɑdi ænd ˈhɛlθi maɪnd. ˈɛksərˌsaɪz ɪz ði ˈoʊnli weɪ tu luz weɪt. ðeər ɑr ˈmɛni kaɪndz ʌv ˈɛksərˌsaɪz. ɪt ɪz ˈizi tu ʧuz wʌn ðæt suts ju. ði ɪmˈpɔrtənt θɪŋ tu rɪˈmɛmbər ɪz ðæt ˈɛksərˌsaɪz nidz tu bi ə pɑrt ʌv jʊər ˈdeɪli laɪf. pliz teɪk kɛr ʌv jʊər ˈbɑdi ænd stɑrt ən ˈɛksərˌsaɪz ˈproʊˌgræm təˈdeɪ. ˈfɪzɪkəl hɛlθ ænd ˈmɛntəl hɛlθ kæn boʊθ bi ɪmˈpruvd wɪð ˈrɛgjələr ˈɛksərˌsaɪz. siz ðə deɪ. siz ðə ˈmoʊmənt. siz kənˈtroʊl ʌv jʊər hɛlθ. ˈɛksərˌsaɪz fɔr ə ˈlɔŋgər, ˈhɛlθiər laɪf! θæŋks fɔr jʊər əˈtɛnʃən.\ˈɔlˌweɪz hæv ˈkɑnfədəns ɪn jərˈsɛlf.\nˈsupər ˈɪŋglɪʃ - ˈstɑrtər</item> -->
+        <!-- 33 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪ hæv ˈmɛni ˈwɪʃɪz. aɪ wɪʃ ˈpipəl ɔl ˈoʊvər ðə wɜrld wɪl lʌv iʧ ˈʌðər mɔr. aɪ wɪʃ ˈpipəl wɪl stɑp ˈweɪstɪŋ ˈɛnɜrʤi. aɪ wɪʃ ˈpipəl wɪl bi lɛs ˈsɛlfɪʃ. aɪ wɪʃ ˈpipəl wɪl ʃɛr ˈhæpi ˈfilɪŋz mɔr ˈfrili ænd nɑt kip ðɛr ɪˈmoʊʃənz ʃʌt ʌp ɪnˈsaɪd. aɪ wɪʃ ˈpipəl kʊd faɪnd kjʊrz fɔr ˈkænsər ænd eɪdz. ɪn ʃɔrt, aɪ wɪʃ ðə wɜrld kʊd bi ə ˈbɛtər pleɪs. θæŋk ju fɔr ˈlɛtɪŋ mi ʃɛr ɔl maɪ ˈwɪʃɪz wɪð ju.\nðə ki tu ˈlɔŋˈtɜrm səkˈsɛs ɪz fɔr ju tu ˈdɛdəˌkeɪt jərˈsɛlf tu kənˈtɪnjuəs ɪmˈpruvmənt.\nˈsupər ˈɪŋglɪʃ – ˈstɑrtə</item> -->
+        <!-- 34 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ wɑnt tu tɔk əˈbaʊt ˈtɛləˌvɪʒən ænd haʊ ˈdeɪnʤərəs ɪt ɪz fɔr ˈʧɪldrən. ˈʧɪldrən təˈdeɪ wɑʧ tu mʌʧ ˈtɛləˌvɪʒən. ˈtɛləˌvɪʒən ɪz ˈhɑrmfəl tu dɪˈvɛləpɪŋ maɪndz. ˈʧɪldrən ˈjuʒəwəli wɑʧ fɑr mɔr ˈtɛləˌvɪʒən ðæn ðɛr ˈpɛrənts ˈriəˌlaɪz. ˈʧɪldrən ʃʊd ˈoʊnli wɑʧ ˈtɛləˌvɪʒən wɛn ðeər ɪz ə ˌɛʤəˈkeɪʃən ˈproʊˌgræm ˈʃoʊɪŋ ɔr ɑn ˈspɛʃəl əˈkeɪʒənz. ɪt ɪz ə ˈtɛrəbəl ˈhæbət aɪ tu ʤʌst ˈkæʒəwəli tɜrn ɑn ðə ˈtɛləˌvɪʒən ænd liv ɪt ɑn fɔr ˈaʊɜrz æt ə taɪm. rɪˈmɛmbər, wɛn ju swɪʧ ɑn ðə ˈtɛləˌvɪʒən, ju ɑr ˈswɪʧɪŋ ɔf jʊər ʧaɪldz maɪnd. meɪk ə waɪz dɪˈsɪʒən ænd ˈlɪmət jʊər ʧaɪldz ˈtɛləˌvɪʒən taɪm.\nˈsupər ˈɪŋglɪʃ – ˈstɑrtər</item> -->
+        <!-- 35 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, ðeər ɑr θri θɪŋz. aɪ wɑnt tu tɔk əˈbaʊt təˈdeɪ. ðə fɜrst θɪŋ ɪz, θɪŋk bɪˈfɔr ju spik. seɪ ˈpɑzətɪv θɪŋz, doʊnt hɜrt ˈʌðər ˈpipəl wɪð wɜrdz. ðə ˈsɛkənd θɪŋ ɪz, ˈtrɛʒər ˈɛvəri brɛθ. laɪf ɪz ˈprɛʃəs. wi ˈʃʊdənt teɪk ˈɛniˌθɪŋ fɔr ˈgræntəd. wi mʌst bi ˈθæŋkfəl fɔr ˈɛvəri brɛθ. ðə θɜrd θɪŋ ɪz, ˈnʌθɪŋ ɪz ɪmˈpɑsəbəl. ɪf ju θɪŋk ju kæn, ju kæn. ˈnɛvər daʊt jərˈsɛlf. ju kæn du ˈɛniˌθɪŋ. ðiz θri θɪŋz hæv hɛlpt mi θruˈaʊt maɪ laɪf\nθæŋk ju.\nˈsupər ˈɪŋglɪʃ – ˈstɑrtər</item> -->
+        <!-- 36 -->
+        <!-- <item>ˈfɑðɜrz ænd ˈmʌðɜrz ɑr ðɛr ˈʧɪldrənz fɜrst ˈtiʧɜrz. wʌt ðeɪ seɪ ænd wʌt ðeɪ du dəˈtɜrmən ˈwɛðər ðɛr ˈʧɪldrən wɪl bi səkˈsɛsfəl ɔr nɑt. ˈfɑðɜrz ænd ˈmʌðɜrz ʃʊd ˈniðər bi tu strɪkt nɔr tu ɪnˈdʌlʤənt. ɪts hɑrd tu bi ə gʊd ˈpɛrənt. ðæts waɪ ˈfɑðɜrz ænd ˈmʌðɜrz ʃʊd ˈɔlˌweɪz ˈstʌdi təˈgɛðər ðə bɛst weɪ tu reɪz ə ʧaɪld.\nˈsupər ˈɪŋglɪʃ – ˈstɑrtər</item> -->
+        <!-- 37 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ lɜrn sʌm ʌv ðə moʊst ˈkɑmən ˈgritɪŋz ɪn ˈɪŋglɪʃ ʌv kɔrs, ðeər ɪz ðə ˈbeɪsɪk "həˈloʊ". ðeər ɑr ˈɔlsoʊ ˈmɛni ˈkwɛsʧənz, sʌʧ æz "haʊ ɑr ju? haʊ ɑr ju ˈduɪŋ? haʊz ˈɛvriˌθɪŋ? haʊz ɪt ˈgoʊɪŋ?" ɔl ʌv ðiz ˈgritɪŋz ɑr ɪnˈfɔrməl ænd ˈvɛri ˈkɑmən ɪn əˈmɛrəkən ˈɪŋglɪʃ. ɪn ˈbrɪtɪʃ ˈɪŋglɪʃ ɪt ɪz mɔr ˈkɑmən tu hir "haʊ du ju du?" ɪf ju ɑr kənˈfjuzd baɪ ɔl ʌv ðɪs ˌɪnfərˈmeɪʃən, doʊnt ˈwɜri. ju kæn ˈɔlˌweɪz ʤʌst seɪ "haɪ”. ə ˈhæpi smaɪl ænd ə ˈkɑnfədənt "haɪ" wɪl wɪn frɛndz ˈɛniˌwɛr ju goʊ. doʊnt ˈwɜri, ʤʌst ænd ˈpræktəs. ju kæn ˈmæstər ˈɪŋglɪʃ. hæv fʌn.\ndu wʌt ju laɪk ænd laɪk wʌt ju du.</item> -->
+        <!-- 38 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ wɑnt tu tɔk əˈbaʊt ði ɪmˈpɔrtəns ʌv ˈnoʊɪŋ raɪt frʌm rɔŋ. ɪt ɪz ɪmˈpɔrtənt tu ˈɔlˌweɪz du ðə raɪt θɪŋ. ˈmɑrtən ˈluθər kɪŋ sɛd "ðə taɪm ɪz ˈɔlˌweɪz raɪt tu du ðə raɪt θɪŋ. ðiz wɜrdz ɑr ˈrɪli tru. ju ʃʊd ˈɔlˌweɪz ʧuz tu du ðə raɪt θɪŋ, ˈivɪn ɪf rɔŋ θɪŋ. ju ʃʊd ˈɔlsoʊ ɪt ɪz ˈhɑrdər ðæn ði ɛnˈkɜrɪʤ ˈɛvriˌwʌn əˈraʊnd ju tu du ðə raɪt θɪŋ. bi ˈɑnəst. bi fɛr. bi kaɪnd. ðə raɪt θɪŋ tu du ɪz ˈɔlˌweɪz ˈvɛri ˈsɪmpəl tu ˌʌndərˈstænd, bʌt səmˈtaɪmz ˈvɛri hɑrd tu du. lɛts hɛlp iʧ ˈʌðər, riˈmaɪnd iʧ ˈʌðər, ænd ɛnˈkɜrɪʤ iʧ ˈʌðər tu du ðə raɪt θɪŋ.</item> -->
+        <!-- 39 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪm frʌm viˌɛtˈnɑm. aɪm viɛtnɑˈmis. aɪm praʊd ʌv maɪ ˈkʌntri, ænd aɪm praʊd ʌv ˈbiɪŋ viɛtnɑˈmis. viˌɛtˈnɑm hæz ʧeɪnʤd trəˈmɛndəsli ɪn ðə pæst ˈtwɛnti jɪrz. viˌɛtˈnɑm hæz bɪˈkʌm ə ˈmɛmbər ʌv ðə wɜrld kəmˈjunəti. viˌɛtˈnɑm ɪz ˈʧeɪnʤɪŋ ˈɛvəri deɪ. viɛtnɑˈmis ˈpipəl ɑr ɛmˈbreɪsɪŋ ˈʧeɪnʤəz. viɛtnɑˈmis ˈpipəl ɑr ˈɔlsoʊ ˈfeɪsɪŋ ˈmɛni ˈʧælənʤɪz naʊ. wi ɑr ˈigər tu frʌm ðə wɜrld. aɪ æm hir təˈdeɪ tu lɜrn frʌm ju. aɪm ʃʊr wi wɪl lɜrn ˈvɛri mʌʧ frʌm iʧ ˈʌðər. θæŋk ju ˈvɛri mʌʧ fɔr jʊər əˈtɛnʃən. θæŋk ju ˈvɛri mʌʧ fɔr ˈgɪvɪŋ mi ðə ʧæns aɪ tu spik tu ju təˈnaɪt.\nɪf ˈʌðɜrz kæn du ɪt, aɪ kæn du ɪt.</item> -->
+        <!-- 40 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪm ˈgoʊɪŋ tu tɔk əˈbaʊt ʤɑbz. ɪf ju wɑnt tu səkˈsid, ju mʌst fɔl ɪn lʌv wɪð jʊər ʤɑb. ju mʌst ɛnˈʤɔɪ jʊər ʤɑb. ɪf doʊnt ʧeɪnʤ jʊər ˈætəˌtud ænd ʤʌst θɪŋk ʌv jʊər ʤɑb æz ə ˈbɜrdən, jʊr nɑt ˈgoʊɪŋ tu du ˈɛni ʤɑb wɛl. ˈɛvəri ʤɑb ɪz ɪmˈpɔrtənt, noʊ ˈmætər haʊ smɔl ɪt meɪ bi. ˈɛvəri ʤɑb kæn tiʧ ju ˈsʌmθɪŋ. ˈɛvəri ʤɑb ɪz wɜrθ ˈduɪŋ wɛl. ˈɛvəri ʤɑb ɪz ˈglɔriəs. ˈɛvəri ʤɑb kæn kənˈtrɪbjut tu səˈsaɪəti. bi praʊd ʌv jʊər ʤɑb. du ɪt wɛl. lɜrn tu ɛnˈʤɔɪ, jʊər ʤɑb, ænd ju wɪl ɛnˈʤɔɪ jʊər laɪf mʌʧ mɔr. rɪˈmɛmbər: ɪf ju ɛnˈʤɔɪ jʊər ʤɑb, jul ˈnɛvər wɜrk ə deɪ ɪn jʊər laɪf.</item> -->
+        <!-- 41 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪd laɪk tu meɪk smɔl spiʧ əˈbaʊt ˈfæməli. aɪ hæv ə ˈkwɛsʧən tu æsk ɔl ʌv ju. wʌt ɪz ðə moʊst ɪmˈpɔrtənt θɪŋ ɪn jʊər laɪf? aɪ noʊ ˈmɛni ʌv ju wɪl seɪ, ˈmʌni ɪz ðə moʊst ɪmˈpɔrtənt. bʌt aɪ wɑnt tu tɛl ju, ˈmɛni θɪŋz ɑr mɔr ɪmˈpɔrtənt ðæn ˈmʌni ɪn laɪf. ɪts ə ʃeɪm ðæt moʊst ˈpipəl doʊnt ˈriəˌlaɪz ðɪs. ˈfæməli, hiθ, ænd ˈhæpinəs ɑr mʌʧ mɔr ɪmˈpɔrtənt ðæn ˈmʌni. wɪˈθaʊt ˈfæməli, hɛlθ, ænd ˈhæpinəs, ˈmʌni minz ˈnʌθɪŋ. meɪk ʃʊr ju rɪˈmɛmbər ðɪs ɪmˈpɔrtənt ˈlɛsən ænd spɛnd taɪm wɪð jʊər ˈfæməli. ˈpipəl hu spɛnd mɔr taɪm wɪð ðɛr ˈfæməliz ɑr ˈjuʒəwəl ˈhɛlθiər ænd ˈhæpiər. ˈprɛʃəs ˈmɪnəts ʌv ˈfæməli taɪm ɑr wɜrθ mɔr ðæn ˈmʌni. meɪk jʊər ˈfæməli jʊər fɜrst praɪˈɔrəti.</item> -->
+        <!-- 42 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪd laɪk oʊ tɔk əˈbaʊt nɔɪz pəˈluʃən. ðeər ɪz tu mʌʧ nɔɪz ɪn ˈaʊər ˈsɪtiz. ɪn sʌm ˈsɪtiz, ju kænt ˈivɪn hir ˈsʌmˌwʌn ˈspikɪŋ nɛkst tu ju. nɔɪz ɪz ˈhɜrtɪŋ ˈaʊər hɛlθ ænd ˈhirɪŋ. wi nid tu du ˈsʌmθɪŋ tu rəˈdus nɔɪz. wi nid nu lɔz tu ˈpʌnɪʃ ˈkʌmpəniz ænd ˌɪndəˈvɪʤəwəlz hu meɪk tu mʌʧ nɔɪz. lɛts wɜrk təˈgɛðər tu rəˈdus nɔɪz ænd kriˈeɪt ə mɔr ˈpisfəl ɪnˈvaɪrənmənt. θæŋk ju ˈvɛri mʌʧ fɔr jʊər əˈtɛnʃən.\nwɛr ju faɪnd səkˈsɛs, ju faɪnd ˈsækrəˌfaɪs. wɛr ju faɪnd səkˈsɛs, ju faɪnd ˈsʌfərɪŋ.</item> -->
+        <!-- 43 -->
+        <!-- <item>rid æt list 30 ˈmɪnəts ə deɪ.\nrid ˈsʌmθɪŋ ʌv ˈsʌbstəns, ˈsʌmθɪŋ ʌv ˈvælju, ˈsʌmθɪŋ ðæt ɪz ˈnɜrɪʃɪŋ ænd gɪvz ju ˌɪnspəˈreɪʃən ɪz mɔr ɪmˈpɔrtənt ðæn ˈitɪŋ. wi spɛnd soʊ mʌʧ taɪm ˈfidɪŋ ˈaʊər ˈbɑdiz, bʌt ˈɔfən fərˈgɛt tu fid ˈaʊər maɪndz. mɪs ə mil, bʌt doʊnt mɪs jʊər ˈrɛdɪŋ.</item> -->
+        <!-- 44 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪd laɪk tu gɪv ju ə ʃɔrt ˌɪntrəˈdʌkʃən əˈbaʊt viˌɛtˈnɑm. viˌɛtˈnɑm hæz ə lɑrʤ ˌpɑpjəˈleɪʃən, ˈkʌlɜrfəl ˈpipəl ænd væst lænd. viˌɛtˈnɑm lænd ˈkʌvɜrz 327 ˈθaʊzənd skwɛr kəˈlɑˌmʌtɜrz. ðeər ɑr ˈɔlsoʊ ˈmɛni ˈlæŋgwəʤəz ˈspoʊkən ɪn viˌɛtˈnɑm. viɛtnɑˈmis ˈpipəl lʌv ˈlɜrnɪŋ ɔl kaɪndz ʌv θɪŋz ænd ɑr ˈkreɪzi əˈbaʊt ˈlɜrnɪŋ ˈɪŋglɪʃ. ðə ˈfjuʧər lʊks braɪt fɔr viˌɛtˈnɑm. lɛts ˈkɑŋkər ˈɪŋglɪʃ tu ʃoʊ ˈaʊər lʌv fɔr ˈaʊər ˈmʌðərˌlænd. θæŋk ju fɔr ˈlɪsənɪŋ.\nˈækʃən ɪz ðə faʊnˈdeɪʃənəl ki tu ɔl səkˈsɛs.</item> -->
+        <!-- 45 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, ˈwɛlkəm tu ˈaʊər hoʊˈtɛl. aɪ hoʊp jul it wɛl, slip wɛl, ænd ɛnˈʤɔɪ ˈaʊər ˈsɜrvəs. naʊ lɛt mi tɛl ju ˈsʌmθɪŋ əˈbaʊt ˈaʊər hoʊˈtɛl. ˈaʊər hoʊˈtɛl ɪz ði ˈoʊldəst ɪn ðə ˈsɪti. ɪt hæz ə lɔŋ ˈhɪstəri. ˈmɛni ˈfeɪməs ˈpipəl hæv steɪd ɪn ˈaʊər hoʊˈtɛl. ˌɔlˈðoʊ ˈaʊər hoʊˈtɛl ɪz oʊld, ɪt wʌz ˈrisəntli riˈmɑdəld. aɪm ʃʊr ju wɪl əˈgri ˈaʊər hoʊˈtɛl ɪz ˈbjutəfəl æz wɛl æz ˈkʌmfɜrtəbəl. wi ˈwɔrmli ˈwɛlkəm ju tu kʌm bæk əˈgɛn ænd əˈgɛn. hæv ə ˈlʌvli steɪ hir.\nðə bɛst weɪ tu dɪˈvɛləp ˈkɜrəʤ ɪz tu sɛt ə goʊl ænd əˈʧiv ɪt, aɪ meɪk ə ˈprɑməs ænd kip ɪt.</item> -->
+        <!-- 46 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, wi nid tu teɪk kɛr ʌv ðə wɜrld. wi nid tu seɪv ˈwɔtər. wi nid tu juz lɛs ˈɛnɜrʤi. wi nid tu wɑʧ ˈaʊər ˈdeɪli ˈækʃənz. wi nid tu prəˈtɛkt ˈaʊər ɪnˈvaɪrənmənt hɑrt ænd soʊl. wi stɑp pəˈlutɪŋ. wi nid tu wɑʧ nid tu prəˈtɛkt ˈaʊər ɪnˈvaɪrənmənt kænt kip ˈweɪstɪŋ ðə wɜrldz ˈrisɔrsɪz. wi kænt kip əˈbjuzɪŋ ˈaʊər ɛnˈvaɪroʊmənt. wi kænt kip ˈweɪstɪŋ ðə wɜrldz ˈrisɔrsɪz. wi nid tu ʧeɪnʤ ðə weɪ wi lɪv. wi ɔl nid tu wɜrk təˈgɛðər tu meɪk ˈaʊər wɜrld ə ˈbɛtər pleɪs.\naɪ wɪl smæʃ ɔl ˈɑbstəkəlz ɪn maɪ weɪ.\nˈfɑloʊ jʊər ˈpæʃən ænd səkˈsɛs wɪl ˈfɑloʊ ju.</item> -->
+        <!-- 47 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, aɪ wɑnt tu ʃɛr ən ɪmˈpɔrtənt wɪð ju ˈjɛstərˌdeɪ ɪz ə ˈmɛməri, təˈmɑˌroʊ ɪz ə drim, lɪv fɔr təˈdeɪ!". aɪ hoʊp ðæt ju wɪl traɪ jʊər bɛst tu juz jʊər juˈnik ˈtælənts tu meɪk təˈdeɪ prəˈdʌktɪv ænd ˈfrutfəl. ju ˈkænɑt ˈwɜri əˈbaʊt jʊər mɪsˈteɪks ʌv ˈjɛstərˌdeɪ. ju ʃʊd nɑt weɪst jʊər ˈɛnɜrʤi ˈwɜriɪŋ əˈbaʊt wʌt wɪl ˈhæpən təˈmɑˌroʊ. ði ˈoʊnli θɪŋ ju kæn kənˈtroʊl ɪz wʌt ju du təˈdeɪ. meɪk ðə moʊst ʌv təˈdeɪ ænd ju wɪl wɪn ˈɛvriˌθɪŋ. θæŋk ju fɔr jʊər taɪm ænd əˈtɛnʃən.\nɪf ju ˈnɛvər kwɪt, ju ˈnɛvər feɪl.</item> -->
+        <!-- 48 -->
+        <!-- <item>ə fju tɪps fɔr ˈlɜrnɪŋ ˈɪŋglɪʃ ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪd laɪk tu ʃɛr ə fju trɪks fɔr ˈlɜrnɪŋ ˈɪŋglɪʃ wɪð ju. fɜrst, traɪ tu spik ˈɪŋglɪʃ æz mʌʧ æz ˈpɑsəbəl.ðɪs wɪl treɪn jʊər tʌŋ ˈmʌsəl. ˈsɛkənd, trʌst jʊər əˈbɪləti. doʊnt bi əˈfreɪd tu spik. doʊnt bi træpt baɪ ˈʃaɪnəs. θɜrd, doʊnt lɛt ˈtrʌbəl ju. doʊnt bi træpt baɪ ˈgræmər rulz. ðə mɔr ˈsɛntənsəz ju spik, ðə mɔr ˈnæʧərəl ðə ˈgræmər rulz wɪl bɪˈkʌm. ˈækˌʧuəli, ðə truθ ɪz ðeər ɑr noʊ trɪks ɪn ˈlɜrnɪŋ ˈɪŋglɪʃ. ju mʌst traɪ jʊər ˈvɛri bɛst tu ˈpræktəs. rɪˈmɛmbər, wʌt peɪnz ʌs treɪnz ʌs. θæŋks fɔr jʊər kaɪnd əˈtɛnʃən. aɪ hoʊp ju wɪl traɪ tu spik ˈɪŋglɪʃ frʌm təˈdeɪ.\nbɪˈliv ɪn jərˈsɛlf ænd gʊd θɪŋz wɪl ˈhæpən.\nˈsupər ˈɪŋglɪʃ-ˈstɑrtər</item> -->
+        <!-- 49 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ wɑnt tu tɔk əˈbaʊt haʊ ɪmˈpɔrtənt ɪt ɪz tu drɪŋk ɪˈnʌf ˈwɔtər. ˈdɑktɜrz seɪ ˈɛvriˌwʌn nidz tu drɪŋk æt list eɪt ˈglæsəz ʌv ˈwɔtər iʧ deɪ. ɪf ju ɑr ˈaʊtˈsaɪd ɪn wɔrm ˈwɛðər ɔr ˈɛksərˌsaɪzɪŋ, ju nid tu drɪŋk ˈivɪn mɔr. ɪf jʊər maʊθ ænd θroʊt fil draɪ ju ɑr ɔlˈrɛdi dɪˈhaɪdreɪtəd. ˈmɛni ˈhɛˌdeɪks ænd ˈʌðər hɛlθ ˈprɑbləmz ɑr kɑzd baɪ nɑt ˈdrɪŋkɪŋ ɪˈnʌf ˈwɔtər. ɪf ju wɑnt ˈbɛtər hɛlθ, ju doʊnt nid tu du ˈɛniˌθɪŋ ˈdræstɪk. ju kæn ˈsɪmpli drɪŋk mɔr ˈwɔtər. θæŋk ju fɔr ˈkʌmɪŋ təˈnaɪt ænd hæv ə seɪf draɪv hoʊm.\naɪ wɪl smæʃ ɔl ˈɑbstəkəlz ɪn maɪ weɪ.</item> -->
+        <!-- 50 -->
+        <!-- <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪ wɑnt tu tɔk əˈbaʊt tulle ˈpaʊər ʌv wɜrdz. wɜrdz kæn ɪkˈsprɛs jʊər ˈfilɪŋz. wɜrdz kæn ˈɪnfluəns ˈpipəl. wɜrdz kæn hɜrt ˈpipəl. wɜrdz kæn ɛnˈkɜrɪʤ ˈpipəl. wɜrdz kæn stɑrt wɔrz ænd wɜrdz kæn ɛnd wɔrz. wɜrdz kæn hɛlp ju bɪˈkʌm ə səkˈsɛsfəl ˈspikər ænd ə ˈpaʊɜrfəl ˈlidər. wɜrdz kæn hɛlp ju wɪn frɛndz. ðæts waɪ aɪ fil ˈpʌzəld əˈbaʊt waɪ ʧaɪˈniz ˈstudənts heɪt wɜrdz. ˈstudənts ʃʊd lʌv wɜrdz ænd lɜrn haʊ tu juz ðɛr ˈpaʊər. wɜrdz ɑr ˈbjutəfəl ænd wɜrdz ʃʊd bi ˈaʊər frɛndz. ðæts waɪ ju ʃʊd lɜrn æz ˈmɛni wɜrdz æz ju kæn. stɑrt ˈlɜrnɪŋ ænd ˈjuzɪŋ nu wɜrdz təˈdeɪ.</item> -->
+        <!-- 51 -->
+        <item>wʌt ɪz ˈɪŋglɪʃ? ɑv kɔrs, ɪts ə ˈlæŋgwəʤ. bʌt fɔr ʌs, ɪts nɑt ʤʌst ə ˈlæŋgwəʤ, ɪts ˈɔlsoʊ ə ˈvɛri ɪmˈpɔrtənt tul ænd ˈpaʊɜrfəl ˈwɛpən. ɪt ɪz ˈvɛri ˈnɛsəˌsɛri skɪl fɔr ˈaʊər laɪf ænd ˈaʊər səkˈsɛs ɪn ði 21strit ˈsɛnʧəri.\nwaɪ ʃʊd wi ˈmæstər ðɪs ˈlæŋgwəʤ, tul ɔr ˈwɛpən? \nwaɪ ʃʊd wi spɛnd ə lɑt ɑv taɪm ænd ˈɛnɜrʤi ɑn ˈɪŋglɪʃ: ði ˈænsər ɪz ˈɑbviəs, tu ɪmˈpruv jərˈsɛlf tu sɜrv ˈaʊər ˈkʌntri ænd viɛtnɑˈmis ˈpipəl ænd tu kəmˈjunəˌkeɪt ˈfrili wɪð ðə wɜrld. ðɪs ɪz ˈaʊər ˈʌltəmət  goʊl. ðɪs ɪz ˈaʊər ˈnʌmbər wʌn ˈmɪʃən.\n \nlɛts ˈmæstər ˈɪŋglɪʃ tu prəˈmoʊt ən ˌɪntərˈnæʃənəl kəmˌjunəˈkeɪʃən. \nlɛts ˈmæstər ˈɪŋglɪʃ tu sprɛd viɛtnɑˈmis ˈlæŋgwəʤ ænd ˈkʌlʧər. \nlɛts ˈmæstər ˈɪŋglɪʃ tu meɪk viˌɛtˈnɑm ˈstrɔŋər ænd mɔr ˈprɑspərəs. \nlɛts ˈmæstər ˈɪŋglɪʃ tu meɪk ˈaʊər ˈfjuʧər ˈbraɪtər. \nlɛts ˈmæstər ˈɪŋglɪʃ tu meɪk ˈaʊər wɜrld ə ˈbɛtər pleɪs.\nˈkreɪzi ˈkwɛsʧənz \n1.waɪ du ju θɪŋk ˈɪŋglɪʃ ɪz soʊ ɪmˈpɔrtənt təˈdeɪ? \n2. lɛts ɪˈmæʤən ðæt ju ɑr ˈwɔkɪŋ əˈlɔŋ ðə saɪd wɔk ɑv Hoan Kiem leɪk, sʌm ˈfɔrənɜrz kʌm tu ju ænd æsk fɔr dəˈrɛkʃən. wʌt du ju du ɪn ðɪs keɪs ɪf ju doʊnt noʊ ˈɪŋglɪʃ? \n3. wʌt du ju ˈmæstər ˈɪŋglɪʃ fɔr? \nnoʊ peɪn, noʊ geɪn.  </item>
+        <!-- 52 -->
+        <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪm ˈgoʊɪŋ tu tɔk əˈbaʊt ˈlɜrnɪŋ ˈɪŋglɪʃ. ðeər ɑr ˈmɛni weɪz tu lɜrn ˈɪŋglɪʃ.\nju kæn lɜrn ˈɪŋglɪʃ θru ˈsɪŋɪŋ.\nju kæn lɜrn ˈɪŋglɪʃ θru ˈrɛdɪŋ.\nju kæn lɜrn ˈɪŋglɪʃ θru ˈlɪsənɪŋ,\nænd ju kæn lɜrn ˈɪŋglɪʃ θru ˈraɪtɪŋ.\nbʌt ðə bɛst weɪ tu lɜrn ˈɪŋglɪʃ θru ˈspikɪŋ\nænd riˈsaɪtɪŋ æz ˈmɛni ˈsɛntənsəz æz ˈpɑsəbəl.\nðə mɔr ˈsɛntənsəz ju kæn blɜrt aʊt,ðə ˈbɛtər ˈɪŋglɪʃ ju wɪl spik.\nˈkreɪzi ˈkwɛsʧənz\n1. haʊ mʌʧ taɪm du ju spɛnd ɑn lɜrnɪŋ ˈɪŋglɪʃ ˈɛvriˈdeɪ?\n2. haʊ dɪd ju lɜrn ˈɪŋglɪʃ ˈmɛni jɪrz əˈgoʊ?\n3. haʊ ˈmɛni weɪz tu lɜrn ˈɪŋglɪʃ, kæn ju neɪm sʌm ɑv ðɛm?\n4. wʌt ɪz ðə bɛst weɪ tu lɜrn ˈɪŋglɪʃ wɛl?</item>
+        <!-- 53 -->
+        <item>ˈmɛni ˈpipəl ɑr ˈwɜrid əˈbaʊt ˈlɜrnɪŋ ˈɪŋglɪʃ.ðeɪ θɪŋk ˈɪŋglɪʃ ɪz ˈdɪfəkəlt ænd ɪts hɑrd tu ˈmɛməˌraɪz nu  wɜrdz ænd grəˈmætəkəl rulz.\nɪn fækt, ˈlɜrnɪŋ ˈɪŋglɪʃ kæn bi ə pis ʌv keɪk.\ndoʊnt ˈwɜri əˈbaʊt proʊˌnʌnsiˈeɪʃən.\ndoʊnt ˈwɜri əˈbaʊt ˈgræmər.\ndoʊnt bi əˈfreɪd ʌv ˈmeɪkɪŋ mɪsˈteɪks. ʤʌst traɪ tu spik. spik ˈɪŋglɪʃ æz mʌʧ æz ˈpɑsəbəl. səkˈsɛsfəl ˈpipəl spɛnd ə lɑt ʌv taɪm ˈpræktəs. rɪˈmɛmbər, ˈpræktəs meɪks ˈpɜrˌfɪkt. spik ˈɪŋglɪʃ ˈɛvəri deɪ, ænd ju wɪl ɪmˈpruv.\nɪf ju ˈmæstər ˈɪŋglɪʃ, ju kæn ˈmæstər ðə wɜrld.\nˈkreɪzi ˈkwɛsʧənz \n1.wʌt ɑr ˈpipəl ˈwɜrid əˈbaʊt? \n2. waɪ du ˈpipəl θɪŋk ˈlɜrnɪŋ ˈɪŋglɪʃ ɪz ˈdɪfəkəlt? \n3. du ju ˈwɜri əˈbaʊt prəˌnʌnsiˈeɪʃən? \n4. ɪz ˈlɜrnɪŋ ˈɪŋglɪʃ ɪz ˈdɪfəkəlt ɑv ˈizi? \n5. wʌt ʃʊd ju du tu ɪmˈpruv jʊər ˈɪŋglɪʃ?\n\nlaɪf ɪz laɪk ə ˈbaɪsɪkəl; tu kip ˈbæləns, ju mʌst kip ˈmuvɪŋ. </item>
+        <!-- 54 -->
+        <item>ˈnɛvər kɛr əˈbaʊt haʊ ˈpurli ɔr haʊ wɛl ju spik ˈoʊnli kɛr əˈbaʊt ˈkæʧɪŋ ðə ˈʧænsəz tu spik.ˈnɛvər kɛr əˈbaʊt wʌt ˈʌðər ˈpipəl θɪŋk,ˈoʊnli kɛr əˈbaʊt ˈmeɪkɪŋ ˈprɑˌgrɛs. ɛnˈʤɔɪ ˈluzɪŋ feɪs. ɛnˈʤɔɪ ˈbiɪŋ læft æt. ʤʌst fərˈgɛt əˈbaʊt jʊər feɪs. ʤʌst fərˈgɛt əˈbaʊt jʊər fɪr. \nðə mɔr ju spik, ðə ˈbɛtər jʊər ˈɪŋglɪʃ wɪl bɪˈkʌm. ðə mɔr mɪsˈteɪks ju meɪk, ðə mɔr ˈprɑˌgrɛs ju wɪl meɪk. ju mʌst ɛnˈʤɔɪ ˈmeɪkɪŋ mɪsˈteɪks. ju mʌst ɛnˈʤɔɪ ˈspikɪŋ pur ˈɪŋglɪʃ. ˈspikɪŋ ɪz ði ˈoʊnli θɪŋ ðæt wɪl lid ju təˈwɔrdz səkˈsɛs. doʊnt gɪv ʌp. ʤʌst traɪ jʊər bɛst.  \nˈɛvəri taɪm ju muv jʊər maʊθ, jʊər ˈmɛməri wɪl ˈdipən, jʊər ˈmʌsəlz wɪl ˈstrɛŋθən, jʊər ˈkɑnfədəns wɪl əˈweɪkən. ju wɪl meɪk ɪt. ju wɪl du ɪt. aɪ ˈtoʊtəli bɪˈliv ɪn ju\nˈkreɪzi ˈkwɛsʧənz \n1.wʌt ʃʊd wi kɛr əˈbaʊt? \n2.ʃʊd wi ɛnˈʤɔɪ ˈmeɪkɪŋ mɪsˈteɪks? \n3.waɪ du ju nid tu ɛnˈʤɔɪ ˈluzɪŋ ˈfeɪsəz? \n4.wʌt wɪl lid ju tu wɔrd səkˈsɛs? \n5.wʌt ɑr ðə ˈbɛnəfɪts ɑv ˈmuvɪŋ jʊər maʊθ ˈɛvriˈdeɪ? \n6.haʊ tu hæv ə gʊd ˈmɛməri?\ˈɛvriˌθɪŋ ɪz ˈlɜrnəbl θru ˈpræktəsəz ænd ˌrɛpəˈtɪʃən</item>
+        <!-- 55 -->
+        <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, ˈɛvriˌwʌn wɑnts tu spik ˈɪŋglɪʃ wɛl. təˈdeɪ, aɪm ˈgoʊɪŋ tu tɔk əˈbaʊt ðə ˈsikrəts ʌv ˈspikɪŋ gʊd ˈɪŋglɪʃ. ɪf ju wɑnt tu spik gʊd ˈɪŋglɪʃ, ðeər ɑr ˈsɛvrəl θɪŋz ju mʌst du. ju mʌst kip ɑn ˈpræktəsɪŋ. ju mʌst kip ɑn ˈwɜrkɪŋ hɑrd. ju mʌst kip ɑn ˈmeɪkɪŋ mɪsˈteɪks. ænd ju mʌst kip ɑn ˈluzɪŋ feɪs. ju noʊ ju lɜrn tu spik ˈoʊnli baɪ ˈspikɪŋ.  soʊ ðə moʊst ɪmˈpɔrtənt ki tu ˈspikɪŋ ˈɪŋglɪʃ wɛl ɪz ˈspikɪŋ.  spik æz ˈlaʊdli æz ˈpɑsəbəl, spik æz ˈklɪrli æz ˈpɑsəbəl, ænd spik æz ˈkwɪkli æz ˈpɑsəbəl. ðə mɔr ju spik, ðə ˈbɛtər jʊər ˈɪŋglɪʃ wɪl bi. ðiz ɑr ðə ˈsikrəts ʌv ˈspikɪŋ gʊd ˈɪŋglɪʃ. ˈɛvəri-  wʌn kæn meɪk ɪt. ˈɛvriˌwʌn kæn bi ən ˈɪŋglɪʃ ˈspikɪŋ  ˈʤinjəs. θæŋk ju fɔr ˈkʌmɪŋ.\nˈkreɪzi ˈkwɛsʧənz \n1.wɪʧ meɪn ˈkɑntɛnt dʌz ðɪs ˈpærəˌgræf rəˈfɜr tu? \n2. wʌt mʌst ju du ɪf ju wɑnt tu spik gʊd ˈɪŋglɪʃ? \n3. wʌt ɪz ðə moʊst ˈkruʃəl pɔɪnt tu ˈspikɪŋ gʊd ˈɪŋglɪʃ? \n4. wʌt ʃʊd ju spik æz ˈlaʊdli æz ˈpɑsəbəl,  æz ˈklɪrli æz ˈpɑsəbəl ænd æz ˈkwɪkli æz ˈpɑsəbəl? \n5. du ju θɪŋk ðæt ju kæn lɜrn ˈɪŋglɪʃ wɛl wɪð ðiz ˈsikrəts?</item>
+        <!-- 56 -->
+        <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, ɪf ju wɑnt tu bi ʌv səkˈsɛs,  \nju hæv tu meɪk ʃʊr ðæt ju ˈstʌdi ˈɛvəri deɪ, \nðæt ju ɪmˈpruv jərˈsɛlf ˈɛvəri deɪ  \nðæt ju ˈprɑˌgrɛs ˈɛvəri deɪ, \nænd ðæt ju wɜrk hɑrd ˈɛvəri deɪ. \njʊər səkˈsɛs dɪˈpɛndz ɑn jʊər kəˈmɪtmənt. \nɪf ju pɔr jʊər hɑrt ænd soʊl ˈɪntu wʌt bi ju du, jʊr ʃʊr tu səkˈsɛsfəl. \nˈkreɪzi ˈkwɛsʧənz:\n\n1. neɪm sʌm ʌv ˈfeɪməs ˈpipəl ɪn ðə wɜrld hu ɑr ˈvɛri səkˈsɛsfəl ɪn ðɛr kəˈrɪr.\n2. fɔr ju, wʌt meɪks ðɛm səkˈsɛsfəl?\n3. wʌt mʌst ju du tu bi səkˈsɛsfəl?\n4. wʌt dʌz jʊər səkˈsɛs dɪˈpɛnd ɑn?\n5. wʌt du ju əˈʧiv ɪf ju pɔr jʊər hɑrt ænd soʊl ˈɪntu wʌt ju du?\n\nwɛr ðeər ɪz ə wɪl, ðeər ɪz ə weɪ.</item>
+        <!-- 57 -->
+        <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, lɛt mi tɛl ju ə ˈlɪtəl bɪt əˈbaʊt  maɪ ˈfæməli!\naɪ hæv ə ˈvɛri ˈhæpi ˈfæməli. \nmaɪ dæd ɪz ə grɛit  mən. hi hæz ə fænˈtæstɪk ʤɑb. \nmaɪ mɑm ɪz ə ˈwʌndɜrfəl  ˈwʊmən. ʃi hæz ˈmɛni ˌaʊtˈstændɪŋ ˈtælənts. \nmaɪ ˈfæməli  lʌvz mi. \nmaɪ ˈfæməli səˈpɔrts mi ɪn gʊd taɪmz ænd bæd taɪmz. \nðeɪ hɛlp mi fɔrm ˈmɛni gʊd ˈhæbəts. \nmaɪ mɑm ænd dæd ˈɔlˌweɪz tɛl mi: ɪf aɪ wɑnt tu səkˈsid, aɪ nid tu hæv gʊd ˈhæbəts. \nwi ˈpræktəs ˈspikɪŋ ˈɪŋglɪʃ təˈgɛðər ˈɛvəri ˈmɔrnɪŋ. \nwi hæv ˈdɪnər təˈgɛðər ˈɛvəri naɪt. \nwi tɔk əˈbaʊt ˈaʊər ˈprɑbləmz.\nwi ʃɛr ˈaʊər ʤɔɪz. \nwi ˈɛksərˌsaɪz təˈgɛðər. wi rɪˈlæks təˈgɛðər. \nði ˈætməˌsfɪr ɪn maɪ ˈfæməli ɪz fænˈtæstɪk.\nˈkreɪzi ˈkwɛsʧənz:\n\n1. wʌt dʌz ˈpærəˌgræf rəˈfɜr tu? \n2. haʊ ɪz ði ˈɔθɜrz ˈfɑðər? \n3. haʊ ɪz ði ˈɔθɜrz ˈmʌðər? \n4. haʊ dʌz ðə ˈfæməli səˈpɔrt "aɪ"? \n5. wʌt du ˈmɛmbɜrz ɪn ðə ˈfæməli ˈɔfən du? \n6. haʊ ˈmɛni ˈpipəl du ju hæv ɪn jʊər ˈfæməli?</item>
+        <!-- 58 -->
+        <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪd laɪk tu tɔk əˈbaʊt  ði ɪmˈpɔrtəns ʌv ˈsmaɪlɪŋ ænd ˈkaɪndnəs. \nlaɪf ɪz laɪk ə ˈmɪrər. wɛn ju smaɪl, ˈpipəl wɪl smaɪl bæk. wɛn ju trit ˈʌðər ˈpipəl ˈkaɪndli, ðeɪ wɪl trit ju ˈkaɪndli ɪn rɪˈtɜrn. \ntraɪ tu spɛnd wʌn deɪ ˈsmaɪlɪŋ ænd ˈbiɪŋ kaɪnd tu ˈɛvriˌwʌn ju mit. jul si ə bɪg ˈdɪfərəns ɪn jʊər laɪf. \nɪf ju kip ɑn ˈsmaɪlɪŋ ænd ˈbiɪŋ kaɪnd, ˈsmaɪlɪŋ ænd ˈkaɪndnəs wɪl bɪˈkʌm jʊər ˈhæbəts. \nɪf ˈɛvriˌwʌn traɪd tu du ðɪs, ðə wɜrld wʊd bi ə ˈkaɪndər, ˈbraɪtər ænd ˈhæpiər pleɪs.\nstɑrt ˈsmaɪlɪŋ raɪt ə weɪ!\n\nðə bɛst taɪm tu pərˈsu jʊər drim ɪz naʊ.\nˈkreɪzi ˈkwɛsʧənz \n\n1. haʊ ɪz ˈsmaɪlɪŋ ɪmˈpɔrtənt? \n2.du ju ˈɔfən smaɪl wɪð ˈʌðɜrz əˈraʊnd ju? \n3.du ju θɪŋk ˈsmaɪlɪŋ meɪks ju ˈjʌŋgər ænd ˈhæpiər? \n4.wɛn ju smaɪl, wʌt du ˈpipəl du? \n5.haʊ ɪz ðə wɜrld ɪf ˈɛvriˌwʌn smaɪlz wɪð iʧ ˈʌðər? </item>
+        <!-- 59 -->
+        <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪm ˈgoʊɪŋ tu tɔk əˈbaʊt taɪm.\n\ntaɪm ɪz tu ˈprɛʃəs tu weɪst.\ntaɪm ɪz ˈaʊər ˈgreɪtəst ˈtrɛʒər.\nɪf ju weɪst taɪm, ju weɪst jʊər laɪf.\nˈnɛvər weɪst wʌn ˈmɪnət ʌv jʊər taɪm ɔr ˈʌðər ˈpipəlz taɪm.\ngɛt ˈmuvɪŋ! gɛt ɪkˈsaɪtəd! teɪk ˈækʃən! \ndu ˈsʌmθɪŋ tu meɪk hɑrt bit ˈfæstər ˈɛvəri deɪ. \nmeɪk ðə moʊst ʌv jʊər taɪm. meɪk ðə bɛst juz ʌv jʊər taɪm. \ntaɪm ɪz ə gɪft. doʊnt weɪst ə ˈsɪŋgəl ˈmɪnət.\n\nhɛlp ˈʌðɜrz əˈʧiv ðɛr drimz ænd ju wɪl əˈʧiv jʊrz.\n\nˈkreɪzi ˈkwɛsʧənz \n1.wʌt ɪz ðə meɪn pɔɪnt ɑv ðə ˈpærəˌgræf? \n2.haʊ ɪz taɪm? \n3.wʌt ʃʊd ju du tu seɪv taɪm? \n4.haʊ du ju juz jʊər taɪm ˈɛvriˈdeɪ?</item>
+        <!-- 60 -->
+        <item>ˈleɪdiz ænd ˈʤɛntəlmɪn, təˈdeɪ aɪm ˈgoʊɪŋ tu tɔk əˈbaʊt ˈhæpinəs. \nwɛr dʌz ˈhæpinəs kʌm frʌm?\nɪt ˈdʌzənt kʌm frʌm ˈʌðər ˈpipəl.\nɪt ˈdʌzənt kʌm frʌm məˈtɪriəl θɪŋz.\nɪt ˈdʌzənt kʌm frʌm ˈhævɪŋ ə lɑt ʌv ˈmʌni ænd ˈpaʊər.\nɪt ˈdʌzənt kʌm frʌm ˈbiɪŋ ˈpɑpjələr.\n\nɪt kʌmz frʌm ˈgɪvɪŋ lʌv tu ˈʌðər ˈpipəl.\nɪt kʌmz frʌm ˈgɪvɪŋ jʊər bɛst ˈɛfɜrt tu ˈɛvriˌθɪŋ ju du.\nɪt kʌmz frʌm ˈgɛtɪŋ ˌsætəˈsfækʃən frʌm ˈhɛlpɪŋ ˈʌðər ˈpipəl.\nɪt kʌmz frʌm ˈgroʊɪŋ ˈsmɑrtər ænd ˈwaɪzər ˈɛvəri deɪ. ðə ˈhæpinəs ju fil ɪz ˈikwəl tu ðə lʌv ju gɪv.ðə mɔr ju gɪv, ðə ˈhæpiər ju wɪl bi.\n\nˈkreɪzi ˈkwɛsʧənz \n1.ɑr ju ˈhæpi? waɪ ænd waɪ nɑt? \n2.əˈkɔrdɪŋ tu ðə ˈpærəˌgræf, wɛr dʌz ˈhæpinəs kʌm frʌm? \n3.wʌt ɪz jʊər oʊn ˌdɛfəˈnɪʃən əˈbaʊt ˈhæpinəs? \n4.ˈhæpinəs ɪz wɛn wi hæv ə ʤɑb tu du, ə ˈpɜrsən tu lʌv ænd wʌn θɪŋ tu hoʊp. du ju əˈgri? </item>
+        <!-- 61 -->
+        <!-- <item>gʊd ˈmɔrnɪŋ! ˈleɪdiz ænd ˈʤɛntəlmɪn. wʌt ə ˈspɛʃəl əˈkeɪʒən. θæŋk ju ˈvɛri mʌʧ fɔr ˈgɪvɪŋ mi ðɪs ˈwʌndɜrfəl ˌɑpərˈtunəti tu tɔk əˈbaʊt ˌmaɪˈsɛlf. aɪ kənˈsɪdər ɪt ə greɪt ˈɑnər tu bi ɪnˈvaɪtəd tu spik hir. aɪv bɪn ˈlʊkɪŋ ˈfɔrwɜrd tu ðɪs ˈmoʊmənt fɔr ə lɔŋ taɪm. -->
+        <!-- \n\nmaɪ neɪm ɪz ˈʤæki. maɪ ˈɪŋglɪʃ juzd tu bi ˈvɛri pur ænd aɪ fɛlt ˈtɛrəbəl əˈbaʊt ˌmaɪˈsɛlf. aɪ hæd ə ˈvɛri ˈnɛgətɪv ˈætəˌtud təˈwɔrdz laɪf. aɪ ˈivɪn kənˈsɪdɜrd ˌmaɪˈsɛlf ə ˈtoʊtəl ˈfeɪljər. aɪ hæd noʊ goʊlz, noʊ drimz ænd noʊ hoʊp fɔr ðə ˈfjuʧər. maɪ laɪf wʌz ˈrɪli ə dɪˈzæstər. -->
+        <!-- \n\nwɛn aɪ ˈstʌdid ˈkreɪzi ˈɪŋglɪʃ, aɪ bɪˈgæn tu ʧeɪnʤ. aɪ ˈstɑrtəd tu ˈriəˌlaɪz ðæt maɪ laɪf hæd ˈminɪŋ. aɪ kʊd kənˈtroʊl maɪ ˈfjuʧər ænd ˈɪnfluəns ˈʌðər ˈpipəl. aɪ ˈfaɪnəli ˌʌndərˈstʊd ðæt maɪ ˈdɛstəni wʌz ɪn maɪ oʊn hændz. maɪ pæst ˈdʌzənt ˈikwəl maɪ ˈfjuʧər. -->
+        <!-- \n\naɪ lɜrnd ðæt ðə ˈpɜrpəs ɑv laɪf ɪz tu ækˈsɛpt ˈʧælənʤɪz ænd sərˈpæs maɪ ˈlɪməts. aɪ ˈɔlsoʊ ˈriəˌlaɪzd ðæt aɪ mʌst kɛr əˈbaʊt ˈʌðər ænd lɪv ə laɪf ɑv ˈsɜrvəs. aɪ kænt ʤʌst ˈfoʊkəs ɑn ˌmaɪˈsɛlf. aɪ mʌst traɪ maɪ bɛst tu kənˈtrɪbjut tu səˈsaɪəti. ðə mɔr ˈpipəl aɪ hɛlp, ðə mɔr səkˈsɛsfəl aɪ æm. -->
+        <!-- \n\naɪ gɛt ʌp ˈɜrli ˈɛvəri ˈmɔrnɪŋ ænd jɛl ˈɪŋglɪʃ ˈkreɪzəli. aɪ rid ˈɛvəri ˈsɛntəns, ˈɛvəri ænd ˈɛvəri ˈpæsəʤ ˈpæʃənətli. naʊ aɪ hæv ə ˈvɛri ˈpɑzətɪv ˈætəˌtud əˈbaʊt ˈɛvriˌθɪŋ. aɪ hæv bɪˈkʌm mɔr ˈdɪsəplənd ænd əˈkwaɪɜrd soʊ ˈmɛni gʊd ˈhæbəts. aɪ ˈɔlˌweɪz traɪ maɪ bɛst tu ˈɪnfluəns ðə ˈpipəl əˈraʊnd mi. aɪ wɑnt maɪ laɪf tu sɜrv æz ən ɪgˈzæmpəl fɔr ˈʌðɜrz., wɑnt maɪ ˈstɔri tu ɪnˈspaɪr ˈʌðɜrz. -->
+        <!-- \n\nˈɛvəri deɪ, maɪ prəˌnʌnsiˈeɪʃən gɛts ˈbɛtər. ˈɛvəri deɪ, maɪ voʊˈkæbjəˌlɛri ɪnˈkrisəz. ˈɛvəri deɪ, maɪ ˈkɑnfədəns groʊz. ˈɛvəri deɪ aɪ hɛlp mɔr ˈpipəl. ˈsupər ˈɪŋglɪʃ hæz ˌæbsəˈlutli ʧeɪnʤd maɪ laɪf. maɪ ˈɪŋglɪʃ ɪz ˈfluənt ænd maɪ ˈwɪlˌpaʊər ɪz strɔŋ. ˈsupər ˈɪŋglɪʃ hæz ˈtruli meɪd mi ə ˈbɛtər ˈpɜrsən. ðæts waɪ aɪ ˈstrɔŋli ˌrɛkəˈmɛnd ˈkreɪzi ˈɪŋglɪʃ tu ˈɛvriˌwʌn aɪ mit. ˈsupər ˈɪŋglɪʃ ˈrɪli wɜrks ˈmɪrəkəlz. -->
+        <!-- \n\nnaʊ aɪ noʊ aɪ kæn kəmˈjunəˌkeɪt ˈizəli wɪð ðə wɜrld. aɪ noʊ aɪ kæn səkˈsɛsfəli riʧ ɔl maɪ goʊlz. aɪ noʊ maɪ ˈfjuʧər ɪz ˈgoʊɪŋ tu bi ˈvɛri braɪt. aɪm ɪn maɪ pik steɪt. ˈnʌθɪŋ kæn stɑp mi. noʊ wʌn kæn stænd ɪn maɪ weɪ. -->
+        <!-- \n\naɪ lʌv ju ɔl ænd ˈdipli əˈpriʃiˌeɪt jʊər ˈfrɛndʃɪp. bi ˈkɑnfədənt! wɜrk hɑrd ˈnɛvər gɪv ʌp! bɪˈliv ɪn jərˈsɛlf! ˈfɑloʊ jʊər drimz.. ju ɑr ðə ˈfjuʧər ɑv viˌɛtˈnɑm. -->
+        <!-- \n\n θæŋk ju. θæŋk ju ˈvɛri mʌʧ. θæŋk ju fɔr ˈlɪsənɪŋ tu mi. θæŋk ju fɔr jʊər ˈɪntrəst ænd əˈtɛnʃən. hæv ˈwʌndɜrfəl deɪ. -->
+        <!-- \n\nˈfeɪljər ɪz ə stɛp təˈwɔrdz səkˈsɛs. </item> -->
+        <!-- 62 -->
+        <!-- <item>gʊd ˌæftərˈnun, ˈleɪdiz ænd ˈʤɛntəlmɪn. -->
+        <!-- \npliz doʊnt θɪŋk ðæt ˈlɜrnɪŋ ˈɪŋglɪʃ ɪz tu ˈdɪfəkəlt. ˈɛvriˌθɪŋ kæn bi ˈmæstɜrd ɪf ju wɜrk hɑrd ænd ˈpræktəs ɪˈnʌf. ju kæn spik ˈwʌndɜrfəl ˈɪŋglɪʃ ænd hæv ˈpɜrˌfɪkt prəˌnʌnsiˈeɪʃən ɪf ju ʤʌst rɪˈmɛmbər ðæt ˈlɜrnɪŋ ə ˈfɔrən ˈlæŋgwəʤ teɪks taɪm. -->
+        <!-- \n\ntraɪ tu faɪnd ə frɛnd soʊ ðæt ju kæn ˈstʌdi ænd ˈpræktəs təˈgɛðər. doʊnt ˈbɑðər ˈwɜriɪŋ əˈbaʊt jʊər mɪsˈteɪks. juz teɪps wɪð ˈʧɑrmɪŋ ˈvɔɪsəz ænd prəˌnʌnsiˈeɪʃən. ˈɔlˌweɪz ˈfɑloʊ əˈlɔŋ ænd rɪˈpit ˈæftər ðə ˈspikər ɑn ðə teɪp. ɪts ɪmˈpɔrtənt tu meɪk ˈɪŋglɪʃ ˈlɜrnɪŋ ə pɑrt ɑv jʊər ˈdeɪli ruˈtin. ju ʃʊd teɪk ˈɪŋglɪʃ æz jʊər fud. lɜrn frʌm ˈɛvəri mɪsˈteɪk ðæt ju meɪk. -->
+        <!-- \n\nviˌɛtˈnɑm nidz ˈɪŋglɪʃ ˈtælənt. viˌɛtˈnɑm nidz ˈpipəl hu kæn ɛnˈʤɔɪ ˈluzɪŋ feɪs. aɪ hoʊp ðæt ju wɪl juz jʊər ˈɪŋglɪʃ skɪlz tu du ˈsʌmθɪŋ ˈtruli ˌaʊtˈstændɪŋ ɪn ðə ˈfjuʧər. ɪf ju sɛt ə klɪr goʊl fɔr jərˈsɛlf ænd kɛr ˈdipli əˈbaʊt jʊər ˈprɑˌgrɛs, ju ɑr ʃʊr tu səkˈsid. ˈnʌθɪŋ ɪz ɪmˈpɑsəbəl wɛn ju bɪˈliv ɪn jərˈsɛlf. naʊ ɪz ðə raɪt taɪm tu ˌdɪˈsaɪd wʌns ænd fɔr ɔl ðæt ju wɪl ˈdɛfənətli ˈmæstər ˈɪŋglɪʃ! -->
+        <!-- \n\nˈɪŋglɪʃ ˈtruli kæn meɪk viˌɛtˈnɑm ˈstrɔŋər ænd bɪld ˌʌndərˈstændɪŋ, əˌpriʃiˈeɪʃən ænd trʌst! aɪ hoʊp maɪ wɜrdz hæv ɛnˈkɜrɪʤd ju tu bɪˈhaɪnd jʊər ˈɪŋglɪʃ ˈlɜrnɪŋ ˈʤɜrni ænd aɪ θæŋk ju ˈvɛri mʌʧ fɔr ˈlɪsənɪŋ! -->
+        <!-- \n\nɪf ju eɪm fɔr ðə sʌn ænd mɪs, æt list jul bi ə stɑr. -->
+        <!-- \nˈsupər ˈɪŋglɪʃ - ˈstɑrtər </item> -->
+        <!-- 63 -->
+        <!-- <item>dɪr, mɔrn ənd dæd. -->
+        <!-- \n\nbaɪ lʌv ju! aɪ lʌv jʊ soʊ mʌʧ! aɪ lʌv jʊ wɪð ɔl maɪ hɑrt! ðɪs ˈlɛtər tə jʊ əz tə tɛl ju -->
+        <!-- maɪ tru ˈfilɪŋz frəm ˈbɑtəm əv maɪ hɑrt. -->
+        <!-- \n\nθæŋk jʊ soʊ mʌʧ fər ˈbrɪŋɪŋ mi ʌp! θæŋk jʊ soʊ mʌʧ fər ˈreɪzɪŋ mi. aɪ noʊ haʊ hɑrd juv wɜrkt ˈdʊrɪŋ ðə pæst jɪrz. aɪ kənɪˈmæʤən haʊ ˈmɛni ˈdɪfəkəltiz ənd ˈɑbstəkəlz juv ˈkɑŋkɜrd. aɪ kən ɪˈmæʤən ɔl ðə ˈprɑbləmz jʊ həv feɪst ənd ɔl ðə swɛtənd tɛrz jʊ həv ʃɛd tə meɪk maɪ laɪf ˈbɛtər. aɪ kən ˈfʊli ˌʌndərˈstænd wʌt ə hjuʤ riˌspɑnsəˈbɪləti ɪt əz tə reɪz ə ʧaɪld. juv bɪnˈvɛri ˈpeɪʃənt wɪð mi. juv ɛnˈkɜrɪʤd mi ənd juv hɛlpt mi. juv traɪd jər ˈhɑrdəst tə gɪv mi ðə bɛst θɪŋz ɪn laɪf. juv meɪd ə lɑt əvˈsækrəˌfaɪsɪz ənd ˈmɛni ˈdɪfəkəlt ˈʧɔɪsəz. aɪ kən noʊ ðət jʊ həv greɪt ˌɛkspɛkˈteɪʃənz əv mi. jʊ wɑnt mi tə bi ˈvɛri səkˈsɛsfələnd ˈhæpi. jʊ wɑnt mi tə bi ðə bɛst ˈpɜrsən aɪ kən bi. jʊ wɑnt mi tə dʊ greɪt θɪŋz wɪð maɪ laɪf. jʊ wɑnt mi tə meɪk ðə wɜrld əˈbɛtər pleɪs. aɪ noʊ jʊ həv soʊ ˈmɛni hoʊps ənd drimz fər maɪ ˈfjuʧər. -->
+        <!-- \n\ntəˈdeɪ aɪ wɑnt tə tɛl jʊ ˈsʌmθɪŋ ɛkˈstrimli ɪmˈpɔrtənt! -->
+        <!-- \n\ntə deɪ aɪ wɑnt tə tɛl jʊ ðət jʊ doʊnt nid tə ˈwɜri əˈbaʊt mi ˌɛniˈmɔr. aɪm groʊ ʌp! aɪ wɪl bi riˈspɑnsəbəl fər maɪ laɪf ənd fərmaɪ ˈfiʧər. aɪ wɪl wɜrk hɑrd. aɪ wɪl ˈɛksərˌsaɪz ˈɛvəri deɪ tə kip fɪt. aɪ wɪl rid ˈɪŋglɪʃ ˈɛvəri ˈmɔrnɪŋ ənd ˈɛvəri naɪt. aɪ wɪl biˈhæpi, ˈkɑnfədənt, ˈpɑzətɪv ənd ˌɛnərˈʤɛtɪk ˈɛvriˈdeɪ. aɪ wɪl dɪˈvɛləp gʊd ˈhæbəts ənd juz ðəm tə ˈkɑnstəntli ɪmˈpruvˌmaɪˈsɛlf. aɪ ˈnɛvər ˈɛniˌθɪŋ ðət wəd meɪk jʊ fil ˌdɪsəˈpɔɪntɪd ɔr əˈʃeɪmd. aɪ wɪl wɜrk ənd lɜrn əz mʌʧ əz aɪ kən ənd bɪˈkʌmˈsmɔlər ənd ˈstrɔŋər ˈɛvəri deɪ. aɪ həv lɜrnd baɪ ˈwɑʧɪŋ jʊ ðət ðə bɛst weɪ tə riʧ maɪ goʊlz ɪz tə wɜrk hɑrd ənd ˈnɛvər gɪvʌp. jʊr maɪ hoʊst maɪ bɛst ˈmɑdəlz. jʊ sɛt ə greɪt ɪgˈzæmpəl fər mi. -->
+        <!-- \n\naɪ həv soʊ ˈmɛni greɪt drimz. aɪ noʊ ðət ˈriəˌlaɪzɪŋ ɔl ðiz drimz teɪks ə lɑt əv taɪm ənd ˈɛfɜrt. bət doʊnt ˈwɜri əˈbaʊt mi. aɪhəv strɔŋ ˈkɑnfədəns ɪn ˌmaɪˈsɛlf. aɪ noʊ ɪf aɪ kip ˈtraɪɪŋ, kip ˈwɜrkɪŋ hɑrd, ənd kip ˈdrimɪŋ, aɪ wɪl ˈdɛfənətli ˈriəˌlaɪz ɔl maɪdrimz. aɪ wɪl bi ˈsʌmˌbɑdi ˈspɛʃəl. bət aɪ wɪl nɑt ˈoʊnli kɛr əˈbaʊt ˌmaɪˈsɛlf. aɪ wɪl kənˈtrɪbjut tə maɪ skul, maɪ ˈhoʊmˌtaʊnənd maɪ ˈkʌntri. aɪ wɪl kənˈtrɪbjut tə səˈsaɪəti. aɪ wɪl juz ɔl maɪ əˈbɪlətiz ənd ˈtælənts tə hɛlp maɪ ˈfæməli ənd maɪ ˈkʌntrihəv ə ˈglɔriəs ˈfjuʧər. aɪ wɪl meɪk ə ˈdɪfərəns ɪn ðɪs wɜrld. -->
+        <!-- \n\ndɪr mɑm ənd dæd, jul bi praʊd əv mi! jʊ wɪl si greɪt rɪˈzʌlts frəm ɔl jər hɑrd wɜrk ənd ˈsækrəˌfaɪsɪz. θæŋks jʊ ˈvɛri mʌʧ fər jərˈpeɪʃəns, lʌv ənd ˌʌndərˈstændɪŋ. aɪ lʌv ju! aɪ əˈpriʃiˌeɪt ju! aɪm ˈvɛri praʊd əv ju! -->
+        <!-- \n\nˈɛksərˌsaɪz ˈɛvəri deɪ tə kip ˈhɛlθi! ɛnˈʤɔɪ laɪf ˈɛvəri deɪ ənd steɪ ˈhæpi! maɪ ˈoʊnli hoʊp fər jʊ əz fər jʊ boʊθ tʊ ɛnˈʤɔɪkənˈtɪnjud hɛlθ ənd ˈhæpinəs. jʊ brɔt mi ˈɪntə ðɪs wɜrld tə ʃɛr jər laɪf. aɪ wɪl dʊ maɪ bɛst tə meɪk ʃʊr iʧ deɪ əv ɪt əz fɪld wɪðʤɔɪ ənd praɪd. mɑm ənd dæd, jʊ ər ðə bɛst ˈpɛrənts ɪn ðə wɜrld. aɪ doʊnt noʊ wʌt aɪ wəd həv dʌn wɪˈθaʊt ju! -->
+        <!-- \nɔl maɪ ˌɛvərˈlæstɪŋ lʌv! -->
+        <!-- \n\njər ˈdɔtər!</item> -->
+        <!-- <item>dɪr ˈtiʧər!\n -->
+        <!-- \n"hi wɪl hæv tu lɜrn, aɪ noʊ, ðæt ɔl mɛn ɑr nɑt ʤʌst ænd ɑr nɑt tru. -->
+        <!-- bʌt tiʧ hɪm ˈɔlsoʊ ðæt fɔr ˈɛvəri ˈskaʊndrəl ðeər ɪz ə ˈhɪroʊ; ðæt fɔr ˈɛvəri ˈsɛlfɪʃ ˌpɑləˈtɪʃən, ðeər ɪz ə ˈdɛdəkeɪtəd ˈlidər...tiʧ hɪm fɔr ˈɛvəri ˈɛnəmi ðeər ɪz ə frɛnd, -->
+        <!-- \nstɪr hɪm əˈweɪ frʌm ˈɛnvi, ɪf ju kæn, tiʧ hɪm ðə ˈsikrət ʌv ˈkwaɪət ˈlæftər. lɛt hɪm lɜrn ˈɜrli ðæt ðə ˈbʊliz ɑr ði ˈiziəst tu lɪk... tiʧ hɪm, ɪf ju kæn, ðə ˈwʌndər ʌv bʊks... -->
+        <!-- \nbʌt ˈɔlsoʊ gɪv hɪm ˈkwaɪət taɪm tu ˈpɑndər ði ɪˈtɜrnəl ˈmɪstəri ʌv bɜrdz ɪn ðə skaɪ, biz ɪn ðə sʌn ænd ˈflaʊɜrz ɑn ə grin ˈhɪlˌsaɪd. -->
+        <!-- ɪn skul, tiʧ hɪm ɪt ɪz fɑr mɔr ˈɑnərəbəl tu fɔl ðæn tu ʧit..... -->
+        <!-- \ntiʧ tu hæv feɪθ ɪn hɪz oʊn aɪˈdiəz, ˈivɪn ɪf ˈɛvriˌwʌn tɛlz hɪm hi ɪz rɔŋ. -->
+        <!-- \ntiʧ hɪm tu bi ˈʤɛntəl wɪð ˈʤɛntəl ˈpipəl ænd tʌf wɪð ðə tʌf. -->
+        <!-- \ntraɪ tu gɪv maɪ sʌn ðə strɛŋkθ nɑt tu ˈfɑloʊ ðə kraʊd wɛn ˈɛvriˌwʌn ˈgɛtɪŋ ɑn ðə ˈbænˌdwægən... -->
+        <!-- \ntiʧ hɪm tu ˈlɪsən tu ɔl mɛn; bʌt tiʧ hɪm ˈɔlsoʊ tu ˈfɪltər ɔl hi hirz ɑn ə skrin ʌv truθ, ænd teɪk ˈoʊnli ðə gʊd ðæt kʌmz θru. -->
+        <!-- \ntiʧ hɪm, ɪf ju kæn, haʊ tu læf wɛn hi ɪz sæd... tiʧ hɪm ðeər ɪz noʊ ʃeɪm ɪn tɛrz. -->
+        <!-- \ntiʧ hɪm tu skɔf æt ˈsɪnɪks ænd tu bi bɪˈwɛr ʌv tu mʌʧ ˈswitnəs.. tiʧ hɪm tu sɛl hɪz brɔn ænd breɪn tu ˈhaɪəst ˈbɪdɜrz, bʌt ˈnɛvər tu pʊt ə praɪs ɑn hɪz hɑrt ænd soʊl. tiʧ hɪm tu kloʊs hɪz ɪrz tu ə ˈhaʊlɪŋ mɑb.. ænd stænd ænd faɪt ɪf θɪŋks hi ɪz raɪt. -->
+        <!-- \ntrit hɪm ˈʤɛntli, bʌt du nɑt ˈkʌdəl hɪm, bɪˈkɔz ˈoʊnli ðə tɛst ʌv ˈfaɪər meɪks faɪn stil. lɛt hɪm hæv ðə ˈkɜrəʤ tu bi ɪmˈpeɪʃənt.. lɛt hɪm hæv ðə ˈpeɪʃəns tu bi breɪv. tiʧ hɪm ˈɔlˌweɪz tu hæv səˈblaɪm feɪθ ɪn hɪmˈsɛlf, bɪˈkɔz ðɛn hi wɪl hæv feɪθ ɪn ˈhjumənˌkaɪnd. -->
+        <!-- \nðɪs ɪz ə bɪg ˈɔrdər, bʌt si wʌt ju kæn du. . hi ɪz sʌʧ ə faɪn ˈlɪtəl ˈfɛloʊ maɪ sʌn! -->
+        <!-- \n- ˈeɪbrəˌhæm ˈlɪŋkən"</item> -->
+        <!-- <item>gʊd ˌæftərˈnun, ˈleɪdiz ənd ˈʤɛntəlmɪn, wʌt ə ˈspɛʃəl əˈkeɪʒən! θæŋk jʊ ˈvɛri mʌʧ fər ˈgɪvɪŋ mi ðɪs ˈwʌndɜrfəl ˌɑpərˈtunəti təmi, tə tɔk əˈbaʊt ˌmaɪˈsɛlf. aɪ kənˈsɪdər ɪt ə greɪt ˈɑnər tə bi ɪnˈvaɪtəd tə spik hir. aɪv bɪn ˈlʊkɪŋ ˈfɔrwɜrd tə ðɪs ˈmoʊmənt fərə lɔŋ taɪm. -->
+        <!-- \nmaɪ neɪm əz Hoan - 23 jɪrz oʊld. aɪ əm kʌm frəm næm dɪn, bət aɪm ˈlɪvɪŋ ˈhænɔɪ naʊ. -->
+        <!-- \naɪ həv dʌn maɪ ˌgræʤuˈeɪd frəm ˈhaɪər dɪˈploʊmə ɪn ˈsɔfˌtwɛr ɪn ðə jɪr 2014.aɪ həv ə ˈfæməli kənˈsɪstɪŋ ɑv 4 ˈmɛmbɜrz ɪnˈkludɪŋ mi, maɪ ˈfɑðər, ˈmʌðər ənd ˈbrʌðər. maɪ ˈpɛrənt ər ˈkaɪndnəsˈfɑrmər. maɪ ˈbrʌðər wɜrks əz ə ˈædvərˌtaɪzɪŋ ˈmænəʤər ɪn ˈhænɔɪ. -->
+        <!-- \nmaɪ ˈhɑbiz ər ˈkoʊdɪŋ, rid ðə ˈsaɪəns bʊks ənd swɪm ɑn ðə ˈwiˌkɛnd. -->
+        <!-- naʊ, aɪm ˈwɜrkɪŋ əz ˈproʊˌgræmɪŋ ət nu ˈsɛnʧəri ˈsɔfˌtwɛr ˌkɔrpəˈreɪʃən. ɪn ðə ˈkʌmpəni, maɪ ˈdutiz ər ˈænəˌlaɪz ˈjuzɜrznidz, ðɛn dɪˈzaɪn, tɛst, ənd dɪˈvɛləp ˈsɔfˌtwɛr. -->
+        <!-- \nmaɪ drim wɑnt tə bɪˈkʌm ə ˈbɛtər ˈproʊˌgræmər ənd bi gʊd səˈpɔrt tə maɪ ˈfæməli ənd səˈsaɪəti... -->
+        <!-- \nðæts ɔl əˈbaʊt mi.θæŋks fər ðɪs ˌɑpərˈtunəti.</item> -->
+    </string-array>
+
+</resources>

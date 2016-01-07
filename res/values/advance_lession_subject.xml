@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="advance_lession_subject">
+<!--         <item>1.[	i	]	pliz  	-	please </item> -->
+<!--         <item>2.[	ɪ	]	ˈdɪfəkəlt 	-	difficult</item> -->
+<!--         <item>3.[	ɛ	]	ˈɛvriˌθɪŋ 	-	everything</item> -->
+<!--         <item>4.[	æ	]	ˈpræktɪsɪz 	-	practices</item> -->
+<!--         <item>5.[	ʌ	]	ˈwʌndɜrfəl 	-	wonderful</item> -->
+<!--         <item>6.[	ɜr	]	ˈpɜrˌfɪkt 	-	perfect</item> -->
+<!--         <item>7.[	ər 	]	rɪˈmɛmbər 	-	remember</item> -->
+<!--         <item>8.[	ə	]	təˈgɛðər 	-	together</item> -->
+<!--         <item>9.[	ɑ	]	ˈbɑðər 	-	bother</item> -->
+<!--         <item>10.[	ɑr	]	ˈʧɑrmɪŋ  	-	charming </item> -->
+<!--         <item>11.[	ɔ	]	ˈɔlˌweɪz 	-	always</item> -->
+<!--         <item>12.[	ɔr	]	ɪmˈpɔrtənt 	-	important</item> -->
+<!--         <item>13.[	ʊ	]	ʃʊd 	-	should</item> -->
+<!--         <item>14.[	u	]	fud 	-	food</item> -->
+<!--         <item>15.[	eɪ	]	mɪsˈteɪk 	-	mistake</item> -->
+<!--         <item>16.[	aɪ	]	taɪm 	-	time</item> -->
+<!--         <item>17.[	ɔɪ 	]	ɛnˈʤɔɪ 	-	enjoy</item> -->
+<!--         <item>18.[	oʊ	]	hoʊp 	-	hope</item> -->
+<!--         <item>19.[	aʊ	]	ˌaʊtˈstændɪŋ 	-	outstanding</item> -->
+<!--         <item>20.[	ɪr 	]	klɪr 	-	clear</item> -->
+<!--         <item>21.[	ɛr 	]	kɛr 	-	care</item> -->
+<!--         <item>22.[	ʊr 	]	ʃʊr 	-	sure</item> -->
+<!--         <item>23.[	p	]	ɪmˈpɑsəbəl 	-	impossible</item> -->
+<!--         <item>24.[	b	]	bɪˈliv 	-	believe</item> -->
+<!--         <item>25.[	t	]	taɪm 	-	time</item> -->
+<!--         <item>26.[	d	]	ˌdɪˈsaɪd 	-	decide</item> -->
+<!--         <item>27.[	k 	]	kip 	-	keep</item> -->
+<!--         <item>28.[	g	]	ˈgʌvərmənt 	-	goverment</item> -->
+<!--         <item>29.[	f	]	fil 	-	feel</item> -->
+<!--         <item>30.[	v	]	liv 	-	leave</item> -->
+<!--         <item>31.[	s	]	ˈnɜrvəs 	-	nervous</item> -->
+<!--         <item>32.[	z	]	ˈbɪznəs 	-	business</item> -->
+<!--         <item>33.[	ʃ	]	ˈspɛʃəl 	-	special</item> -->
+<!--         <item>34.[	ʒ	]	ˈplɛʒər  	-	pleasure</item> -->
+<!--         <item>35.[	θ	]	ˈbæˌθrum 	-	bathroom</item> -->
+<!--         <item>36.[	ð	]	ˈwɛðər 	-	weather</item> -->
+<!--         <item>37.[	h	]	hɛlp 	-	help</item> -->
+<!--         <item>38.[	r	]	təˈrɪfɪk 	-	terrific</item> -->
+<!--         <item>39.[	ʧ	]	ʧeɪnʤ 	-	change</item> -->
+<!--         <item>40.[	ʤ 	]	ˈlæŋgwəʤ 	-	language</item> -->
+<!--         <item>41.[	m	]	ˈmɛməri 	-	memory</item> -->
+<!--         <item>42.[	n	]	ˈnʌmbər 	-	number</item> -->
+<!--         <item>43.[	ŋ 	]	rɔŋ 	-	wrong</item> -->
+<!--         <item>44.[	l-	]	lɜrn 	-	learn</item> -->
+<!--         <item>45.[	l+	]	hɛlp 	-	help</item> -->
+<!--         <item>46.[	w	]	ˈwɛlkəm 	-	welcome</item> -->
+<!--         <item>47.[	j	]	ˈjɛstərˌdeɪ 	-	yesterday</item> -->
+<!--         <item>48.[	tr	]	ˈtrʌbəl 	-	trouble</item> -->
+<!--         <item>49.[	dr	]	drɪŋk 	-	drink</item> -->
+<!--         <item>50.[	ts 	]	lɑts 	-	lots</item> -->
+<!--         <item>51.[	dz 	]	wɜrdz 	-	words</item> -->
+        <item>ˈjunət  1: ɪts ɑn mi</item>
+        <item>ˈjunət  2: ˈɪŋglɪʃ ænd viɛtnɑˈmis</item>
+        <item>ˈjunət  3: ˈmɛməˌraɪzɪŋ wɜrdz</item>
+        <item>ˈjunət  4: kənˈtroʊl jʊər ˈdɛstəni</item>
+        <item>ˈjunət  5: ðə ˈsikrət ʌv maɪ səkˈsɛs</item>
+        <item>ˈjunət  6: maɪ fɜrst trɪp tu əˈmɛrəkə</item>
+        <item>ˈjunət  7: meɪk səˈsaɪəti ˈbɛtər</item>
+        <item>ˈjunət  8: viˌɛtˈnɑm - ʌs riˈleɪʃənˌʃɪp</item>
+        <item>ˈjunət  9: feɪs ˈprɑbləmz ænd ˈʧælənʤɪz</item>
+        <item>ˈjunət 10: aɪ wɑnt tu ʧeɪnʤ maɪ laɪf</item>
+        <item>ˈjunət 11: haʊ tu teɪk riˌspɑnsəˈbɪləti</item>
+        <item>ˈjunət 12: ðə wɜrld ɪz bɪˈkʌmɪŋ ˈsmɔlər ænd ˈsmɔlər</item>
+        <item>ˈjunət 13: ə gʊd bʊk ɪz ə gʊd frɛnd</item>
+        <item>ˈjunət 14: ɪz ɪt fud ɔr fʊt</item>
+        <item>ˈjunət 15: haʊ tu spik ˈfluənt ˈɛnglɪʃ</item>
+        <item>ˈjunət 16: bi naɪs</item>
+        <item>ˈjunət 17: ði ɪmˈpɔrtəns ʌv ˈʧɔɪsəz</item>
+        <item>ˈjunət 18: ðə hɑrm ʌv ˈsmoʊkɪŋ</item>
+        <item>ˈjunət 19: haʊ tu prəˈnaʊns ˈɪŋglɪʃ wɜrdz kəˈrɛktli</item>
+        <item>ˈjunət 20: haʊ tu kəmˈjunəˌkeɪt ɪˈfɛktɪvli</item>
+        <item>ˈjunət 21: ˈkɛrɪŋ meɪks ðə wɜrld ˈbjutəfəl</item>
+        <item>ˈjunət 22: hæv ə gʊd ˈætəˌtud</item>
+        <item>ˈjunət 23: haʊ tu bi ə gʊd ˈpɛrənt</item>
+        <item>ˈjunət 24: haʊ tu bɪld ə greɪt ˈfæməli</item>
+        <item>ˈjunət 25: pəˈsɪstəns</item>
+        <item>ˈjunət 26: haʊ tu lɪv prəˈdʌktɪvli</item>
+        <item>ˈjunət 27: jʊr ˈlʌki</item>
+        <item>ˈjunət 28: ˈfoʊkəs ɑn ðə gʊd</item>
+        <item>ˈjunət 29: maɪ ˈfeɪvərɪt taɪp ʌv mil</item>
+        <item>ˈjunət 30: ˈbjutəfəl viˌɛtˈnɑm</item>
+        <item>ˈjunət 31: ˌfɛrˈwɛl spiʧ - aɪ wɪl mɪs viˌɛtˈnɑm</item>
+        <item>ˈjunət 32: waɪ ˈɛksərˌsaɪz ɪz ɪmˈpɔrtənt</item>
+        <item>ˈjunət 33: maɪ ˈwɪʃɪz</item>
+        <item>ˈjunət 34: ðə ˈdeɪnʤər ʌv ˈtɛləˌvɪʒən</item>
+        <item>ˈjunət 35: ðə θri moʊst ɪmˈpɔrtənt pis ʌv ædˈvaɪs</item>
+        <item>ˈjunət 36: ˈpɛrənts ɑr ðə moʊst ɪmˈpɔrtənt ˈtiʧɜrz</item>
+        <item>ˈjunət 37: ˈgritɪŋ ˈprɑpɜrti</item>
+        <item>ˈjunət 38: ˈtɛlɪŋ raɪt frʌm rɔŋ</item>
+        <item>ˈjunət 39: ˈsplɛndəd ˈmʌðərˌlænd</item>
+        <item>ˈjunət 40: ði ɪmˈpɔrtəns ʌv wɜrk</item>
+        <item>ˈjunət 41: wʌt ɪz mɔr ɪmˈpɔrtənt ðæn ˈmʌni</item>
+        <item>ˈjunət 42: nɔɪz pəˈluʃən</item>
+        <item>ˈjunət 43: ˈrɛdɪŋ ænd ˈitɪŋ</item>
+        <item>ˈjunət 44: ə brif ˌɪntrəˈdʌkʃən tu viˌɛtˈnɑm</item>
+        <item>ˈjunət 45: ˈwɛlkəm tu ˈaʊər hoʊˈtɛl</item>
+        <item>ˈjunət 46: kip ˈaʊər wɜrld ˈbjutəfəl</item>
+        <item>ˈjunət 47: faɪt fɔr təˈdeɪ</item>
+        <item>ˈjunət 48: ə fju tɪps fɔr ˈlɜrnɪŋ ˈɪŋglɪʃ</item>
+        <item>ˈjunət 49: ˈdrɪŋkɪŋ ɪˈnʌf ˈwɔtər ɪz ˈkruʃəl</item>
+        <item>ˈjunət 50: ðə ˈpaʊər ʌv wɜrdz</item>
+        <!-- <item>ˈjunət 51: wɒt ɪz ˈɪŋglɪʃ?</item> -->
+        <!-- <item>ˈjunət 52: haʊ tu lɜrn ˈɪŋglɪʃ wɛl</item> -->
+        <!-- <item>ˈjunət 53:ˈlɜrnɪŋ ˈɪŋglɪʃ ɪz ə pis ʌv keɪk</item> -->
+        <!-- <item>ˈjunət 54: spik, spik, spik</item> -->
+        <!-- <item>ˈjunət 55:ˈsikrəts ʌv ˈspikɪŋ ˈɪŋglɪʃ wɛl</item> -->
+        <!-- <item>ˈjunət 56: səkˈsɛs ɪz ʌp tu ju</item> -->
+        <!-- <item>ˈjunət 57:ˈpipəl ɪn maɪ ˈfæməli</item> -->
+        <!-- <item>ˈjunət 58: ði ɪmˈpɔrtəns ʌv ˈsmaɪlɪŋ</item> -->
+        <!-- <item>ˈjunət 59:ˈvælju jʊər taɪm</item> -->
+        <!-- <item>ˈjunət 60:ˈrɛsəpi fɔr ˈhæpinəs</item> -->
+
+        <item>ˈjunət 61: wʌn spiʧ kən ʧeɪnʤ jər laɪf</item>
+        <item>ˈjunət 62: haʊ tu spik ˈpɜrˌfɪkt ˈɪŋglɪʃ</item>
+        <item>ˈjunət 63: dɪr mɑm ənd dæd</item>
+        <item>ˈjunət 64: ˈeɪbrəhæm ˈlɪŋkənz ˈlɛtə tuː hɪz sʌnz ˈtiːʧə</item>
+        <item>ˈjunət 65: ˌɪntrəˈdus jərˈsɛlf</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="talk_content">
+        <item>UNIT 1:   WHERE ARE YOU FROM?</item>
+        <item>ˈjunət 1:  wɛr ɑr ju frʌm? </item>
+        <item>James: Hello</item>
+        <item>ʤeɪmz: həˈloʊ </item>
+        <item>Lisa: Hi.</item>
+        <item>ˈlisə: haɪ. </item>
+        <item>James: How are you?</item>
+        <item>ʤeɪmz: haʊ ɑr ju? </item>
+        <item>Lisa: I\'m good. How are you?</item>
+        <item>ˈlisə: aɪm gʊd. haʊ ɑr ju? </item>
+        <item>James: Good. Do you speak English?</item>
+        <item>ʤeɪmz: gʊd. du ju spik ˈɪŋglɪʃ? </item>
+        <item>Lisa: A little. Are you American?</item>
+        <item>ˈlisə: ə ˈlɪtəl. ɑr ju əˈmɛrəkən? </item>
+        <item>James: Yes.</item>
+        <item>ʤeɪmz: jɛs. </item>
+        <item>Lisa: Where are you from?</item>
+        <item>ˈlisə: wɛr ɑr ju frʌm? </item>
+        <item>James: I\'m from California.</item>
+        <item>ʤeɪmz: aɪm frʌm ˌkæləˈfɔrnjə. </item>
+        <item>Lisa: Nice to meet you.</item>
+        <item>ˈlisə: naɪs tu mit ju. </item>
+        <item>James: Nice to meet you too.</item>
+        <item>ʤeɪmz: naɪs tu mit ju tu. </item>
+        <item>\n</item>
+        <item>UNIT 2: DO YOU SPEAK ENGLISH</item>
+        <item>ˈjunət 2: du ju spik ˈɪŋglɪʃ </item>
+        <item>Mary: Excuse me, are you American?</item>
+        <item>ˈmɛri: ɪkˈskjus mi, ɑr ju əˈmɛrəkən? </item>
+        <item>Robert:  No</item>
+        <item>ˈrɑbɜrt:  noʊ </item>
+        <item>Mary:  Do you speak English?</item>
+        <item>ˈmɛri:  du ju spik ˈɪŋglɪʃ? </item>
+        <item>Robert: A little, but not very well</item>
+        <item>ˈrɑbɜrt: ə ˈlɪtəl, bʌt nɑt ˈvɛri wɛl </item>
+        <item>Mary: How long have you been here?</item>
+        <item>ˈmɛri: haʊ lɔŋ hæv ju bɪn hir? </item>
+        <item>Robert: 2 months.</item>
+        <item>ˈrɑbɜrt: 2 mʌnθs. </item>
+        <item>Mary: What do you do for work?</item>
+        <item>ˈmɛri: wʌt du ju du fɔr wɜrk? </item>
+        <item>Robert: I\'m a student. How about you?</item>
+        <item>ˈrɑbɜrt: aɪm ə ˈstudənt. haʊ əˈbaʊt ju? </item>
+        <item>Mary: I\'m a student too.</item>
+        <item>ˈmɛri: aɪm ə ˈstudənt tu. </item>
+        <item>\n</item>
+        <item>UNIT 3: WHAT\'S YOUR NAME?</item>
+        <item>ˈjunət 3: wʌts jʊər neɪm? </item>
+        <item>John:  Excuse me, what\'s your name?</item>
+        <item>ʤɑn:  ɪkˈskjus mi, wʌts jʊər neɪm? </item>
+        <item>Jessica:  My name is Jessica. What\'s yours? </item>
+        <item>ˈʤɛsɪkə:  maɪ neɪm ɪz ˈʤɛsɪkə. wʌts jʊrz? </item>
+        <item>John:  John</item>
+        <item>ʤɑn:  ʤɑn </item>
+        <item>Jessica:  You speak English very well. </item>
+        <item>ˈʤɛsɪkə:  ju spik ˈɪŋglɪʃ ˈvɛri wɛl. </item>
+        <item>John:  Thank you</item>
+        <item>ʤɑn:  θæŋk ju </item>
+        <item>Jessica:  Do you know what time it is? </item>
+        <item>ˈʤɛsɪkə:  du ju noʊ wʌt taɪm ɪt ɪz? </item>
+        <item>John:  Sure. It\'s 5:10</item>
+        <item>ʤɑn:  ʃʊr. ɪts 5:10 </item>
+        <item>Jessica:  What did you say? </item>
+        <item>ˈʤɛsɪkə:  wʌt dɪd ju seɪ? </item>
+        <item>John:  I said it\'s 5:10</item>
+        <item>ʤɑn:  aɪ sɛd ɪts 5:10 </item>
+        <item>Jessica:  Thanks.</item>
+        <item>ˈʤɛsɪkə:  θæŋks. </item>
+        <item>John:  You\'re welcome. </item>
+        <item>ʤɑn:  jʊr ˈwɛlkəm. </item>
+        <item>\n</item>
+        <item>UNIT 4:  ASKING DIRECTIONS</item>
+        <item>ˈjunət 4:  ˈæskɪŋ dəˈrɛkʃənz </item>
+        <item>Amy:  Hi Michael</item>
+        <item>ˈeɪmi:  haɪ ˈmaɪkəl </item>
+        <item>Michael:  Hi Amy. What\'s up?</item>
+        <item>ˈmaɪkəl:  haɪ ˈeɪmi. wʌts ʌp? </item>
+        <item>Amy:  I\'m looking for the airport. Can you tell me how to get there? </item>
+        <item>ˈeɪmi:  aɪm ˈlʊkɪŋ fɔr ði ˈɛrˌpɔrt. kæn ju tɛl mi haʊ tu gɛt ðeər? </item>
+        <item>Michael:  No, sorry. I don\'t know.</item>
+        <item>ˈmaɪkəl:  noʊ, ˈsɑri. aɪ doʊnt noʊ. </item>
+        <item>Amy:  I think I can take the subway to the airport. Do you know where the subway is?</item>
+        <item>ˈeɪmi:  aɪ θɪŋk aɪ kæn teɪk ðə ˈsʌˌbweɪ tu ði ˈɛrˌpɔrt. du ju noʊ wɛr ðə ˈsʌˌbweɪ ɪz? </item>
+        <item>Michael:  Sure, it\'s over there.</item>
+        <item>ˈmaɪkəl:  ʃʊr, ɪts ˈoʊvər ðeər. </item>
+        <item>Amy:  Where? I don\'t see it.</item>
+        <item>ˈeɪmi:  wɛr? aɪ doʊnt si ɪt. </item>
+        <item>Michael:  Across the street. </item>
+        <item>ˈmaɪkəl:  əˈkrɔs ðə strit. </item>
+        <item>Amy:  Oh, I see it now. Thanks. </item>
+        <item>ˈeɪmi:  oʊ, aɪ si ɪt naʊ. θæŋks. </item>
+        <item>Michael:  No problem. </item>
+        <item>ˈmaɪkəl:  noʊ ˈprɑbləm. </item>
+        <item>Amy:  Do you know if there\'s a restroom around here? </item>
+        <item>ˈeɪmi:  du ju noʊ ɪf ðeərz ə ˈrɛˌstrum əˈraʊnd hir? </item>
+        <item>Michael:  Yes, there\'s one here. It\'s in the store. </item>
+        <item>ˈmaɪkəl:  jɛs, ðeərz wʌn hir. ɪts ɪn ðə stɔr. </item>
+        <item>Amy:  Thank you.</item>
+        <item>ˈeɪmi:  θæŋk ju. </item>
+        <item>Michael:  Bye. </item>
+        <item>ˈmaɪkəl:  baɪ. </item>
+        <item>Amy:  Bye bye. </item>
+        <item>ˈeɪmi:  baɪ baɪ. </item>
+        <item>\n</item>
+        <item>UNIT 5:  I\'M HUNGRY</item>
+        <item>ˈjunət 5:  aɪm ˈhʌŋgri </item>
+        <item>Thomas: Hi Sarah, how are you?</item>
+        <item>ˈtɑməs: haɪ ˈsɛrə, haʊ ɑr ju? </item>
+        <item>Sarah: Fine, how are you doing?</item>
+        <item>ˈsɛrə: faɪn, haʊ ɑr ju ˈduɪŋ? </item>
+        <item>Thomas: OK</item>
+        <item>ˈtɑməs: ˈoʊˈkeɪ </item>
+        <item>Sarah: What do you want to do? </item>
+        <item>ˈsɛrə: wʌt du ju wɑnt tu du? </item>
+        <item>Thomas: I\'m hungry. I\'d like to eat something.</item>
+        <item>ˈtɑməs: aɪm ˈhʌŋgri. aɪd laɪk tu it ˈsʌmθɪŋ. </item>
+        <item>Sarah: Where do you want to go?</item>
+        <item>ˈsɛrə: wɛr du ju wɑnt tu goʊ? </item>
+        <item>Thomas: I\'d like to go to an Italian restaurant.</item>
+        <item>ˈtɑməs: aɪd laɪk tu goʊ tu ən ɪˈtæljən ˈrɛstəˌrɑnt. </item>
+        <item>Sarah: What kind of Italian food do you like?</item>
+        <item>ˈsɛrə: wʌt kaɪnd ɑv ɪˈtæljən fud du ju laɪk? </item>
+        <item>Thomas: I like spaghetti. Do you like spaghetti? </item>
+        <item>ˈtɑməs: aɪ laɪk spəˈgɛti. du ju laɪk spəˈgɛti? </item>
+        <item>Sarah: No, I don\'t, but I like pizza.</item>
+        <item>ˈsɛrə: noʊ, aɪ doʊnt, bʌt aɪ laɪk ˈpitsə. </item>
+        <item>\n</item>
+        <item>UNIT 6: DO YOU WANT SOMETHING TO DRINK?</item>
+        <item>ˈjunət 6: du ju wɑnt ˈsʌmθɪŋ tu drɪŋk? </item>
+        <item>Susan: David, would you like something to eat? </item>
+        <item>ˈsuzən: ˈdeɪvɪd, wʊd ju laɪk ˈsʌmθɪŋ tu it? </item>
+        <item>David:  No, I\'m full.</item>
+        <item>ˈdeɪvɪd:  noʊ, aɪm fʊl. </item>
+        <item>Susan: Do you want something to drink? </item>
+        <item>ˈsuzən: du ju wɑnt ˈsʌmθɪŋ tu drɪŋk? </item>
+        <item>David:  Yes, I\'d like some coffee. </item>
+        <item>ˈdeɪvɪd:  jɛs, aɪd laɪk sʌm ˈkɑfi. </item>
+        <item>Susan: Sorry, I don\'t have any coffee. </item>
+        <item>ˈsuzən: ˈsɑri, aɪ doʊnt hæv ˈɛni ˈkɑfi. </item>
+        <item>David:  That\'s OK. I\'ll have a glass of water. </item>
+        <item>ˈdeɪvɪd:  ðæts ˈoʊˈkeɪ. aɪl hæv ə glæs ɑv ˈwɔtər. </item>
+        <item>Susan: A small glass, or a big one?</item>
+        <item>ˈsuzən: ə smɔl glæs, ɔr ə bɪg wʌn? </item>
+        <item>David:  Small please. </item>
+        <item>ˈdeɪvɪd:  smɔl pliz. </item>
+        <item>Susan: Here you are. </item>
+        <item>ˈsuzən: hir ju ɑr. </item>
+        <item>David:  Thanks.</item>
+        <item>ˈdeɪvɪd:  θæŋks. </item>
+        <item>Susan: You\'re welcome. </item>
+        <item>ˈsuzən: jʊr ˈwɛlkəm. </item>
+        <item>\n</item>
+        <item>UNIT 7:  THAT\'S TOO LATE.</item>
+        <item>ˈjunət 7:  ðæts tu leɪt. </item>
+        <item>Richard: Mary, would you like to get something to eat with me?</item>
+        <item>ˈrɪʧɜrd: ˈmɛri, wʊd ju laɪk tu gɛt ˈsʌmθɪŋ tu it wɪð mi? </item>
+        <item>Mary: OK. When?</item>
+        <item>ˈmɛri: ˈoʊˈkeɪ. wɛn? </item>
+        <item>Richard: At 10 o\'clock.</item>
+        <item>ˈrɪʧɜrd: æt 10 əˈklɑk. </item>
+        <item>Mary: 10 in the morning?</item>
+        <item>ˈmɛri: 10 ɪn ðə ˈmɔrnɪŋ? </item>
+        <item>Richard: No, at night.</item>
+        <item>ˈrɪʧɜrd: noʊ, æt naɪt. </item>
+        <item>Mary: Sorry, that\'s too late. I usually go to bed around 10:00.</item>
+        <item>ˈmɛri: ˈsɑri, ðæts tu leɪt. aɪ ˈjuʒəwəli goʊ tu bɛd əˈraʊnd 10:00. </item>
+        <item>Richard: OK, how about 1:30</item>
+        <item>ˈrɪʧɜrd: ˈoʊˈkeɪ, haʊ əˈbaʊt 1:30 </item>
+        <item>Mary: No, that\'s too early. I\'ll still be at work then.</item>
+        <item>ˈmɛri: noʊ, ðæts tu ˈɜrli. aɪl stɪl bi æt wɜrk ðɛn. </item>
+        <item>Richard: How about 5:00?</item>
+        <item>ˈrɪʧɜrd: haʊ əˈbaʊt 5:00? </item>
+        <item>Mary: That\'s fine.</item>
+        <item>ˈmɛri: ðæts faɪn. </item>
+        <item>Richard: OK, see you then.</item>
+        <item>ˈrɪʧɜrd: ˈoʊˈkeɪ, si ju ðɛn. </item>
+        <item>Mary: Alright. Bye.</item>
+        <item>ˈmɛri: ˌɔlˈraɪt. baɪ. </item>
+        <item>\n</item>
+        <item>UNIT 8:  CHOOSING A TIME TO MEET.</item>
+        <item>ˈjunət 8:  ˈʧuzɪŋ ə taɪm tu mit. </item>
+        <item>Charles: Jennifer, would you like to have dinner with me?</item>
+        <item>ʧɑrlz: ˈʤɛnəfər, wʊd ju laɪk tu hæv ˈdɪnər wɪð mi? </item>
+        <item>Jennifer: Yes. That would be nice. When do you want to go?</item>
+        <item>ˈʤɛnəfər: jɛs. ðæt wʊd bi naɪs. wɛn du ju wɑnt tu goʊ? </item>
+        <item>Charles: Is today OK?</item>
+        <item>ʧɑrlz: ɪz təˈdeɪ ˈoʊˈkeɪ? </item>
+        <item>Jennifer: Sorry, I can\'t go today.</item>
+        <item>ˈʤɛnəfər: ˈsɑri, aɪ kænt goʊ təˈdeɪ. </item>
+        <item>Charles: How about tomorrow night?</item>
+        <item>ʧɑrlz: haʊ əˈbaʊt təˈmɑˌroʊ naɪt? </item>
+        <item>Jennifer: Ok. What time?</item>
+        <item>ˈʤɛnəfər: ˈoʊˈkeɪ. wʌt taɪm? </item>
+        <item>Charles: Is 9:00 all right?</item>
+        <item>ʧɑrlz: ɪz 9:00 ɔl raɪt? </item>
+        <item>Jennifer: I think that\'s too late.</item>
+        <item>ˈʤɛnəfər: aɪ θɪŋk ðæts tu leɪt. </item>
+        <item>Charles: Is 6:00 OK?</item>
+        <item>ʧɑrlz: ɪz 6:00 ˈoʊˈkeɪ? </item>
+        <item>Jennifer: Yes, that\'s good. Where would you like to go?</item>
+        <item>ˈʤɛnəfər: jɛs, ðæts gʊd. wɛr wʊd ju laɪk tu goʊ? </item>
+        <item>Charles: The Italian restaurant on 5th street.</item>
+        <item>ʧɑrlz: ði ɪˈtæljən ˈrɛstəˌrɑnt ɑn 5ˈtiˈeɪʧ strit. </item>
+        <item>Jennifer: Oh, I don\'t like that Restaurant. I don\'t want to go there.</item>
+        <item>ˈʤɛnəfər: oʊ, aɪ doʊnt laɪk ðæt ˈrɛstəˌrɑnt. aɪ doʊnt wɑnt tu goʊ ðeər. </item>
+        <item>Charles: How about the Korean restaurant next to it?</item>
+        <item>ʧɑrlz: haʊ əˈbaʊt ðə kɔˈriən ˈrɛstəˌrɑnt nɛkst tu ɪt? </item>
+        <item>Jennifer: OK, I like that place.</item>
+        <item>ˈʤɛnəfər: ˈoʊˈkeɪ, aɪ laɪk ðæt pleɪs. </item>
+        <item>\n</item>
+        <item>UNIT 9:  WHEN DO YOU WANT TO GO?</item>
+        <item>ˈjunət 9:  wɛn du ju wɑnt tu goʊ? </item>
+        <item>Linda: Hi Mark.</item>
+        <item>ˈlɪndə: haɪ mɑrk. </item>
+        <item>Mark: Hi.</item>
+        <item>mɑrk: haɪ. </item>
+        <item>Linda: What are you planning to do today?</item>
+        <item>ˈlɪndə: wʌt ɑr ju ˈplænɪŋ tu du təˈdeɪ? </item>
+        <item>Mark: I\'m not sure yet.</item>
+        <item>mɑrk: aɪm nɑt ʃʊr jɛt. </item>
+        <item>Linda: Would you like to have lunch with me?</item>
+        <item>ˈlɪndə: wʊd ju laɪk tu hæv lʌnʧ wɪð mi? </item>
+        <item>Mark: Yes. When?</item>
+        <item>mɑrk: jɛs. wɛn? </item>
+        <item>Linda: Is it 11:30 OK?</item>
+        <item>ˈlɪndə: ɪz ɪt 11:30 ˈoʊˈkeɪ? </item>
+        <item>Mark: Sorry, I didn\'t hear you. Can you say that again please?</item>
+        <item>mɑrk: ˈsɑri, aɪ ˈdɪdənt hir ju. kæn ju seɪ ðæt əˈgɛn pliz? </item>
+        <item>Linda: I said, 11:30.</item>
+        <item>ˈlɪndə: aɪ sɛd, 11:30. </item>
+        <item>Mark: Oh, I\'m busy then. Can we meet a little later? </item>
+        <item>mɑrk: oʊ, aɪm ˈbɪzi ðɛn. kæn wi mit ə ˈlɪtəl ˈleɪtər? </item>
+        <item>Linda: OK, how about 12:30?</item>
+        <item>ˈlɪndə: ˈoʊˈkeɪ, haʊ əˈbaʊt 12:30? </item>
+        <item>Mark: OK. Where?</item>
+        <item>mɑrk: ˈoʊˈkeɪ. wɛr? </item>
+        <item>Linda: How about Bill\'s Seafood Restaurant?</item>
+        <item>ˈlɪndə: haʊ əˈbaʊt bɪlz ˈsiˌfud ˈrɛstəˌrɑnt? </item>
+        <item>Mark: Oh, Where is that? </item>
+        <item>mɑrk: oʊ, wɛr ɪz ðæt? </item>
+        <item>Linda: It\'s on 7th Street.</item>
+        <item>ˈlɪndə: ɪts ɑn 7ˈtiˈeɪʧ strit. </item>
+        <item>Mark: OK, I\'ll meet you there.</item>
+        <item>mɑrk: ˈoʊˈkeɪ, aɪl mit ju ðeər. </item>
+        <item>\n</item>
+        <item>UNIT 10: ORDERING FOOD.</item>
+        <item>ˈjunət 10: ˈɔrdərɪŋ fud. </item>
+        <item>Host: Hello sir, welcome to the French Garden Restaurant. How many?</item>
+        <item>hoʊst: həˈloʊ sɜr, ˈwɛlkəm tu ðə frɛnʧ ˈgɑrdən ˈrɛstəˌrɑnt. haʊ ˈmɛni? </item>
+        <item>Charles: 1</item>
+        <item>ʧɑrlz: 1 </item>
+        <item>Host: Right this way. Please have a seat. Your waitress will be with you in a moment.</item>
+        <item>hoʊst: raɪt ðɪs weɪ. pliz hæv ə sit. jʊər ˈweɪtrəs wɪl bi wɪð ju ɪn ə ˈmoʊmənt. </item>
+        <item>Waitress: Hello sir, would you like to order now?</item>
+        <item>ˈweɪtrəs: həˈloʊ sɜr, wʊd ju laɪk tu ˈɔrdər naʊ? </item>
+        <item>Charles: Yes please.</item>
+        <item>ʧɑrlz: jɛs pliz. </item>
+        <item>Waitress: What would you like to drink?</item>
+        <item>ˈweɪtrəs: wʌt wʊd ju laɪk tu drɪŋk? </item>
+        <item>Charles: What do you have?</item>
+        <item>ʧɑrlz: wʌt du ju hæv? </item>
+        <item>Waitress: We have bottled water, juice, and Coke.</item>
+        <item>ˈweɪtrəs: wi hæv ˈbɑtəld ˈwɔtər, ʤus, ænd koʊk. </item>
+        <item>Charles: I\'ll have a bottle of water please.</item>
+        <item>ʧɑrlz: aɪl hæv ə ˈbɑtəl ɑv ˈwɔtər pliz. </item>
+        <item>Waitress: What would you like to eat?</item>
+        <item>ˈweɪtrəs: wʌt wʊd ju laɪk tu it? </item>
+        <item>Charles: I\'ll have a tuna fish sandwich and a bowl of vegetable soup.</item>
+        <item>ʧɑrlz: aɪl hæv ə ˈtunə fɪʃ ˈsændwɪʧ ænd ə boʊl ɑv ˈvɛʤtəbəl sup. </item>
+        <item>\n</item>
+        <item>UNIT 11: NOW OR LATER?</item>
+        <item>ˈjunət 11: naʊ ɔr ˈleɪtər? </item>
+        <item>Elizabeth: Chris, where are you going?</item>
+        <item>ɪˈlɪzəbəθ: krɪs, wɛr ɑr ju ˈgoʊɪŋ? </item>
+        <item>Chris:  I\'m going to the store</item>
+        <item>krɪs:  aɪm ˈgoʊɪŋ tu ðə stɔr </item>
+        <item>Elizabeth: Really? I need to go to the store too.</item>
+        <item>ɪˈlɪzəbəθ: ˈrɪli? aɪ nid tu goʊ tu ðə stɔr tu. </item>
+        <item>Chris: Would you like to come with me?</item>
+        <item>krɪs: wʊd ju laɪk tu kʌm wɪð mi? </item>
+        <item>Elizabeth: Yeah, let\'s go together.</item>
+        <item>ɪˈlɪzəbəθ: jæ, lɛts goʊ təˈgɛðər. </item>
+        <item>Chris: Would you like to go now or later?</item>
+        <item>krɪs: wʊd ju laɪk tu goʊ naʊ ɔr ˈleɪtər? </item>
+        <item>Elizabeth: Now.</item>
+        <item>ɪˈlɪzəbəθ: naʊ. </item>
+        <item>Chris: What?</item>
+        <item>krɪs: wʌt? </item>
+        <item>Elizabeth: Now would be better.</item>
+        <item>ɪˈlɪzəbəθ: naʊ wʊd bi ˈbɛtər. </item>
+        <item>Chris: OK, let\'s go.</item>
+        <item>krɪs: ˈoʊˈkeɪ, lɛts goʊ. </item>
+        <item>Elizabeth: Should we walk?</item>
+        <item>ɪˈlɪzəbəθ: ʃʊd wi wɔk? </item>
+        <item>Chris: No, it\'s too far. Let\'s drive.</item>
+        <item>krɪs: noʊ, ɪts tu fɑr. lɛts draɪv. </item>
+        <item>\n</item>
+        <item>UNIT 12: DO YOU HAVE ENOUGH MONEY?</item>
+        <item>ˈjunət 12: du ju hæv ɪˈnʌf ˈmʌni? </item>
+        <item>Joe: Laura, what are you going to do today?</item>
+        <item>ʤoʊ: ˈlɔrə, wʌt ɑr ju ˈgoʊɪŋ tu du təˈdeɪ? </item>
+        <item>Laura:  I\'m going shopping.</item>
+        <item>ˈlɔrə:  aɪm ˈgoʊɪŋ ˈʃɑpɪŋ. </item>
+        <item>Joe: What time are you leaving?</item>
+        <item>ʤoʊ: wʌt taɪm ɑr ju ˈlivɪŋ? </item>
+        <item>Laura: I\'m going to leave around 4 o\'clock.</item>
+        <item>ˈlɔrə: aɪm ˈgoʊɪŋ tu liv əˈraʊnd 4 əˈklɑk. </item>
+        <item>Joe: Will you buy a ham sandwich for me at the store? </item>
+        <item>ʤoʊ: wɪl ju baɪ ə hæm ˈsændwɪʧ fɔr mi æt ðə stɔr? </item>
+        <item>Laura:  OK.</item>
+        <item>ˈlɔrə:  ˈoʊˈkeɪ. </item>
+        <item>Joe: Do you have enough money?</item>
+        <item>ʤoʊ: du ju hæv ɪˈnʌf ˈmʌni? </item>
+        <item>Laura: I\'m not sure.</item>
+        <item>ˈlɔrə: aɪm nɑt ʃʊr. </item>
+        <item>Joe: How much do you have?</item>
+        <item>ʤoʊ: haʊ mʌʧ du ju hæv? </item>
+        <item>Laura:  25 dollars. Do you think that\'s enough?</item>
+        <item>ˈlɔrə: 25 ˈdɑlɜrz. du ju θɪŋk ðæts ɪˈnʌf? </item>
+        <item>Joe: That\'s not very much.</item>
+        <item>ʤoʊ: ðæts nɑt ˈvɛri mʌʧ. </item>
+        <item>Laura: I think it\'s OK. I also have 2 credit cards.</item>
+        <item>ˈlɔrə: aɪ θɪŋk ɪts ˈoʊˈkeɪ. aɪ ˈɔlsoʊ hæv 2 ˈkrɛdət kɑrdz. </item>
+        <item>Joe: Let me give you another 10 dollars.</item>
+        <item>ʤoʊ: lɛt mi gɪv ju əˈnʌðər 10 ˈdɑlɜrz. </item>
+        <item>Laura: Thanks. See you later. </item>
+        <item>ˈlɔrə: θæŋks. si ju ˈleɪtər. </item>
+        <item>Joe:  Bye</item>
+        <item>ʤoʊ:  baɪ </item>
+        <item>\n</item>
+        <item>UNIT 13: HOW HAVE YOU BEEN?</item>
+        <item>ˈjunət 13: haʊ hæv ju bɪn? </item>
+        <item>Karen: Hello Richard.</item>
+        <item>ˈkɛrən: həˈloʊ ˈrɪʧɜrd. </item>
+        <item>Richard: Hi Karen.</item>
+        <item>ˈrɪʧɜrd: haɪ ˈkɛrən. </item>
+        <item>Karen: How have you been?</item>
+        <item>ˈkɛrən: haʊ hæv ju bɪn? </item>
+        <item>Richard: Not too good.</item>
+        <item>ˈrɪʧɜrd: nɑt tu gʊd. </item>
+        <item>Karen: Why?</item>
+        <item>ˈkɛrən: waɪ? </item>
+        <item>Richard: I\'m sick.</item>
+        <item>ˈrɪʧɜrd: aɪm sɪk. </item>
+        <item>Karen: Sorry to hear that.</item>
+        <item>ˈkɛrən: ˈsɑri tu hir ðæt. </item>
+        <item>Richard:  It\'s OK. It\'s not serious.</item>
+        <item>ˈrɪʧɜrd:  ɪts ˈoʊˈkeɪ. ɪts nɑt ˈsɪriəs. </item>
+        <item>Karen: That\'s good. How\'s your wife?</item>
+        <item>ˈkɛrən: ðæts gʊd. haʊz jʊər waɪf? </item>
+        <item>Richard:  She\'s good</item>
+        <item>ˈrɪʧɜrd:  ʃiz gʊd </item>
+        <item>Karen:  Is she in America now?</item>
+        <item>ˈkɛrən:  ɪz ʃi ɪn əˈmɛrəkə naʊ? </item>
+        <item>Richard: No, she\'s not here yet.</item>
+        <item>ˈrɪʧɜrd: noʊ, ʃiz nɑt hir jɛt. </item>
+        <item>Karen: Where is she?</item>
+        <item>ˈkɛrən: wɛr ɪz ʃi? </item>
+        <item>Richard:  She\'s in Canada with our kids. </item>
+        <item>ˈrɪʧɜrd:  ʃiz ɪn ˈkænədə wɪð ˈaʊər kɪdz. </item>
+        <item>Karen: I see. I have to go now. Please tell your wife I said hi.</item>
+        <item>ˈkɛrən: aɪ si. aɪ hæv tu goʊ naʊ. pliz tɛl jʊər waɪf aɪ sɛd haɪ. </item>
+        <item>Richard: OK, I\'ll talk to you later.</item>
+        <item>ˈrɪʧɜrd: ˈoʊˈkeɪ, aɪl tɔk tu ju ˈleɪtər. </item>
+        <item>Karen:  I hope you feel better.</item>
+        <item>ˈkɛrən:  aɪ hoʊp ju fil ˈbɛtər. </item>
+        <item>Richard: Thanks.</item>
+        <item>ˈrɪʧɜrd: θæŋks. </item>
+        <item>\n</item>
+        <item>UNIT 14: INTRODUCING A FRIEND.</item>
+        <item>ˈjunət 14: ˌɪntrəˈdusɪŋ ə frɛnd. </item>
+        <item>Michael: Robert, this is my friend, Mrs. Smith.</item>
+        <item>ˈmaɪkəl: ˈrɑbɜrt, ðɪs ɪz maɪ frɛnd, ˈmɪsɪz. smɪθ. </item>
+        <item>Robert: Hi, Nice to meet you.</item>
+        <item>ˈrɑbɜrt: haɪ, naɪs tu mit ju. </item>
+        <item>Mrs. Smith: Nice to meet you too.</item>
+        <item>ˈmɪsɪz. smɪθ: naɪs tu mit ju tu. </item>
+        <item>Robert: Mrs. Smith, what do you do for work?</item>
+        <item>ˈrɑbɜrt: ˈmɪsɪz. smɪθ, wʌt du ju du fɔr wɜrk? </item>
+        <item>Mrs. Smith: I\'m a doctor.</item>
+        <item>ˈmɪsɪz. smɪθ: aɪm ə ˈdɑktər. </item>
+        <item>Robert: Oh. Where do you work?</item>
+        <item>ˈrɑbɜrt: oʊ. wɛr du ju wɜrk? </item>
+        <item>Mrs. Smith: New York University hospital in New York City. What do you do?</item>
+        <item>ˈmɪsɪz. smɪθ: nu jɔrk ˌjunəˈvɜrsəti ˈhɑˌspɪtəl ɪn nu jɔrk ˈsɪti. wʌt du ju du? </item>
+        <item>Robert: I\'m a teacher.</item>
+        <item>ˈrɑbɜrt: aɪm ə ˈtiʧər. </item>
+        <item>Mrs. Smith: What do you teach?</item>
+        <item>ˈmɪsɪz. smɪθ: wʌt du ju tiʧ? </item>
+        <item>Robert: I teach English.</item>
+        <item>ˈrɑbɜrt: aɪ tiʧ ˈɪŋglɪʃ. </item>
+        <item>Mrs. Smith: Where?</item>
+        <item>ˈmɪsɪz. smɪθ: wɛr? </item>
+        <item>Robert: At a high school in New Jersey.</item>
+        <item>ˈrɑbɜrt: æt ə haɪ skul ɪn nu ˈʤɜrzi. </item>
+        <item>Mrs. Smith: That\'s nice. How old are you? </item>
+        <item>ˈmɪsɪz. smɪθ: ðæts naɪs. haʊ oʊld ɑr ju? </item>
+        <item>Robert: I\'m 32.</item>
+        <item>ˈrɑbɜrt: aɪm 32. </item>
+        <item>\n</item>
+        <item>UNIT 15:  BUYING A SHIRT.</item>
+        <item>ˈjunət 15:  ˈbaɪɪŋ ə ʃɜrt. </item>
+        <item>Dan: Excuse me.</item>
+        <item>dæn: ɪkˈskjus mi. </item>
+        <item>Maria: Hello sir, may I help you?</item>
+        <item>məˈriə: həˈloʊ sɜr, meɪ aɪ hɛlp ju? </item>
+        <item>Dan: Yes. Can I see that T-shirt on the top shelf please?</item>
+        <item>dæn: jɛs. kæn aɪ si ðæt ti-ʃɜrt ɑn ðə tɑp ʃɛlf pliz? </item>
+        <item>Maria: Sure. Here it is.</item>
+        <item>məˈriə: ʃʊr. hir ɪt ɪz. </item>
+        <item>Dan: How much does it cost?</item>
+        <item>dæn: haʊ mʌʧ dʌz ɪt kɑst? </item>
+        <item>Maria: 50 dollars.</item>
+        <item>məˈriə: 50 ˈdɑlɜrz. </item>
+        <item>Dan: 50 dollars. That\'s too much. </item>
+        <item>dæn: 50 ˈdɑlɜrz. ðæts tu mʌʧ. </item>
+        <item>Maria: How about this one? It\'s on sale for only 35 dollars.</item>
+        <item>məˈriə: haʊ əˈbaʊt ðɪs wʌn? ɪts ɑn seɪl fɔr ˈoʊnli 35 ˈdɑlɜrz. </item>
+        <item>Dan: I don\'t like that one.</item>
+        <item>dæn: aɪ doʊnt laɪk ðæt wʌn. </item>
+        <item>Maria: How about the one next to the black gloves? It\'s very similar to the one you like.</item>
+        <item>məˈriə: haʊ əˈbaʊt ðə wʌn nɛkst tu ðə blæk glʌvz? ɪts ˈvɛri ˈsɪmələr tu ðə wʌn ju laɪk. </item>
+        <item>Dan: That\'s nice. How much is it?</item>
+        <item>dæn: ðæts naɪs. haʊ mʌʧ ɪz ɪt? </item>
+        <item>Maria: 30 dollars.</item>
+        <item>məˈriə: 30 ˈdɑlɜrz. </item>
+        <item>Dan: That would be fine.</item>
+        <item>dæn: ðæt wʊd bi faɪn. </item>
+        <item>Maria: Is this color OK, or would you like a different color?</item>
+        <item>məˈriə: ɪz ðɪs ˈkʌlər ˈoʊˈkeɪ, ɔr wʊd ju laɪk ə ˈdɪfərənt ˈkʌlər? </item>
+        <item>Dan: That blue one\'s fine.</item>
+        <item>dæn: ðæt blu wʌnz faɪn. </item>
+        <item>Maria: Do you need any more of these shirts?</item>
+        <item>məˈriə: du ju nid ˈɛni mɔr ɑv ðiz ʃɜrts? </item>
+        <item>Dan: Yes.</item>
+        <item>dæn: jɛs. </item>
+        <item>Maria: How many do you want?</item>
+        <item>məˈriə: haʊ ˈmɛni du ju wɑnt? </item>
+        <item>Dan: I\'ll take two more, a red one and a white one.</item>
+        <item>dæn: aɪl teɪk tu mɔr, ə rɛd wʌn ænd ə waɪt wʌn. </item>
+        <item>\n</item>
+        <item>UNIT 16: ASKING ABOUT LOCATION.</item>
+        <item>ˈjunət 16: ˈæskɪŋ əˈbaʊt loʊˈkeɪʃən. </item>
+        <item>Paul: Excuse me, I\'m looking for the Holiday Inn. Do you know where it is?</item>
+        <item>pɔl: ɪkˈskjus mi, aɪm ˈlʊkɪŋ fɔr ðə ˈhɑləˌdeɪ ɪn. du ju noʊ wɛr ɪt ɪz? </item>
+        <item>Nancy: Sure. It\'s down this street on the left.</item>
+        <item>ˈnænsi: ʃʊr. ɪts daʊn ðɪs strit ɑn ðə lɛft. </item>
+        <item>Paul: Is it far from here?</item>
+        <item>pɔl: ɪz ɪt fɑr frʌm hir? </item>
+        <item>Nancy: No, it\'s not far.</item>
+        <item>ˈnænsi: noʊ, ɪts nɑt fɑr. </item>
+        <item>Paul: How far is it?</item>
+        <item>pɔl: haʊ fɑr ɪz ɪt? </item>
+        <item>Nancy: About a mile and a half.</item>
+        <item>ˈnænsi: əˈbaʊt ə maɪl ænd ə hæf. </item>
+        <item>Paul: How long does it take to get there?</item>
+        <item>pɔl: haʊ lɔŋ dʌz ɪt teɪk tu gɛt ðeər? </item>
+        <item>Nancy:  5 minutes or so.</item>
+        <item>ˈnænsi: 5 ˈmɪnəts ɔr soʊ. </item>
+        <item>Paul:  Is it close to the subway station? </item>
+        <item>pɔl:  ɪz ɪt kloʊs tu ðə ˈsʌˌbweɪ ˈsteɪʃən? </item>
+        <item>Nancy:  Yes, it\'s very close. The subway station is next to the hotel. You can walk there.</item>
+        <item>ˈnænsi:  jɛs, ɪts ˈvɛri kloʊs. ðə ˈsʌˌbweɪ ˈsteɪʃən ɪz nɛkst tu ðə hoʊˈtɛl. ju kæn wɔk ðeər. </item>
+        <item>Paul:  Thanks a lot. </item>
+        <item>pɔl:  θæŋks ə lɑt. </item>
+        <item>\n</item>
+        <item>UNIT 17: DO YOU KNOW THE ADDRESS?</item>
+        <item>ˈjunət 17: du ju noʊ ði ˈæˌdrɛs? </item>
+        <item>Mark: Excuse me. Do you know how to get to the mall?</item>
+        <item>mɑrk: ɪkˈskjus mi. du ju noʊ haʊ tu gɛt tu ðə mɔl? </item>
+        <item>Betty: Sure, I used to work there. Go straight for about a mile, then turn left at the light. The mall will be on the right.</item>
+        <item>ˈbɛti: ʃʊr, aɪ juzd tu wɜrk ðeər. goʊ streɪt fɔr əˈbaʊt ə maɪl, ðɛn tɜrn lɛft æt ðə laɪt. ðə mɔl wɪl bi ɑn ðə raɪt. </item>
+        <item>Mark: Do you know the address?</item>
+        <item>mɑrk: du ju noʊ ði ˈæˌdrɛs? </item>
+        <item>Betty: Yes, the address is 541 Main street.</item>
+        <item>ˈbɛti: jɛs, ði ˈæˌdrɛs ɪz 541 meɪn strit. </item>
+        <item>Mark: Can you write it down for me please?</item>
+        <item>mɑrk: kæn ju raɪt ɪt daʊn fɔr mi pliz? </item>
+        <item>Betty: No problem.</item>
+        <item>ˈbɛti: noʊ ˈprɑbləm. </item>
+        <item>Mark: Is it faster if I take Highland avenue?</item>
+        <item>mɑrk: ɪz ɪt ˈfæstər ɪf aɪ teɪk ˈhaɪlənd ˈævəˌnu? </item>
+        <item>Betty: No, that way is longer. There are more stop lights on that street.</item>
+        <item>ˈbɛti: noʊ, ðæt weɪ ɪz ˈlɔŋgər. ðeər ɑr mɔr stɑp laɪts ɑn ðæt strit. </item>
+        <item>\n</item>
+        <item>UNIT 18:  VACATION TO CANADA.</item>
+        <item>ˈjunət 18:  veɪˈkeɪʃən tu ˈkænədə. </item>
+        <item>George: What\'s today\'s date?</item>
+        <item>ʤɔrʤ: wʌts təˈdeɪz deɪt? </item>
+        <item>Sandra: It\'s July 5th.</item>
+        <item>ˈsændrə: ɪts ˌʤuˈlaɪ 5ˈtiˈeɪʧ. </item>
+        <item>George: When are you going on vacation?</item>
+        <item>ʤɔrʤ: wɛn ɑr ju ˈgoʊɪŋ ɑn veɪˈkeɪʃən? </item>
+        <item>Sandra: I\'m leaving on Sunday. We\'re going to Canada.</item>
+        <item>ˈsændrə: aɪm ˈlivɪŋ ɑn ˈsʌnˌdeɪ. wir ˈgoʊɪŋ tu ˈkænədə. </item>
+        <item>George: Really? The day after tomorrow? That\'s very soon.</item>
+        <item>ʤɔrʤ: ˈrɪli? ðə deɪ ˈæftər təˈmɑˌroʊ? ðæts ˈvɛri sun. </item>
+        <item>Sandra: Yeah I know.</item>
+        <item>ˈsændrə: jæ aɪ noʊ. </item>
+        <item>George: How long are you going to stay there?</item>
+        <item>ʤɔrʤ: haʊ lɔŋ ɑr ju ˈgoʊɪŋ tu steɪ ðeər? </item>
+        <item>Sandra: About 2 weeks.</item>
+        <item>ˈsændrə: əˈbaʊt 2 wiks. </item>
+        <item>George: When are you coming back?</item>
+        <item>ʤɔrʤ: wɛn ɑr ju ˈkʌmɪŋ bæk? </item>
+        <item>Sandra: I\'m coming back on the 17th.</item>
+        <item>ˈsændrə: aɪm ˈkʌmɪŋ bæk ɑn ði 17ˈtiˈeɪʧ. </item>
+        <item>George:  Alright. Have a nice trip.</item>
+        <item>ʤɔrʤ:  ˌɔlˈraɪt. hæv ə naɪs trɪp. </item>
+        <item>\n</item>
+        <item>UNIT 19:  WHO IS THAT WOMAN?</item>
+        <item>ˈjunət 19:  hu ɪz ðæt ˈwʊmən? </item>
+        <item>Donna: Joseph, who is that woman?</item>
+        <item>ˈdɑnə: ˈʤoʊsəf, hu ɪz ðæt ˈwʊmən? </item>
+        <item>Joseph: That\'s Susan.</item>
+        <item>ˈʤoʊsəf: ðæts ˈsuzən. </item>
+        <item>Donna: What does she do for work?</item>
+        <item>ˈdɑnə: wʌt dʌz ʃi du fɔr wɜrk? </item>
+        <item>Joseph: She\'s a lawyer.</item>
+        <item>ˈʤoʊsəf: ʃiz ə ˈlɔjər. </item>
+        <item>Donna: Is she American?</item>
+        <item>ˈdɑnə: ɪz ʃi əˈmɛrəkən? </item>
+        <item>Joseph: No, but she speaks English fluently.</item>
+        <item>ˈʤoʊsəf: noʊ, bʌt ʃi spiks ˈɪŋglɪʃ ˈfluəntli. </item>
+        <item>Donna: She\'s really tall. Do you know her?</item>
+        <item>ˈdɑnə: ʃiz ˈrɪli tɔl. du ju noʊ hɜr? </item>
+        <item>Joseph: Yes, I know her. We\'re friends.</item>
+        <item>ˈʤoʊsəf: jɛs, aɪ noʊ hɜr. wir frɛndz. </item>
+        <item>Donna: Who\'s that man standing next to her?</item>
+        <item>ˈdɑnə: huz ðæt mən ˈstændɪŋ nɛkst tu hɜr? </item>
+        <item>Joseph: Which man?</item>
+        <item>ˈʤoʊsəf: wɪʧ mən? </item>
+        <item>Donna: That short guy on her right. What\'s his name?</item>
+        <item>ˈdɑnə: ðæt ʃɔrt gaɪ ɑn hɜr raɪt. wʌts hɪz neɪm? </item>
+        <item>Joseph: Oh, that\'s Matt.</item>
+        <item>ˈʤoʊsəf: oʊ, ðæts mæt. </item>
+        <item>Donna: He\'s really good looking.</item>
+        <item>ˈdɑnə: hiz ˈrɪli gʊd ˈlʊkɪŋ. </item>
+        <item>Joseph: Yeah.</item>
+        <item>ˈʤoʊsəf: jæ. </item>
+        <item>Donna: Do you know him?</item>
+        <item>ˈdɑnə: du ju noʊ hɪm? </item>
+        <item>Joseph:  I don\'t know him, but I think my sister does.</item>
+        <item>ˈʤoʊsəf:  aɪ doʊnt noʊ hɪm, bʌt aɪ θɪŋk maɪ ˈsɪstər dʌz. </item>
+        <item>Donna: Is he married?</item>
+        <item>ˈdɑnə: ɪz hi ˈmɛrid? </item>
+        <item>Joseph: Yes, he\'s married.</item>
+        <item>ˈʤoʊsəf: jɛs, hiz ˈmɛrid. </item>
+        <item>Donna: I remember now. I met him before.</item>
+        <item>ˈdɑnə: aɪ rɪˈmɛmbər naʊ. aɪ mɛt hɪm bɪˈfɔr. </item>
+        <item>\n</item>
+        <item>UNIT 20:  COMMON QUESTIONS.</item>
+        <item>ˈjunət 20:  ˈkɑmən ˈkwɛsʧənz. </item>
+        <item>Carol: Brian, do you know how to speak English? </item>
+        <item>ˈkærəl: ˈbraɪən, du ju noʊ haʊ tu spik ˈɪŋglɪʃ? </item>
+        <item>Brian: Yes. </item>
+        <item>ˈbraɪən: jɛs. </item>
+        <item>Carol: Where did you learn? </item>
+        <item>ˈkærəl: wɛr dɪd ju lɜrn? </item>
+        <item>Brian: I learned in college. </item>
+        <item>ˈbraɪən: aɪ lɜrnd ɪn ˈkɑlɪʤ. </item>
+        <item>Carol: You speak really well. </item>
+        <item>ˈkærəl: ju spik ˈrɪli wɛl. </item>
+        <item>Brian: Thank you. </item>
+        <item>ˈbraɪən: θæŋk ju. </item>
+        <item>Carol: How long have you been in the U.S.? </item>
+        <item>ˈkærəl: haʊ lɔŋ hæv ju bɪn ɪn ðə ju.ɛs.? </item>
+        <item>Brian: 3 weeks. </item>
+        <item>ˈbraɪən: 3 wiks. </item>
+        <item>Carol: Is your wife with you? </item>
+        <item>ˈkærəl: ɪz jʊər waɪf wɪð ju? </item>
+        <item>Brian: Yes, she just got here yesterday. </item>
+        <item>ˈbraɪən: jɛs, ʃi ʤʌst gɑt hir ˈjɛstərˌdeɪ. </item>
+        <item>Carol: Have you been to California before? </item>
+        <item>ˈkærəl: hæv ju bɪn tu ˌkæləˈfɔrnjə bɪˈfɔr? </item>
+        <item>Brian: No. I\'ve never been there.</item>
+        <item>ˈbraɪən: noʊ. aɪv ˈnɛvər bɪn ðeər. </item>
+        <item>Carol: Have you ever been to Las Vegas? </item>
+        <item>ˈkærəl: hæv ju ˈɛvər bɪn tu lɑs ˈveɪgəs? </item>
+        <item>Brian: Yes. I went there once on a business trip.</item>
+        <item>ˈbraɪən: jɛs. aɪ wɛnt ðeər wʌns ɑn ə ˈbɪznəs trɪp. </item>
+        <item>\n</item>
+        <item>UNIT 21: THE SUPERMARKET IS CLOSED.</item>
+        <item>ˈjunət 21: ðə ˈsupərˌmɑrkɪt ɪz kloʊzd. </item>
+        <item>Sharon: Jeff, I\'m going to the supermarket. Do you want to come with me?</item>
+        <item>ˈʃærən: ʤɛf, aɪm ˈgoʊɪŋ tu ðə ˈsupərˌmɑrkɪt. du ju wɑnt tu kʌm wɪð mi? </item>
+        <item>Jeff: I think the supermarket is closed now.</item>
+        <item>ʤɛf: aɪ θɪŋk ðə ˈsupərˌmɑrkɪt ɪz kloʊzd naʊ. </item>
+        <item>Sharon: Oh, When does it close?</item>
+        <item>ˈʃærən: oʊ, wɛn dʌz ɪt kloʊs? </item>
+        <item>Jeff: It closes at 7:00 on Sundays.</item>
+        <item>ʤɛf: ɪt ˈkloʊzɪz æt 7:00 ɑn ˈsʌnˌdeɪz. </item>
+        <item>Sharon: That\'s too bad.</item>
+        <item>ˈʃærən: ðæts tu bæd. </item>
+        <item>Jeff: Don\'t worry, we can go tomorrow morning. It opens at 8:00.</item>
+        <item>ʤɛf: doʊnt ˈwɜri, wi kæn goʊ təˈmɑˌroʊ ˈmɔrnɪŋ. ɪt ˈoʊpənz æt 8:00. </item>
+        <item>Sharon: Alright. What do you want to do now?</item>
+        <item>ˈʃærən: ˌɔlˈraɪt. wʌt du ju wɑnt tu du naʊ? </item>
+        <item>Jeff: Let’s take a walk for a half an hour. My sister will get here at about 8:30 and then we can all go out to dinner.</item>
+        <item>ʤɛf: lɛts teɪk ə wɔk fɔr ə hæf ən ˈaʊər. maɪ ˈsɪstər wɪl gɛt hir æt əˈbaʊt 8:30 ænd ðɛn wi kæn ɔl goʊ aʊt tu ˈdɪnər. </item>
+        <item>Sharon: Where does she live?</item>
+        <item>ˈʃærən: wɛr dʌz ʃi lɪv? </item>
+        <item>Jeff: She lives in San Francisco.</item>
+        <item>ʤɛf: ʃi lɪvz ɪn sæn frænˈsɪskoʊ. </item>
+        <item>Sharon: How long has she lived there?</item>
+        <item>ˈʃærən: haʊ lɔŋ hæz ʃi laɪvd ðeər? </item>
+        <item>Jeff: I think she\'s lived there for about 10 years.</item>
+        <item>ʤɛf: aɪ θɪŋk ʃiz laɪvd ðeər fɔr əˈbaʊt 10 jɪrz. </item>
+        <item>Sharon: That\'s a long time. Where did she live before that?</item>
+        <item>ˈʃærən: ðæts ə lɔŋ taɪm. wɛr dɪd ʃi lɪv bɪˈfɔr ðæt? </item>
+        <item>Jeff: San Diego.</item>
+        <item>ʤɛf: sæn diˈeɪgoʊ. </item>
+        <item>\n</item>
+        <item>UNIT 22:  DO YOU HAVE ANY CHILDREN?</item>
+        <item>ˈjunət 22:  du ju hæv ˈɛni ˈʧɪldrən? </item>
+        <item>Michelle: Charles, do you have any children?</item>
+        <item>mɪˈʃɛl: ʧɑrlz, du ju hæv ˈɛni ˈʧɪldrən? </item>
+        <item>Charles: Yes.</item>
+        <item>ʧɑrlz: jɛs. </item>
+        <item>Michelle: How many children do you have?</item>
+        <item>mɪˈʃɛl: haʊ ˈmɛni ˈʧɪldrən du ju hæv? </item>
+        <item>Charles: I have 2 kids. A boy and a girl.</item>
+        <item>ʧɑrlz: aɪ hæv 2 kɪdz. ə bɔɪ ænd ə gɜrl. </item>
+        <item>Michelle: What are their names?</item>
+        <item>mɪˈʃɛl: wʌt ɑr ðɛr neɪmz? </item>
+        <item>Charles: Jack and Stephanie.</item>
+        <item>ʧɑrlz: ʤæk ænd ˈstɛfəni. </item>
+        <item>Michelle: How old are they?</item>
+        <item>mɪˈʃɛl: haʊ oʊld ɑr ðeɪ? </item>
+        <item>Charles: Stephanie is 18 and Jack is 24.</item>
+        <item>ʧɑrlz: ˈstɛfəni ɪz 18 ænd ʤæk ɪz 24. </item>
+        <item>Michelle: Are they in school?</item>
+        <item>mɪˈʃɛl: ɑr ðeɪ ɪn skul? </item>
+        <item>Charles: Stephanie is. She goes to college in Washington and Jack works in Florida.</item>
+        <item>ʧɑrlz: ˈstɛfəni ɪz. ʃi goʊz tu ˈkɑlɪʤ ɪn ˈwɑʃɪŋtən ænd ʤæk wɜrks ɪn ˈflɔrədə. </item>
+        <item>Michelle: What does Stephanie study?</item>
+        <item>mɪˈʃɛl: wʌt dʌz ˈstɛfəni ˈstʌdi? </item>
+        <item>Charles: She studies English.</item>
+        <item>ʧɑrlz: ʃi ˈstʌdiz ˈɪŋglɪʃ. </item>
+        <item>Michelle: Is she here now?</item>
+        <item>mɪˈʃɛl: ɪz ʃi hir naʊ? </item>
+        <item>Charles: No, she\'s at school.</item>
+        <item>ʧɑrlz: noʊ, ʃiz æt skul. </item>
+        <item>\n</item>
+        <item>UNIT 23:  HELP WITH PRONUNCIATION.</item>
+        <item>ˈjunət 23:  hɛlp wɪð prəˌnʌnsiˈeɪʃən. </item>
+        <item>Kim: William, do you like studying English?</item>
+        <item>kɪm: ˈwɪljəm, du ju laɪk ˈstʌdiɪŋ ˈɪŋglɪʃ? </item>
+        <item>William: I like studying English, and I can read well, but speaking can be difficult.</item>
+        <item>ˈwɪljəm: aɪ laɪk ˈstʌdiɪŋ ˈɪŋglɪʃ, ænd aɪ kæn rid wɛl, bʌt ˈspikɪŋ kæn bi ˈdɪfəkəlt. </item>
+        <item>Kim: It\'s not that bad. If you talk to your American friends every day, you\'ll learn quickly.</item>
+        <item>kɪm: ɪts nɑt ðæt bæd. ɪf ju tɔk tu jʊər əˈmɛrəkən frɛndz ˈɛvəri deɪ, jul lɜrn ˈkwɪkli. </item>
+        <item>William: Can I ask you a question?</item>
+        <item>ˈwɪljəm: kæn aɪ æsk ju ə ˈkwɛsʧən? </item>
+        <item>Kim: Sure, what do you want to know?</item>
+        <item>kɪm: ʃʊr, wʌt du ju wɑnt tu noʊ? </item>
+        <item>William: I have my book from class here. How do you say this word?</item>
+        <item>ˈwɪljəm: aɪ hæv maɪ bʊk frʌm klæs hir. haʊ du ju seɪ ðɪs wɜrd? </item>
+        <item>Kim: Laptop</item>
+        <item>kɪm: ˈlæpˌtɑp </item>
+        <item>William: Sorry, I don\'t understand. What does that mean?</item>
+        <item>ˈwɪljəm: ˈsɑri, aɪ doʊnt ˌʌndərˈstænd. wʌt dʌz ðæt min? </item>
+        <item>Kim: A laptop is a type of computer that you can carry with you. Do you understand?</item>
+        <item>kɪm: ə ˈlæpˌtɑp ɪz ə taɪp ɑv kəmˈpjutər ðæt ju kæn ˈkæri wɪð ju. du ju ˌʌndərˈstænd? </item>
+        <item>William: Yes, I think so. Can you say it again?</item>
+        <item>ˈwɪljəm: jɛs, aɪ θɪŋk soʊ. kæn ju seɪ ɪt əˈgɛn? </item>
+        <item>Kim: Laptop.</item>
+        <item>kɪm: ˈlæpˌtɑp. </item>
+        <item>William: Laptop. Did I pronounce that correctly?</item>
+        <item>ˈwɪljəm: ˈlæpˌtɑp. dɪd aɪ prəˈnaʊns ðæt kəˈrɛktli? </item>
+        <item>Kim: Yes, that\'s right. That\'s very good.</item>
+        <item>kɪm: jɛs, ðæts raɪt. ðæts ˈvɛri gʊd. </item>
+        <item>William: Thanks. And this word? How do you pronounce this?</item>
+        <item>ˈwɪljəm: θæŋks. ænd ðɪs wɜrd? haʊ du ju prəˈnaʊns ðɪs? </item>
+        <item>Kim: That word is pronounced kitchen.</item>
+        <item>kɪm: ðæt wɜrd ɪz prəˈnaʊnst ˈkɪʧən. </item>
+        <item>William: Thanks so much. You\'re a good teacher.</item>
+        <item>ˈwɪljəm: θæŋks soʊ mʌʧ. jʊr ə gʊd ˈtiʧər. </item>
+        <item>Kim: Thanks.</item>
+        <item>kɪm: θæŋks. </item>
+        <item>\n</item>
+        <item>UNIT 24:  I LOST MY WALLET.</item>
+        <item>ˈjunət 24:  aɪ lɔst maɪ ˈwɔlət. </item>
+        <item>Steve: Hey, How\'s it going?</item>
+        <item>stiv: heɪ, haʊz ɪt ˈgoʊɪŋ? </item>
+        <item>Jessica: Not good. I lost my wallet.</item>
+        <item>ˈʤɛsɪkə: nɑt gʊd. aɪ lɔst maɪ ˈwɔlət. </item>
+        <item>Steve: Oh, that\'s too bad. Was it stolen?</item>
+        <item>stiv: oʊ, ðæts tu bæd. wʌz ɪt ˈstoʊlən? </item>
+        <item>Jessica: No, I think it came out of my pocket when I was in the taxi.</item>
+        <item>ˈʤɛsɪkə: noʊ, aɪ θɪŋk ɪt keɪm aʊt ɑv maɪ ˈpɑkət wɛn aɪ wʌz ɪn ðə ˈtæksi. </item>
+        <item>Steve: Is there anything I can do?</item>
+        <item>stiv: ɪz ðeər ˈɛniˌθɪŋ aɪ kæn du? </item>
+        <item>Jessica: Can I borrow some money?</item>
+        <item>ˈʤɛsɪkə: kæn aɪ ˈbɑˌroʊ sʌm ˈmʌni? </item>
+        <item>Steve: Sure, how much do you need?</item>
+        <item>stiv: ʃʊr, haʊ mʌʧ du ju nid? </item>
+        <item>Jessica: About 50 dollars.</item>
+        <item>ˈʤɛsɪkə: əˈbaʊt 50 ˈdɑlɜrz. </item>
+        <item>Steve: That\'s no problem.</item>
+        <item>stiv: ðæts noʊ ˈprɑbləm. </item>
+        <item>Jessica: Thanks. I\'ll pay you back on Friday.</item>
+        <item>ˈʤɛsɪkə: θæŋks. aɪl peɪ ju bæk ɑn ˈfraɪdi. </item>
+        <item>Steve: That\'ll be fine. Here you are.</item>
+        <item>stiv: ˈðætəl bi faɪn. hir ju ɑr. </item>
+        <item>Jessica: What are you going to do now?</item>
+        <item>ˈʤɛsɪkə: wʌt ɑr ju ˈgoʊɪŋ tu du naʊ? </item>
+        <item>Steve: I\'m going to buy some books and then I\'m going to the gas station.</item>
+        <item>stiv: aɪm ˈgoʊɪŋ tu baɪ sʌm bʊks ænd ðɛn aɪm ˈgoʊɪŋ tu ðə gæs ˈsteɪʃən. </item>
+        <item>Jessica: If you wait a minute I can go with you.</item>
+        <item>ˈʤɛsɪkə: ɪf ju weɪt ə ˈmɪnət aɪ kæn goʊ wɪð ju. </item>
+        <item>Steve: OK. I\'ll wait for you.</item>
+        <item>stiv: ˈoʊˈkeɪ. aɪl weɪt fɔr ju. </item>
+        <item>\n</item>
+        <item>UNIT 25:  PHONE CALL AT WORK.</item>
+        <item>ˈjunət 25:  foʊn kɔl æt wɜrk. </item>
+        <item>James: Hello?</item>
+        <item>ʤeɪmz: həˈloʊ? </item>
+        <item>Linda: Hi, is James there please?</item>
+        <item>ˈlɪndə: haɪ, ɪz ʤeɪmz ðeər pliz? </item>
+        <item>James: Yes. Who\'s calling?</item>
+        <item>ʤeɪmz: jɛs. huz ˈkɔlɪŋ? </item>
+        <item>Linda: Linda.</item>
+        <item>ˈlɪndə: ˈlɪndə. </item>
+        <item>James: One moment please.</item>
+        <item>ʤeɪmz: wʌn ˈmoʊmənt pliz. </item>
+        <item>Linda: OK.</item>
+        <item>ˈlɪndə: ˈoʊˈkeɪ. </item>
+        <item>James: Hello?</item>
+        <item>ʤeɪmz: həˈloʊ? </item>
+        <item>Linda: Hi James, it\'s Linda.</item>
+        <item>ˈlɪndə: haɪ ʤeɪmz, ɪts ˈlɪndə. </item>
+        <item>James: Hi Linda.</item>
+        <item>ʤeɪmz: haɪ ˈlɪndə. </item>
+        <item>Linda: What are you doing now?</item>
+        <item>ˈlɪndə: wʌt ɑr ju ˈduɪŋ naʊ? </item>
+        <item>James: I\'m working.</item>
+        <item>ʤeɪmz: aɪm ˈwɜrkɪŋ. </item>
+        <item>Linda: Are you busy?</item>
+        <item>ˈlɪndə: ɑr ju ˈbɪzi? </item>
+        <item>James: Yes. It\'s been really busy here all day.</item>
+        <item>ʤeɪmz: jɛs. ɪts bɪn ˈrɪli ˈbɪzi hir ɔl deɪ. </item>
+        <item>Linda: What time do you get off work?</item>
+        <item>ˈlɪndə: wʌt taɪm du ju gɛt ɔf wɜrk? </item>
+        <item>James: 8:30</item>
+        <item>ʤeɪmz: 8:30 </item>
+        <item>Linda: I\'ll call you back after 8:30</item>
+        <item>ˈlɪndə: aɪl kɔl ju bæk ˈæftər 8:30 </item>
+        <item>James: OK. Talk to you later.</item>
+        <item>ʤeɪmz: ˈoʊˈkeɪ. tɔk tu ju ˈleɪtər. </item>
+        <item>Linda: Bye bye.</item>
+        <item>ˈlɪndə: baɪ baɪ. </item>
+        <item>\n</item>
+        <item>UNIT 26:  FAMILY TRIP.</item>
+        <item>ˈjunət 26:  ˈfæməli trɪp. </item>
+        <item>Angela: David, what have you been up to lately?</item>
+        <item>ˈænʤələ: ˈdeɪvɪd, wʌt hæv ju bɪn ʌp tu ˈleɪtli? </item>
+        <item>David: I went on a trip with my family last week.</item>
+        <item>ˈdeɪvɪd: aɪ wɛnt ɑn ə trɪp wɪð maɪ ˈfæməli læst wik. </item>
+        <item>Angela: Really? Where did you go?</item>
+        <item>ˈænʤələ: ˈrɪli? wɛr dɪd ju goʊ? </item>
+        <item>David: We went to Europe.</item>
+        <item>ˈdeɪvɪd: wi wɛnt tu ˈjʊrəp. </item>
+        <item>Angela: What cities did you go to?</item>
+        <item>ˈænʤələ: wʌt ˈsɪtiz dɪd ju goʊ tu? </item>
+        <item>David: London, Paris and a few other cities.</item>
+        <item>ˈdeɪvɪd: ˈlʌndən, ˈpɛrɪs ænd ə fju ˈʌðər ˈsɪtiz. </item>
+        <item>Angela: Did you go to Berlin?</item>
+        <item>ˈænʤələ: dɪd ju goʊ tu bərˈlɪn? </item>
+        <item>David: No, We didn\'t go there. I\'d like to go there next time.</item>
+        <item>ˈdeɪvɪd: noʊ, wi ˈdɪdənt goʊ ðeər. aɪd laɪk tu goʊ ðeər nɛkst taɪm. </item>
+        <item>Angela: I think the summer is a good time to visit Berlin. It\'s a beautiful place and the people there are very nice.</item>
+        <item>ˈænʤələ: aɪ θɪŋk ðə ˈsʌmər ɪz ə gʊd taɪm tu ˈvɪzət bərˈlɪn. ɪts ə ˈbjutəfəl pleɪs ænd ðə ˈpipəl ðeər ɑr ˈvɛri naɪs. </item>
+        <item>David: That\'s what I\'ve heard.</item>
+        <item>ˈdeɪvɪd: ðæts wʌt aɪv hɜrd. </item>
+        <item>Angela: I went there last year. If you want, I can give you some information I have about the city.</item>
+        <item>ˈænʤələ: aɪ wɛnt ðeər læst jɪr. ɪf ju wɑnt, aɪ kæn gɪv ju sʌm ˌɪnfərˈmeɪʃən aɪ hæv əˈbaʊt ðə ˈsɪti. </item>
+        <item>David: Thanks.</item>
+        <item>ˈdeɪvɪd: θæŋks. </item>
+        <item>\n</item>
+        <item>UNIT 27:  I WENT SHOPPING.</item>
+        <item>ˈjunət 27:  aɪ wɛnt ˈʃɑpɪŋ. </item>
+        <item>Tom: Sarah, what did you do today?</item>
+        <item>tɑm: ˈsɛrə, wʌt dɪd ju du təˈdeɪ? </item>
+        <item>Sarah: I went shopping.</item>
+        <item>ˈsɛrə: aɪ wɛnt ˈʃɑpɪŋ. </item>
+        <item>Tom: Did you buy anything?</item>
+        <item>tɑm: dɪd ju baɪ ˈɛniˌθɪŋ? </item>
+        <item>Sarah: Yes, I bought a few things.</item>
+        <item>ˈsɛrə: jɛs, aɪ bɑt ə fju θɪŋz. </item>
+        <item>Tom: What did you buy?</item>
+        <item>tɑm: wʌt dɪd ju baɪ? </item>
+        <item>Sarah: I bought this coat. Do you like it?</item>
+        <item>ˈsɛrə: aɪ bɑt ðɪs koʊt. du ju laɪk ɪt? </item>
+        <item>Tom: Yeah, I like it a lot. It\'s very pretty. Where did you buy it?</item>
+        <item>tɑm: jæ, aɪ laɪk ɪt ə lɑt. ɪts ˈvɛri ˈprɪti. wɛr dɪd ju baɪ ɪt? </item>
+        <item>Sarah: At the mall on 5th street.</item>
+        <item>ˈsɛrə: æt ðə mɔl ɑn 5ˈtiˈeɪʧ strit. </item>
+        <item>Tom: Was it expensive?</item>
+        <item>tɑm: wʌz ɪt ɪkˈspɛnsɪv? </item>
+        <item>Sarah: No, it wasn\'t expensive. It was on sale for 20 dollars.</item>
+        <item>ˈsɛrə: noʊ, ɪt ˈwɑzənt ɪkˈspɛnsɪv. ɪt wʌz ɑn seɪl fɔr 20 ˈdɑlɜrz. </item>
+        <item>Tom: That\'s cheap.</item>
+        <item>tɑm: ðæts ʧip. </item>
+        <item>Sarah: I know. It was a really good deal.</item>
+        <item>ˈsɛrə: aɪ noʊ. ɪt wʌz ə ˈrɪli gʊd dil. </item>
+        <item>Tom: I don\'t think you\'ll need to wear it for a while. It\'s been really hot lately.</item>
+        <item>tɑm: aɪ doʊnt θɪŋk jul nid tu wɛr ɪt fɔr ə waɪl. ɪts bɪn ˈrɪli hɑt ˈleɪtli. </item>
+        <item>\n</item>
+        <item>UNIT 28:  WHAT KIND OF MUSIC DO YOU LIKE?</item>
+        <item>ˈjunət 28:  wʌt kaɪnd ɑv ˈmjuzɪk du ju laɪk? </item>
+        <item>Amy: Paul, what kind of music do you like to listen to?</item>
+        <item>ˈeɪmi: pɔl, wʌt kaɪnd ɑv ˈmjuzɪk du ju laɪk tu ˈlɪsən tu? </item>
+        <item>Paul: All kinds, but mostly Pop, rock and classical. Why?</item>
+        <item>pɔl: ɔl kaɪndz, bʌt ˈmoʊstli pɑp, rɑk ænd ˈklæsɪkəl. waɪ? </item>
+        <item>Amy: I have tickets to a show. Do you want to go with me?</item>
+        <item>ˈeɪmi: aɪ hæv ˈtɪkəts tu ə ʃoʊ. du ju wɑnt tu goʊ wɪð mi? </item>
+        <item>Paul: What kind of music is it?</item>
+        <item>pɔl: wʌt kaɪnd ɑv ˈmjuzɪk ɪz ɪt? </item>
+        <item>Amy: Pop. It\'s Mariah Carey.</item>
+        <item>ˈeɪmi: pɑp. ɪts məˈraɪə ˈkɛri. </item>
+        <item>Paul: When is it?</item>
+        <item>pɔl: wɛn ɪz ɪt? </item>
+        <item>Amy: At 8 tomorrow night.</item>
+        <item>ˈeɪmi: æt 8 təˈmɑˌroʊ naɪt. </item>
+        <item>Paul: Yeah, I\'d like to go. Do you think we should have dinner first?</item>
+        <item>pɔl: jæ, aɪd laɪk tu goʊ. du ju θɪŋk wi ʃʊd hæv ˈdɪnər fɜrst? </item>
+        <item>Amy: Yes, that\'s a good idea.</item>
+        <item>ˈeɪmi: jɛs, ðæts ə gʊd aɪˈdiə. </item>
+        <item>Paul: Let\'s eat at the restaurant across the street from my apartment.</item>
+        <item>pɔl: lɛts it æt ðə ˈrɛstəˌrɑnt əˈkrɔs ðə strit frʌm maɪ əˈpɑrtmənt. </item>
+        <item>Amy: Oh, I think I know the place you mean. We ate there last month, right?</item>
+        <item>ˈeɪmi: oʊ, aɪ θɪŋk aɪ noʊ ðə pleɪs ju min. wi eɪt ðeər læst mʌnθ, raɪt? </item>
+        <item>Paul: Yes, that\'s right. You have a good memory.</item>
+        <item>pɔl: jɛs, ðæts raɪt. ju hæv ə gʊd ˈmɛməri. </item>
+        <item>\n</item>
+        <item>UNIT 29 : GOING TO THE LIBRARY.</item>
+        <item>ˈjunət 29 : ˈgoʊɪŋ tu ðə ˈlaɪˌbrɛri. </item>
+        <item>Kevin: Lisa, would you like to go to the library with me?</item>
+        <item>ˈkɛvɪn: ˈlisə, wʊd ju laɪk tu goʊ tu ðə ˈlaɪˌbrɛri wɪð mi? </item>
+        <item>Lisa: OK. Do you think we can go buy a newspaper first?</item>
+        <item>ˈlisə: ˈoʊˈkeɪ. du ju θɪŋk wi kæn goʊ baɪ ə ˈnuzˌpeɪpər fɜrst? </item>
+        <item>Kevin: Sure. First we\'ll go buy a newspaper and then we\'ll go to the library.</item>
+        <item>ˈkɛvɪn: ʃʊr. fɜrst wil goʊ baɪ ə ˈnuzˌpeɪpər ænd ðɛn wil goʊ tu ðə ˈlaɪˌbrɛri. </item>
+        <item>Lisa: Are we going to walk or drive?</item>
+        <item>ˈlisə: ɑr wi ˈgoʊɪŋ tu wɔk ɔr draɪv? </item>
+        <item>Kevin: The weather is really nice today. Let\'s walk.</item>
+        <item>ˈkɛvɪn: ðə ˈwɛðər ɪz ˈrɪli naɪs təˈdeɪ. lɛts wɔk. </item>
+        <item>Lisa: The weather is good now, but I think it\'s suppose to rain this afternoon.</item>
+        <item>ˈlisə: ðə ˈwɛðər ɪz gʊd naʊ, bʌt aɪ θɪŋk ɪts səˈpoʊz tu reɪn ðɪs ˌæftərˈnun. </item>
+        <item>Kevin: Alright, then let\'s take an umbrella. Is your brother coming with us?</item>
+        <item>ˈkɛvɪn: ˌɔlˈraɪt, ðɛn lɛts teɪk ən əmˈbrɛlə. ɪz jʊər ˈbrʌðər ˈkʌmɪŋ wɪð ʌs? </item>
+        <item>Lisa: No, he\'s still sleeping.</item>
+        <item>ˈlisə: noʊ, hiz stɪl ˈslipɪŋ. </item>
+        <item>Kevin: Wow, it\'s already 10:00. He must have been up late last night.</item>
+        <item>ˈkɛvɪn: waʊ, ɪts ɔlˈrɛdi 10:00. hi mʌst hæv bɪn ʌp leɪt læst naɪt. </item>
+        <item>Lisa: Yeah, he didn\'t come home until 12:00</item>
+        <item>ˈlisə: jæ, hi ˈdɪdənt kʌm hoʊm ənˈtɪl 12:00 </item>
+        <item>Kevin: I hope he can come later.</item>
+        <item>ˈkɛvɪn: aɪ hoʊp hi kæn kʌm ˈleɪtər. </item>
+        <item>Lisa: I hope so too. I\'ll give him a call when we get there.</item>
+        <item>ˈlisə: aɪ hoʊp soʊ tu. aɪl gɪv hɪm ə kɔl wɛn wi gɛt ðeər. </item>
+        <item>Kevin: How do we get to the library from here?</item>
+        <item>ˈkɛvɪn: haʊ du wi gɛt tu ðə ˈlaɪˌbrɛri frʌm hir? </item>
+        <item>Lisa: It\'s straight down this road on the left, next to the museum. It takes about 10 minutes.</item>
+        <item>ˈlisə: ɪts streɪt daʊn ðɪs roʊd ɑn ðə lɛft, nɛkst tu ðə mjuˈziəm. ɪt teɪks əˈbaʊt 10 ˈmɪnəts. </item>
+        <item>\n</item>
+        <item>UNIT 30:  WHERE DO YOUR PARENTS LIVE?</item>
+        <item>ˈjunət 30:  wɛr du jʊər ˈpɛrənts lɪv? </item>
+        <item>Jason: Hi Melissa, are you going home this weekend?</item>
+        <item>ˈʤeɪsən: haɪ məˈlɪsə, ɑr ju ˈgoʊɪŋ hoʊm ðɪs ˈwiˌkɛnd? </item>
+        <item>Melissa: No, not this weekend. I have too much work to do.</item>
+        <item>məˈlɪsə: noʊ, nɑt ðɪs ˈwiˌkɛnd. aɪ hæv tu mʌʧ wɜrk tu du. </item>
+        <item>Jason: Where do your parents live?</item>
+        <item>ˈʤeɪsən: wɛr du jʊər ˈpɛrənts lɪv? </item>
+        <item>Melissa: My father lives in Washington DC.</item>
+        <item>məˈlɪsə: maɪ ˈfɑðər lɪvz ɪn ˈwɑʃɪŋtən di-si. </item>
+        <item>Jason: How about your mother?</item>
+        <item>ˈʤeɪsən: haʊ əˈbaʊt jʊər ˈmʌðər? </item>
+        <item>Melissa: My mother died 2 years ago.</item>
+        <item>məˈlɪsə: maɪ ˈmʌðər daɪd 2 jɪrz əˈgoʊ. </item>
+        <item>Jason: Oh, I am sorry to hear that. Is your father still working?</item>
+        <item>ˈʤeɪsən: oʊ, aɪ æm ˈsɑri tu hir ðæt. ɪz jʊər ˈfɑðər stɪl ˈwɜrkɪŋ? </item>
+        <item>Melissa: No, he\'s retired.</item>
+        <item>məˈlɪsə: noʊ, hiz rɪˈtaɪrd. </item>
+        <item>Jason: Do you have any family here?</item>
+        <item>ˈʤeɪsən: du ju hæv ˈɛni ˈfæməli hir? </item>
+        <item>Melissa: Yes, 2 of my cousins live here and my aunt and uncle live about 30 miles from here.</item>
+        <item>məˈlɪsə: jɛs, 2 ɑv maɪ ˈkʌzənz lɪv hir ænd maɪ ænt ænd ˈʌŋkəl lɪv əˈbaʊt 30 maɪlz frʌm hir. </item>
+        <item>Jason: Do you have any brothers or sisters?</item>
+        <item>ˈʤeɪsən: du ju hæv ˈɛni ˈbrʌðɜrz ɔr ˈsɪstɜrz? </item>
+        <item>Melissa: Yes, I have 2 brothers who live in New York and a sister who lives in Boston.</item>
+        <item>məˈlɪsə: jɛs, aɪ hæv 2 ˈbrʌðɜrz hu lɪv ɪn nu jɔrk ænd ə ˈsɪstər hu lɪvz ɪn ˈbɑstən. </item>
+        <item>Jason: Do you see them a lot?</item>
+        <item>ˈʤeɪsən: du ju si ðɛm ə lɑt? </item>
+        <item>Melissa: Not as much as I\'d like to. Usually just on holidays like Thanksgiving and Christmas.</item>
+        <item>məˈlɪsə: nɑt æz mʌʧ æz aɪd laɪk tu. ˈjuʒəwəli ʤʌst ɑn ˈhɑləˌdeɪz laɪk ˌθæŋksˈgɪvɪŋ ænd ˈkrɪsməs. </item>
+        <item>\n</item>
+        <item>UNIT 31:  CAN YOU HELP ME FIND A FEW THINGS?</item>
+        <item>ˈjunət 31:  kæn ju hɛlp mi faɪnd ə fju θɪŋz? </item>
+        <item>Matt: I can\'t find my glasses and I can\'t see anything. Can you help me find a few things?</item>
+        <item>mæt: aɪ kænt faɪnd maɪ ˈglæsəz ænd aɪ kænt si ˈɛniˌθɪŋ. kæn ju hɛlp mi faɪnd ə fju θɪŋz? </item>
+        <item>Anna: No problem. What are you looking for?</item>
+        <item>ˈænə: noʊ ˈprɑbləm. wʌt ɑr ju ˈlʊkɪŋ fɔr? </item>
+        <item>Matt: My laptop, do you see it?</item>
+        <item>mæt: maɪ ˈlæpˌtɑp, du ju si ɪt? </item>
+        <item>Anna: Yes, your laptop is on the chair.</item>
+        <item>ˈænə: jɛs, jʊər ˈlæpˌtɑp ɪz ɑn ðə ʧɛr. </item>
+        <item>Matt: Where\'s my book?</item>
+        <item>mæt: wɛrz maɪ bʊk? </item>
+        <item>Anna: Which one?</item>
+        <item>ˈænə: wɪʧ wʌn? </item>
+        <item>Matt: The dictionary.</item>
+        <item>mæt: ðə ˈdɪkʃəˌnɛri. </item>
+        <item>Anna: It\'s under the table.</item>
+        <item>ˈænə: ɪts ˈʌndər ðə ˈteɪbəl. </item>
+        <item>Matt: Where\'s my pencil?</item>
+        <item>mæt: wɛrz maɪ ˈpɛnsəl? </item>
+        <item>Anna: There\'s a pencil in front of the lamp.</item>
+        <item>ˈænə: ðeərz ə ˈpɛnsəl ɪn frʌnt ɑv ðə læmp. </item>
+        <item>Matt: That\'s not a pencil. That\'s a pen.</item>
+        <item>mæt: ðæts nɑt ə ˈpɛnsəl. ðæts ə pɛn. </item>
+        <item>Anna: Oh, sorry. There is a pencil behind the cup.</item>
+        <item>ˈænə: oʊ, ˈsɑri. ðeər ɪz ə ˈpɛnsəl bɪˈhaɪnd ðə kʌp. </item>
+        <item>Matt: How about my backpack? Do you know where that is?</item>
+        <item>mæt: haʊ əˈbaʊt maɪ ˈbækˌpæk? du ju noʊ wɛr ðæt ɪz? </item>
+        <item>Anna: It\'s in between the wall and the bed.</item>
+        <item>ˈænə: ɪts ɪn bɪˈtwin ðə wɔl ænd ðə bɛd. </item>
+        <item>Matt: Where are my shoes?</item>
+        <item>mæt: wɛr ɑr maɪ ʃuz? </item>
+        <item>Anna: They\'re on the left side of the TV.</item>
+        <item>ˈænə: ðɛr ɑn ðə lɛft saɪd ɑv ðə ˈtiˈvi. </item>
+        <item>Matt: I don\'t see them.</item>
+        <item>mæt: aɪ doʊnt si ðɛm. </item>
+        <item>Anna: Sorry, I made a mistake. They\'re on the right side of the TV.</item>
+        <item>ˈænə: ˈsɑri, aɪ meɪd ə mɪsˈteɪk. ðɛr ɑn ðə raɪt saɪd ɑv ðə ˈtiˈvi. </item>
+        <item>Matt: Thanks.</item>
+        <item>mæt: θæŋks. </item>
+        <item>Anna: Oh, and here are your glasses. They were next to your cell phone.</item>
+        <item>ˈænə: oʊ, ænd hir ɑr jʊər ˈglæsəz. ðeɪ wɜr nɛkst tu jʊər sɛl foʊn. </item>
+        <item>\n</item>
+        <item>UNIT 32:  PAYING FOR DINNER.</item>
+        <item>ˈjunət 32:  ˈpeɪɪŋ fɔr ˈdɪnər. </item>
+        <item>Tim: Excuse me. Check please.</item>
+        <item>tɪm: ɪkˈskjus mi. ʧɛk pliz. </item>
+        <item>Waitress: OK, how was everything?</item>
+        <item>ˈweɪtrəs: ˈoʊˈkeɪ, haʊ wʌz ˈɛvriˌθɪŋ? </item>
+        <item>Tim: Very nice. Thank you.</item>
+        <item>tɪm: ˈvɛri naɪs. θæŋk ju. </item>
+        <item>Waitress: Would you like this to go?</item>
+        <item>ˈweɪtrəs: wʊd ju laɪk ðɪs tu goʊ? </item>
+        <item>Tim: Yes, can you put it in a plastic bag?</item>
+        <item>tɪm: jɛs, kæn ju pʊt ɪt ɪn ə ˈplæstɪk bæg? </item>
+        <item>Waitress: Sure, no problem. Here you are. That\'ll be 25 dollars.</item>
+        <item>ˈweɪtrəs: ʃʊr, noʊ ˈprɑbləm. hir ju ɑr. ˈðætəl bi 25 ˈdɑlɜrz. </item>
+        <item>Tim: Do you take credit cards?</item>
+        <item>tɪm: du ju teɪk ˈkrɛdət kɑrdz? </item>
+        <item>Waitress: Yes, we accept Visa and MasterCard.</item>
+        <item>ˈweɪtrəs: jɛs, wi ækˈsɛpt ˈvizə ænd ˈmæstərˌkɑrd. </item>
+        <item>Tim: OK, here you are.</item>
+        <item>tɪm: ˈoʊˈkeɪ, hir ju ɑr. </item>
+        <item>Waitress: Thanks. I\'ll be right back.</item>
+        <item>ˈweɪtrəs: θæŋks. aɪl bi raɪt bæk. </item>
+        <item>Tim: OK.</item>
+        <item>tɪm: ˈoʊˈkeɪ. </item>
+        <item>Waitress: Here\'s your receipt.</item>
+        <item>ˈweɪtrəs: hɪrz jʊər rɪˈsit. </item>
+        <item>Tim: Thank you.</item>
+        <item>tɪm: θæŋk ju. </item>
+        <item>Waitress: You\'re welcome. Please come again.</item>
+        <item>ˈweɪtrəs: jʊr ˈwɛlkəm. pliz kʌm əˈgɛn. </item>
+        <item>\n</item>
+        <item>UNIT 33:  BUYING A PLANE TICKET.</item>
+        <item>ˈjunət 33:  ˈbaɪɪŋ ə pleɪn ˈtɪkət. </item>
+        <item>Ticket clerk: Next please. Hello. How can I help you?</item>
+        <item>ˈtɪkət klɜrk: nɛkst pliz. həˈloʊ. haʊ kæn aɪ hɛlp ju? </item>
+        <item>Larry: I\'d like to buy a ticket to New York.</item>
+        <item>ˈlɛri: aɪd laɪk tu baɪ ə ˈtɪkət tu nu jɔrk. </item>
+        <item>Ticket clerk: Would you like one way or round trip?</item>
+        <item>ˈtɪkət klɜrk: wʊd ju laɪk wʌn weɪ ɔr raʊnd trɪp? </item>
+        <item>Larry: Round trip.</item>
+        <item>ˈlɛri: raʊnd trɪp. </item>
+        <item>Ticket clerk: When will you be leaving?</item>
+        <item>ˈtɪkət klɜrk: wɛn wɪl ju bi ˈlivɪŋ? </item>
+        <item>Larry: When does the next plane leave?</item>
+        <item>ˈlɛri: wɛn dʌz ðə nɛkst pleɪn liv? </item>
+        <item>Ticket clerk: In about 2 hours.</item>
+        <item>ˈtɪkət klɜrk: ɪn əˈbaʊt 2 ˈaʊɜrz. </item>
+        <item>Larry: I\'d like a ticket for that flight please.</item>
+        <item>ˈlɛri: aɪd laɪk ə ˈtɪkət fɔr ðæt flaɪt pliz. </item>
+        <item>Ticket clerk: First class or coach?</item>
+        <item>ˈtɪkət klɜrk: fɜrst klæs ɔr koʊʧ? </item>
+        <item>Larry: Coach.</item>
+        <item>ˈlɛri: koʊʧ. </item>
+        <item>Ticket clerk: OK, let me check availability. I\'m sorry. Tickets for that flight are sold out.</item>
+        <item>ˈtɪkət klɜrk: ˈoʊˈkeɪ, lɛt mi ʧɛk əˌveɪləˈbɪləti. aɪm ˈsɑri. ˈtɪkəts fɔr ðæt flaɪt ɑr soʊld aʊt. </item>
+        <item>Larry: How about the one after that?</item>
+        <item>ˈlɛri: haʊ əˈbaʊt ðə wʌn ˈæftər ðæt? </item>
+        <item>Ticket clerk: Let me see. Yes, that one still has seats available. Would you like me to reserve a seat for you?</item>
+        <item>ˈtɪkət klɜrk: lɛt mi si. jɛs, ðæt wʌn stɪl hæz sits əˈveɪləbəl. wʊd ju laɪk mi tu rɪˈzɜrv ə sit fɔr ju? </item>
+        <item>Larry: Yes, please.</item>
+        <item>ˈlɛri: jɛs, pliz. </item>
+        <item>Ticket clerk:: That\'ll be 120 dollars.</item>
+        <item>ˈtɪkət klɜrk:: ˈðætəl bi 120 ˈdɑlɜrz. </item>
+        <item>Larry: OK.</item>
+        <item>ˈlɛri: ˈoʊˈkeɪ. </item>
+        <item>Ticket clerk: Thank you, here\'s your change.</item>
+        <item>ˈtɪkət klɜrk: θæŋk ju, hɪrz jʊər ʧeɪnʤ. </item>
+        <item>\n</item>
+        <item>UNIT 34:  PUTTING THINGS IN ORDER.</item>
+        <item>ˈjunət 34:  ˈpʌtɪŋ θɪŋz ɪn ˈɔrdər. </item>
+        <item>Frank: Michelle, Can you help me clean things up before we go?</item>
+        <item>fræŋk: mɪˈʃɛl, kæn ju hɛlp mi klin θɪŋz ʌp bɪˈfɔr wi goʊ? </item>
+        <item>Michelle: Sure. Where should I put this cup?</item>
+        <item>mɪˈʃɛl: ʃʊr. wɛr ʃʊd aɪ pʊt ðɪs kʌp? </item>
+        <item>Frank: Which cup?</item>
+        <item>fræŋk: wɪʧ kʌp? </item>
+        <item>Michelle: The red one.</item>
+        <item>mɪˈʃɛl: ðə rɛd wʌn. </item>
+        <item>Frank: Put it on the table.</item>
+        <item>fræŋk: pʊt ɪt ɑn ðə ˈteɪbəl. </item>
+        <item>Michelle: How about this fruit?</item>
+        <item>mɪˈʃɛl: haʊ əˈbaʊt ðɪs frut? </item>
+        <item>Frank: Oh, that goes in the refrigerator.</item>
+        <item>fræŋk: oʊ, ðæt goʊz ɪn ðə rəˈfrɪʤəˌreɪtər. </item>
+        <item>Michelle: And those pencils? What should I do with them?</item>
+        <item>mɪˈʃɛl: ænd ðoʊz ˈpɛnsəlz? wʌt ʃʊd aɪ du wɪð ðɛm? </item>
+        <item>Frank: Bring those upstairs and put them in the bedroom.</item>
+        <item>fræŋk: brɪŋ ðoʊz əpˈstɛrz ænd pʊt ðɛm ɪn ðə ˈbɛˌdrum. </item>
+        <item>Michelle: How about this pen?</item>
+        <item>mɪˈʃɛl: haʊ əˈbaʊt ðɪs pɛn? </item>
+        <item>Frank: Give it to me, please. I need to use it.</item>
+        <item>fræŋk: gɪv ɪt tu mi, pliz. aɪ nid tu juz ɪt. </item>
+        <item>Michelle: What do you want me to do with that paper over there?</item>
+        <item>mɪˈʃɛl: wʌt du ju wɑnt mi tu du wɪð ðæt ˈpeɪpər ˈoʊvər ðeər? </item>
+        <item>Frank: You can throw that away. I don\'t need it anymore.</item>
+        <item>fræŋk: ju kæn θroʊ ðæt əˈweɪ. aɪ doʊnt nid ɪt ˌɛniˈmɔr. </item>
+        <item>Michelle: The trash is full.</item>
+        <item>mɪˈʃɛl: ðə træʃ ɪz fʊl. </item>
+        <item>Frank: Alright, then please put it in a bag and take it outside.</item>
+        <item>fræŋk: ˌɔlˈraɪt, ðɛn pliz pʊt ɪt ɪn ə bæg ænd teɪk ɪt ˈaʊtˈsaɪd. </item>
+        <item>Michelle: OK. Now what?</item>
+        <item>mɪˈʃɛl: ˈoʊˈkeɪ. naʊ wʌt? </item>
+        <item>Frank: I think we\'ve finished. Can you please turn off the lights and shut the door?</item>
+        <item>fræŋk: aɪ θɪŋk wiv ˈfɪnɪʃt. kæn ju pliz tɜrn ɔf ðə laɪts ænd ʃʌt ðə dɔr? </item>
+        <item>Michelle: Sure.</item>
+        <item>mɪˈʃɛl: ʃʊr. </item>
+        <item>\n</item>
+        <item>UNIT 35:  AT THE RESTAURANT.</item>
+        <item>ˈjunət 35:  æt ðə ˈrɛstəˌrɑnt. </item>
+        <item>Rebecca: This looks like a nice restaurant.</item>
+        <item>rəˈbɛkə: ðɪs lʊks laɪk ə naɪs ˈrɛstəˌrɑnt. </item>
+        <item>Scott: Yeah, it is. I come here all the time.</item>
+        <item>skɑt: jæ, ɪt ɪz. aɪ kʌm hir ɔl ðə taɪm. </item>
+        <item>Rebecca: Let\'s sit over there.</item>
+        <item>rəˈbɛkə: lɛts sɪt ˈoʊvər ðeər. </item>
+        <item>Scott: OK.</item>
+        <item>skɑt: ˈoʊˈkeɪ. </item>
+        <item>Rebecca: Can you pass me a menu please.</item>
+        <item>rəˈbɛkə: kæn ju pæs mi ə ˈmɛnju pliz. </item>
+        <item>Scott: Sure. What are you going to have to drink?</item>
+        <item>skɑt: ʃʊr. wʌt ɑr ju ˈgoʊɪŋ tu hæv tu drɪŋk? </item>
+        <item>Rebecca: I\'m going to have a glass of beer. How about you?</item>
+        <item>rəˈbɛkə: aɪm ˈgoʊɪŋ tu hæv ə glæs ɑv bɪr. haʊ əˈbaʊt ju? </item>
+        <item>Scott: I think I\'ll have a glass of wine.</item>
+        <item>skɑt: aɪ θɪŋk aɪl hæv ə glæs ɑv waɪn. </item>
+        <item>Rebecca: Do you want to order an appetizer first?</item>
+        <item>rəˈbɛkə: du ju wɑnt tu ˈɔrdər ən ˈæpəˌtaɪzər fɜrst? </item>
+        <item>Scott: Not really, maybe we can just order some bread.</item>
+        <item>skɑt: nɑt ˈrɪli, ˈmeɪbi wi kæn ʤʌst ˈɔrdər sʌm brɛd. </item>
+        <item>Rebecca: OK. What are you going to have to eat?</item>
+        <item>rəˈbɛkə: ˈoʊˈkeɪ. wʌt ɑr ju ˈgoʊɪŋ tu hæv tu it? </item>
+        <item>Scott: I\'m not sure. I haven\'t decided yet. Can you recommend something?</item>
+        <item>skɑt: aɪm nɑt ʃʊr. aɪ ˈhævənt ˌdɪˈsaɪdɪd jɛt. kæn ju ˌrɛkəˈmɛnd ˈsʌmθɪŋ? </item>
+        <item>Rebecca: Sure, I\'ve had the steak and the lobster before. They\'re both very good.</item>
+        <item>rəˈbɛkə: ʃʊr, aɪv hæd ðə steɪk ænd ðə ˈlɑbstər bɪˈfɔr. ðɛr boʊθ ˈvɛri gʊd. </item>
+        <item>Scott: I think I\'ll have the lobster. What are you going to have?</item>
+        <item>skɑt: aɪ θɪŋk aɪl hæv ðə ˈlɑbstər. wʌt ɑr ju ˈgoʊɪŋ tu hæv? </item>
+        <item>Rebecca: I\'m not that hungry. I think I\'m just going to have a salad.</item>
+        <item>rəˈbɛkə: aɪm nɑt ðæt ˈhʌŋgri. aɪ θɪŋk aɪm ʤʌst ˈgoʊɪŋ tu hæv ə ˈsæləd. </item>
+        <item>Scott: I\'m gonna go to the bathroom. When the waitress comes back, will you order for me?</item>
+        <item>skɑt: aɪm ˈgɑnə goʊ tu ðə ˈbæˌθrum. wɛn ðə ˈweɪtrəs kʌmz bæk, wɪl ju ˈɔrdər fɔr mi? </item>
+        <item>Rebecca: Sure. No problem.</item>
+        <item>rəˈbɛkə: ʃʊr. noʊ ˈprɑbləm. </item>
+        <item>\n</item>
+        <item>UNIT 36:  I NEED TO DO LAUNDRY.</item>
+        <item>ˈjunət 36:  aɪ nid tu du ˈlɔndri. </item>
+        <item>Eric: Hi Anna, come in.</item>
+        <item>ˈɛrɪk: haɪ ˈænə, kʌm ɪn. </item>
+        <item>Ana: Wow, your apartment is a mess.</item>
+        <item>ˈɑnə: waʊ, jʊər əˈpɑrtmənt ɪz ə mɛs. </item>
+        <item>Eric: I know, I didn\'t have time to put things away before you got here.</item>
+        <item>ˈɛrɪk: aɪ noʊ, aɪ ˈdɪdənt hæv taɪm tu pʊt θɪŋz əˈweɪ bɪˈfɔr ju gɑt hir. </item>
+        <item>Ana: Look! Are those all your clothes on the couch?</item>
+        <item>ˈɑnə: lʊk! ɑr ðoʊz ɔl jʊər kloʊðz ɑn ðə kaʊʧ? </item>
+        <item>Eric: Yes.</item>
+        <item>ˈɛrɪk: jɛs. </item>
+        <item>Ana: Are they clean?</item>
+        <item>ˈɑnə: ɑr ðeɪ klin? </item>
+        <item>Eric: Actually most of them are dirty. I haven\'t done laundry in a while. I usually wait until I can do it at my parent\'s house.</item>
+        <item>ˈɛrɪk: ˈækʧuəli moʊst ɑv ðɛm ɑr ˈdɜrti. aɪ ˈhævənt dʌn ˈlɔndri ɪn ə waɪl. aɪ ˈjuʒəwəli weɪt ənˈtɪl aɪ kæn du ɪt æt maɪ ˈpɛrəntshaʊs. </item>
+        <item>Ana: My sister and I usually go to the laundromat down the street. Why don\'t you go there?</item>
+        <item>ˈɑnə: maɪ ˈsɪstər ænd aɪ ˈjuʒəwəli goʊ tu ðə ˈlɔndrəˌmæt daʊn ðə strit. waɪ doʊnt ju goʊ ðeər? </item>
+        <item>Eric: I know I should, but that place isn\'t very convenient. You have to wait for a long time.</item>
+        <item>ˈɛrɪk: aɪ noʊ aɪ ʃʊd, bʌt ðæt pleɪs ˈɪzənt ˈvɛri kənˈvinjənt. ju hæv tu weɪt fɔr ə lɔŋ taɪm. </item>
+        <item>Ana: Yes I know. I have to do it every week. Anyway, are you ready to go?</item>
+        <item>ˈɑnə: jɛs aɪ noʊ. aɪ hæv tu du ɪt ˈɛvəri wik. ˈɛniˌweɪ, ɑr ju ˈrɛdi tu goʊ? </item>
+        <item>Eric: No I\'m not ready yet. I still have to brush my teeth and wash my face. Can you wait for a few minutes?</item>
+        <item>ˈɛrɪk: noʊ aɪm nɑt ˈrɛdi jɛt. aɪ stɪl hæv tu brʌʃ maɪ tiθ ænd wɑʃ maɪ feɪs. kæn ju weɪt fɔr ə fju ˈmɪnəts? </item>
+        <item>Ana: OK, but please hurry. I think the restaurant is closing soon.</item>
+        <item>ˈɑnə: ˈoʊˈkeɪ, bʌt pliz ˈhɜri. aɪ θɪŋk ðə ˈrɛstəˌrɑnt ɪz ˈkloʊzɪŋ sun. </item>
+        <item>\n</item>
+        <item>UNIT 37:  FINDING A CONVENIENCE STORE.</item>
+        <item>ˈjunət 37:  ˈfaɪndɪŋ ə kənˈvinjəns stɔr. </item>
+        <item>Andrew: Pam, where\'s the closest ATM?</item>
+        <item>ˈændru: pæm, wɛrz ðə ˈkloʊsəst eɪ-ti-ɛm? </item>
+        <item>Pam: It\'s not that far. Do you see that Yellow building over there?</item>
+        <item>pæm: ɪts nɑt ðæt fɑr. du ju si ðæt ˈjɛloʊ ˈbɪldɪŋ ˈoʊvər ðeər? </item>
+        <item>Andrew: The big one or the small one?</item>
+        <item>ˈændru: ðə bɪg wʌn ɔr ðə smɔl wʌn? </item>
+        <item>Pam: The big one.</item>
+        <item>pæm: ðə bɪg wʌn. </item>
+        <item>Andrew: Yes.</item>
+        <item>ˈændru: jɛs. </item>
+        <item>Pam: It\'s right next to it, on the right.</item>
+        <item>pæm: ɪts raɪt nɛkst tu ɪt, ɑn ðə raɪt. </item>
+        <item>Andrew: Do you know if there\'s a convenience store around here?</item>
+        <item>ˈændru: du ju noʊ ɪf ðeərz ə kənˈvinjəns stɔr əˈraʊnd hir? </item>
+        <item>Pam: I don\'t think there\'s one around here. The closest one is on 3rd street, but that\'s probably closed now.</item>
+        <item>pæm: aɪ doʊnt θɪŋk ðeərz wʌn əˈraʊnd hir. ðə ˈkloʊsəst wʌn ɪz ɑn 3rd strit, bʌt ðæts ˈprɑbəbli kloʊzd naʊ. </item>
+        <item>Andrew: I really need to get some things before I leave.</item>
+        <item>ˈændru: aɪ ˈrɪli nid tu gɛt sʌm θɪŋz bɪˈfɔr aɪ liv. </item>
+        <item>Pam: Well, you could go down to 22nd street. There are lot of stores down there that are open 24 hours a day.</item>
+        <item>pæm: wɛl, ju kʊd goʊ daʊn tu 22nd strit. ðeər ɑr lɑt ɑv stɔrz daʊn ðeər ðæt ɑr ˈoʊpən 24 ˈaʊɜrz ə deɪ. </item>
+        <item>Andrew: Can I take the subway to get there?</item>
+        <item>ˈændru: kæn aɪ teɪk ðə ˈsʌˌbweɪ tu gɛt ðeər? </item>
+        <item>Pam: Yes, but that\'ll probably take about half an hour. You should just take a cab.</item>
+        <item>pæm: jɛs, bʌt ˈðætəl ˈprɑbəbli teɪk əˈbaʊt hæf ən ˈaʊər. ju ʃʊd ʤʌst teɪk ə kæb. </item>
+        <item>Andrew: Won\'t that be expensive?</item>
+        <item>ˈændru: woʊnt ðæt bi ɪkˈspɛnsɪv? </item>
+        <item>Pam: No, from here I think it\'s only about 5 dollars.</item>
+        <item>pæm: noʊ, frʌm hir aɪ θɪŋk ɪts ˈoʊnli əˈbaʊt 5 ˈdɑlɜrz. </item>
+        <item>\n</item>
+        <item>UNIT 38:  GEOGRAPHY AND DIRECTION.</item>
+        <item>ˈjunət 38:  ʤiˈɑgrəfi ænd dəˈrɛkʃən. </item>
+        <item>Mandy: Professor, where\'s Canada?</item>
+        <item>ˈmændi: prəˈfɛsər, wɛrz ˈkænədə? </item>
+        <item>Professor: Canada is north of here.</item>
+        <item>prəˈfɛsər: ˈkænədə ɪz nɔrθ ɑv hir. </item>
+        <item>Mandy: Can you show me on the map?</item>
+        <item>ˈmændi: kæn ju ʃoʊ mi ɑn ðə mæp? </item>
+        <item>Professor: Sure. Look here. Canada is north of the </item>
+        <item>UNITed States.</item>
+        <item>prəˈfɛsər: ʃʊr. lʊk hir. ˈkænədə ɪz nɔrθ ɑv ðə juˈnaɪtəd steɪts. </item>
+        <item>Mandy: Oh, I see. Where\'s Mexico?</item>
+        <item>ˈmændi: oʊ, aɪ si. wɛrz ˈmɛksəˌkoʊ? </item>
+        <item>Professor: Mexico is south of the </item>
+        <item>UNITed States.</item>
+        <item>prəˈfɛsər: ˈmɛksəˌkoʊ ɪz saʊθ ɑv ðə juˈnaɪtəd steɪts. </item>
+        <item>Mandy: How about Connecticut? Where\'s that?</item>
+        <item>ˈmændi: haʊ əˈbaʊt kəˈnɛtəkət? wɛrz ðæt? </item>
+        <item>Professor: Connecticut is east of New York.</item>
+        <item>prəˈfɛsər: kəˈnɛtəkət ɪz ist ɑv nu jɔrk. </item>
+        <item>Mandy: What state is west of Pennsylvania?</item>
+        <item>ˈmændi: wʌt steɪt ɪz wɛst ɑv ˌpɛnsəlˈveɪnjə? </item>
+        <item>Professor: Ohio.</item>
+        <item>prəˈfɛsər: oʊˈhaɪoʊ. </item>
+        <item>Mandy: OK, Where\'s Los Angeles?</item>
+        <item>ˈmændi: ˈoʊˈkeɪ, wɛrz loʊs ˈænʤəlɪs? </item>
+        <item>Professor: Los Angeles is in California. It\'s southeast of San Francisco.</item>
+        <item>prəˈfɛsər: loʊs ˈænʤəlɪs ɪz ɪn ˌkæləˈfɔrnjə. ɪts ˌsaʊˈθist ɑv sæn frænˈsɪskoʊ. </item>
+        <item>Mandy: Where\'s Boston.</item>
+        <item>ˈmændi: wɛrz ˈbɑstən. </item>
+        <item>Professor: Boston is in the northeast part of the country.</item>
+        <item>prəˈfɛsər: ˈbɑstən ɪz ɪn ðə ˌnɔrˈθist pɑrt ɑv ðə ˈkʌntri. </item>
+        <item>Mandy: Where is Las Vegas?</item>
+        <item>ˈmændi: wɛr ɪz lɑs ˈveɪgəs? </item>
+        <item>Professor: Las Vegas is in the southwest.</item>
+        <item>prəˈfɛsər: lɑs ˈveɪgəs ɪz ɪn ðə ˌsaʊˈθwɛst. </item>
+        <item>\n</item>
+        <item>UNIT 39:  I ATE AT THE HOTEL.</item>
+        <item>ˈjunət 39:  aɪ eɪt æt ðə hoʊˈtɛl. </item>
+        <item>Ray: Hi Maria, did you have breakfast yet?</item>
+        <item>reɪ: haɪ məˈriə, dɪd ju hæv ˈbrɛkfəst jɛt? </item>
+        <item>Maria: Yes, I ate at the hotel with my son and my husband.</item>
+        <item>məˈriə: jɛs, aɪ eɪt æt ðə hoʊˈtɛl wɪð maɪ sʌn ænd maɪ ˈhʌzbənd. </item>
+        <item>Ray: Oh, they have good food there. What did you have?</item>
+        <item>reɪ: oʊ, ðeɪ hæv gʊd fud ðeər. wʌt dɪd ju hæv? </item>
+        <item>Maria: I had some cereal, fried eggs and orange juice.</item>
+        <item>məˈriə: aɪ hæd sʌm ˈsɪriəl, fraɪd ɛgz ænd ˈɔrənʤ ʤus. </item>
+        <item>Ray: How was it?</item>
+        <item>reɪ: haʊ wʌz ɪt? </item>
+        <item>Maria: The food didn\'t taste very good, and actually I don\'t feel very well now.</item>
+        <item>məˈriə: ðə fud ˈdɪdənt teɪst ˈvɛri gʊd, ænd ˈækʧuəli aɪ doʊnt fil ˈvɛri wɛl naʊ. </item>
+        <item>Ray: That\'s too bad. Do you want to take a break?</item>
+        <item>reɪ: ðæts tu bæd. du ju wɑnt tu teɪk ə breɪk? </item>
+        <item>Maria: No, I\'m going back to the hotel at lunch time to lie down.</item>
+        <item>məˈriə: noʊ, aɪm ˈgoʊɪŋ bæk tu ðə hoʊˈtɛl æt lʌnʧ taɪm tu laɪ daʊn. </item>
+        <item>Ray: OK. I\'m going to the drug store later. Is there anything I can get for you?</item>
+        <item>reɪ: ˈoʊˈkeɪ. aɪm ˈgoʊɪŋ tu ðə drʌg stɔr ˈleɪtər. ɪz ðeər ˈɛniˌθɪŋ aɪ kæn gɛt fɔr ju? </item>
+        <item>Maria: No, that\'s OK. I think if I rest for a little while I\'ll feel better.</item>
+        <item>məˈriə: noʊ, ðæts ˈoʊˈkeɪ. aɪ θɪŋk ɪf aɪ rɛst fɔr ə ˈlɪtəl waɪl aɪl fil ˈbɛtər. </item>
+        <item>\n</item>
+        <item>UNIT 40:  GOING TO THE MOVIES.</item>
+        <item>ˈjunət 40:  ˈgoʊɪŋ tu ðə ˈmuviz. </item>
+        <item>Jerry: Ann what do you want to do tonight?</item>
+        <item>ˈʤɛri: æn wʌt du ju wɑnt tu du təˈnaɪt? </item>
+        <item>Ann: I\'d like to go see a movie.</item>
+        <item>æn: aɪd laɪk tu goʊ si ə ˈmuvi. </item>
+        <item>Jerry: I heard Titanic is playing at the movie theater.</item>
+        <item>ˈʤɛri: aɪ hɜrd taɪˈtænɪk ɪz ˈpleɪɪŋ æt ðə ˈmuvi ˈθiətər. </item>
+        <item>Ann: Oh, I\'ve heard that\'s a good movie. What time does it start?</item>
+        <item>æn: oʊ, aɪv hɜrd ðæts ə gʊd ˈmuvi. wʌt taɪm dʌz ɪt stɑrt? </item>
+        <item>Jerry: 6:30. It\'s a long movie. I think it lasts for about 3 hours.</item>
+        <item>ˈʤɛri: 6:30. ɪts ə lɔŋ ˈmuvi. aɪ θɪŋk ɪt læsts fɔr əˈbaʊt 3 ˈaʊɜrz. </item>
+        <item>Ann: Will you come and pick me up?</item>
+        <item>æn: wɪl ju kʌm ænd pɪk mi ʌp? </item>
+        <item>Jerry: What time?</item>
+        <item>ˈʤɛri: wʌt taɪm? </item>
+        <item>Ann: I think we should get there early because they might be sold out. Is 5:00 OK?</item>
+        <item>æn: aɪ θɪŋk wi ʃʊd gɛt ðeər ˈɜrli bɪˈkɔz ðeɪ maɪt bi soʊld aʊt. ɪz 5:00 ˈoʊˈkeɪ? </item>
+        <item>Jerry: Yes, that\'ll be fine. I\'ll meet you at your house at 5:00</item>
+        <item>ˈʤɛri: jɛs, ˈðætəl bi faɪn. aɪl mit ju æt jʊər haʊs æt 5:00 </item>
+        <item>Ann: Do you want to get something to eat before the movie?</item>
+        <item>æn: du ju wɑnt tu gɛt ˈsʌmθɪŋ tu it bɪˈfɔr ðə ˈmuvi? </item>
+        <item>Jerry: I\'m not sure there will be enough time for that. We can have popcorn and hot dogs at the theater if you want.</item>
+        <item>ˈʤɛri: aɪm nɑt ʃʊr ðeər wɪl bi ɪˈnʌf taɪm fɔr ðæt. wi kæn hæv ˈpɑpˌkɔrn ænd hɑt dɑgz æt ðə ˈθiətər ɪf ju wɑnt. </item>
+        <item>Ann: I don\'t like the popcorn they have there. I think they put too much salt on it.</item>
+        <item>æn: aɪ doʊnt laɪk ðə ˈpɑpˌkɔrn ðeɪ hæv ðeər. aɪ θɪŋk ðeɪ pʊt tu mʌʧ sɔlt ɑn ɪt. </item>
+        <item>Jerry: OK then, I\'ll pick you up a little earlier and we can go to the Thai restaurant next to the theater, is that OK?</item>
+        <item>ˈʤɛri: ˈoʊˈkeɪ ðɛn, aɪl pɪk ju ʌp ə ˈlɪtəl ˈɜrliər ænd wi kæn goʊ tu ðə taɪ ˈrɛstəˌrɑnt nɛkst tu ðə ˈθiətər, ɪz ðæt ˈoʊˈkeɪ? </item>
+        <item>Ann: Yes, I like that place.</item>
+        <item>æn: jɛs, aɪ laɪk ðæt pleɪs. </item>
+        <item>\n</item>
+        <item>UNIT 41:  THE FOOD TASTES GREAT.</item>
+        <item>ˈjunət 41:  ðə fud teɪsts greɪt. </item>
+        <item>Patrick: How do you like the food?</item>
+        <item>ˈpætrɪk: haʊ du ju laɪk ðə fud? </item>
+        <item>Diane: It tastes really great. Did you cook it?</item>
+        <item>daɪˈæn: ɪt teɪsts ˈrɪli greɪt. dɪd ju kʊk ɪt? </item>
+        <item>Patrick: Yes. I made it this afternoon. Would you like some more?</item>
+        <item>ˈpætrɪk: jɛs. aɪ meɪd ɪt ðɪs ˌæftərˈnun. wʊd ju laɪk sʌm mɔr? </item>
+        <item>Diane: OK, just a little though. I\'m really full.</item>
+        <item>daɪˈæn: ˈoʊˈkeɪ, ʤʌst ə ˈlɪtəl ðoʊ. aɪm ˈrɪli fʊl. </item>
+        <item>Patrick: Oh. Would you like some soup instead?</item>
+        <item>ˈpætrɪk: oʊ. wʊd ju laɪk sʌm sup ɪnˈstɛd? </item>
+        <item>Diane: What kind is it?</item>
+        <item>daɪˈæn: wʌt kaɪnd ɪz ɪt? </item>
+        <item>Patrick: Tomato and rice. Have you had that before?</item>
+        <item>ˈpætrɪk: təˈmeɪˌtoʊ ænd raɪs. hæv ju hæd ðæt bɪˈfɔr? </item>
+        <item>Diane: No. This is my first time. How does it taste?</item>
+        <item>daɪˈæn: noʊ. ðɪs ɪz maɪ fɜrst taɪm. haʊ dʌz ɪt teɪst? </item>
+        <item>Patrick: It\'s good, try it. What do you think?</item>
+        <item>ˈpætrɪk: ɪts gʊd, traɪ ɪt. wʌt du ju θɪŋk? </item>
+        <item>Diane: Wow. It is good. Did you make that also?</item>
+        <item>daɪˈæn: waʊ. ɪt ɪz gʊd. dɪd ju meɪk ðæt ˈɔlsoʊ? </item>
+        <item>Patrick: Yes. Thanks, next time I\'ll make chicken soup for us.</item>
+        <item>ˈpætrɪk: jɛs. θæŋks, nɛkst taɪm aɪl meɪk ˈʧɪkən sup fɔr ʌs. </item>
+        <item>Diane: That sounds good. Did you study cooking in school?</item>
+        <item>daɪˈæn: ðæt saʊndz gʊd. dɪd ju ˈstʌdi ˈkʊkɪŋ ɪn skul? </item>
+        <item>Patrick: No, I learned by myself. I have a good cook book that I read when I have time.</item>
+        <item>ˈpætrɪk: noʊ, aɪ lɜrnd baɪ ˌmaɪˈsɛlf. aɪ hæv ə gʊd kʊk bʊk ðæt aɪ rid wɛn aɪ hæv taɪm. </item>
+        <item>\n</item>
+        <item>UNIT 42:  HELPING A FRIEND MOVE.</item>
+        <item>ˈjunət 42:  ˈhɛlpɪŋ ə frɛnd muv. </item>
+        <item>Peter: Kelly, will you help me take these things to the car?</item>
+        <item>ˈpitər: ˈkɛli, wɪl ju hɛlp mi teɪk ðiz θɪŋz tu ðə kɑr? </item>
+        <item>Kelly: OK, which car do you want me to put them in?</item>
+        <item>ˈkɛli: ˈoʊˈkeɪ, wɪʧ kɑr du ju wɑnt mi tu pʊt ðɛm ɪn? </item>
+        <item>Peter: Bring them to my wife\'s car.</item>
+        <item>ˈpitər: brɪŋ ðɛm tu maɪ waɪfs kɑr. </item>
+        <item>Kelly: Which one is hers\'?</item>
+        <item>ˈkɛli: wɪʧ wʌn ɪz hɜrz? </item>
+        <item>Peter: The blue SUV in front of the Honda.</item>
+        <item>ˈpitər: ðə blu ɛs-ju-vi ɪn frʌnt ɑv ðə ˈhɔndə. </item>
+        <item>Kelly: What should I take first?</item>
+        <item>ˈkɛli: wʌt ʃʊd aɪ teɪk fɜrst? </item>
+        <item>Peter: That chair over there, but please be careful with it. It was a gift from my mother-in-law.</item>
+        <item>ˈpitər: ðæt ʧɛr ˈoʊvər ðeər, bʌt pliz bi ˈkɛrfəl wɪð ɪt. ɪt wʌz ə gɪft frʌm maɪ ˈmʌðərɪnˌlɔ. </item>
+        <item>Kelly: Don\'t worry, I won\'t drop it. Wow, it\'s really heavy. I don\'t think I can move it by myself.</item>
+        <item>ˈkɛli: doʊnt ˈwɜri, aɪ woʊnt drɑp ɪt. waʊ, ɪts ˈrɪli ˈhɛvi. aɪ doʊnt θɪŋk aɪ kæn muv ɪt baɪ ˌmaɪˈsɛlf. </item>
+        <item>Peter: Let me help you with that. I don\'t want you to hurt your back.</item>
+        <item>ˈpitər: lɛt mi hɛlp ju wɪð ðæt. aɪ doʊnt wɑnt ju tu hɜrt jʊər bæk. </item>
+        <item>Kelly: Where are you taking off this stuff?</item>
+        <item>ˈkɛli: wɛr ɑr ju ˈteɪkɪŋ ɔf ðɪs stʌf? </item>
+        <item>Peter: Didn\'t I tell you? We\'re moving to Florida?</item>
+        <item>ˈpitər: ˈdɪdənt aɪ tɛl ju? wir ˈmuvɪŋ tu ˈflɔrədə? </item>
+        <item>Kelly: You\'re moving now? I knew you were moving, but I thought you said you were moving next month.</item>
+        <item>ˈkɛli: jʊr ˈmuvɪŋ naʊ? aɪ nu ju wɜr ˈmuvɪŋ, bʌt aɪ θɔt ju sɛd ju wɜr ˈmuvɪŋ nɛkst mʌnθ. </item>
+        <item>Peter: Yes, that\'s true, but my wife found a new apartment on the Internet the other day and she wants to move right away.</item>
+        <item>ˈpitər: jɛs, ðæts tru, bʌt maɪ waɪf faʊnd ə nu əˈpɑrtmənt ɑn ði ˈɪntərˌnɛt ði ˈʌðər deɪ ænd ʃi wɑnts tu muv raɪt əˈweɪ. </item>
+        <item>\n</item>
+        <item>UNIT 43:  VISITING FAMILY.</item>
+        <item>ˈjunət 43:  ˈvɪzətɪŋ ˈfæməli. </item>
+        <item>Henry: Judy, your husband has a really nice car.</item>
+        <item>ˈhɛnri: ˈʤudi, jʊər ˈhʌzbənd hæz ə ˈrɪli naɪs kɑr. </item>
+        <item>Judy: Thanks. It\'s a lot better than mine, and it\'s new.</item>
+        <item>ˈʤudi: θæŋks. ɪts ə lɑt ˈbɛtər ðæn maɪn, ænd ɪts nu. </item>
+        <item>Henry: Where are you going?</item>
+        <item>ˈhɛnri: wɛr ɑr ju ˈgoʊɪŋ? </item>
+        <item>Judy: We\'re going to visit my sister in the city.</item>
+        <item>ˈʤudi: wir ˈgoʊɪŋ tu ˈvɪzət maɪ ˈsɪstər ɪn ðə ˈsɪti. </item>
+        <item>Henry: I didn\'t know your sister lives in the city, when did she move there?</item>
+        <item>ˈhɛnri: aɪ ˈdɪdənt noʊ jʊər ˈsɪstər lɪvz ɪn ðə ˈsɪti, wɛn dɪd ʃi muv ðeər? </item>
+        <item>Judy: About a year ago. She lives in an apartment on 3rd street, across from the public library.</item>
+        <item>ˈʤudi: əˈbaʊt ə jɪr əˈgoʊ. ʃi lɪvz ɪn ən əˈpɑrtmənt ɑn 3rd strit, əˈkrɔs frʌm ðə ˈpʌblɪk ˈlaɪˌbrɛri. </item>
+        <item>Henry: I see. It\'s almost 5:00 now, don\'t you think there will be a lot of traffic?</item>
+        <item>ˈhɛnri: aɪ si. ɪts ˈɔlˌmoʊst 5:00 naʊ, doʊnt ju θɪŋk ðeər wɪl bi ə lɑt ɑv ˈtræfɪk? </item>
+        <item>Judy: Oh, we\'re not driving. We\'re going to take the subway. The subway only takes about 20 minutes.</item>
+        <item>ˈʤudi: oʊ, wir nɑt ˈdraɪvɪŋ. wir ˈgoʊɪŋ tu teɪk ðə ˈsʌˌbweɪ. ðə ˈsʌˌbweɪ ˈoʊnli teɪks əˈbaʊt 20 ˈmɪnəts. </item>
+        <item>Henry: Yes, but it can be very crowded around this time. I always feel uncomfortable taking the subway.</item>
+        <item>ˈhɛnri: jɛs, bʌt ɪt kæn bi ˈvɛri ˈkraʊdəd əˈraʊnd ðɪs taɪm. aɪ ˈɔlˌweɪz fil ənˈkʌmfɜrtəbəl ˈteɪkɪŋ ðə ˈsʌˌbweɪ. </item>
+        <item>Judy: I take the subway to work every day, so I\'m used to it now.</item>
+        <item>ˈʤudi: aɪ teɪk ðə ˈsʌˌbweɪ tu wɜrk ˈɛvəri deɪ, soʊ aɪm juzd tu ɪt naʊ. </item>
+        <item>Henry: Doesn\'t your mother live in the city?</item>
+        <item>ˈhɛnri: ˈdʌzənt jʊər ˈmʌðər lɪv ɪn ðə ˈsɪti? </item>
+        <item>Judy: Yes, she\'s lived there for about 10 years.</item>
+        <item>ˈʤudi: jɛs, ʃiz laɪvd ðeər fɔr əˈbaʊt 10 jɪrz. </item>
+        <item>Henry: I remember when she moved there. Apartments were a lot cheaper then.</item>
+        <item>ˈhɛnri: aɪ rɪˈmɛmbər wɛn ʃi muvd ðeər. əˈpɑrtmənts wɜr ə lɑt ˈʧipər ðɛn. </item>
+        <item>Judy: I know what you mean. It\'s hard to find anything that\'s reasonable now.</item>
+        <item>ˈʤudi: aɪ noʊ wʌt ju min. ɪts hɑrd tu faɪnd ˈɛniˌθɪŋ ðæts ˈrizənəbəl naʊ. </item>
+        <item>Henry: Have a good time. Next time you\'re free, give me a call and we\'ll go play poker.</item>
+        <item>ˈhɛnri: hæv ə gʊd taɪm. nɛkst taɪm jʊr fri, gɪv mi ə kɔl ænd wil goʊ pleɪ ˈpoʊkər. </item>
+        <item>Judy: See you later.</item>
+        <item>ˈʤudi: si ju ˈleɪtər. </item>
+        <item>\n</item>
+        <item>UNIT 44:  LOOKING AT VACATION PICTURES.</item>
+        <item>ˈjunət 44:  ˈlʊkɪŋ æt veɪˈkeɪʃən ˈpɪkʧɜrz. </item>
+        <item>Kathy: Jim, I heard you took a trip to San Diego. Is that right?</item>
+        <item>ˈkæθi: ʤɪm, aɪ hɜrd ju tʊk ə trɪp tu sæn diˈeɪgoʊ. ɪz ðæt raɪt? </item>
+        <item>Jim: Yeah, I just got back this morning.</item>
+        <item>ʤɪm: jæ, aɪ ʤʌst gɑt bæk ðɪs ˈmɔrnɪŋ. </item>
+        <item>Kathy: That sounds really nice. What did you do there?</item>
+        <item>ˈkæθi: ðæt saʊndz ˈrɪli naɪs. wʌt dɪd ju du ðeər? </item>
+        <item>Jim: Well, we were only there for three days, so we didn\'t do too much. We went shopping and went out to dinner a few times. At night we walked around the city with some friends.</item>
+        <item>ʤɪm: wɛl, wi wɜr ˈoʊnli ðeər fɔr θri deɪz, soʊ wi ˈdɪdənt du tu mʌʧ. wi wɛnt ˈʃɑpɪŋ ænd wɛnt aʊt tu ˈdɪnər ə fju taɪmz. æt naɪt wiwɔkt əˈraʊnd ðə ˈsɪti wɪð sʌm frɛndz. </item>
+        <item>Kathy: Did you take any pictures?</item>
+        <item>ˈkæθi: dɪd ju teɪk ˈɛni ˈpɪkʧɜrz? </item>
+        <item>Jim: Yes, I have them with me. Do you want to look at them?</item>
+        <item>ʤɪm: jɛs, aɪ hæv ðɛm wɪð mi. du ju wɑnt tu lʊk æt ðɛm? </item>
+        <item>Kathy: Sure, I love looking at photos.</item>
+        <item>ˈkæθi: ʃʊr, aɪ lʌv ˈlʊkɪŋ æt ˈfoʊˌtoʊz. </item>
+        <item>Jim: This one is of my wife and me on the beach, and this one is our daughter Emily standing next to my wife.</item>
+        <item>ʤɪm: ðɪs wʌn ɪz ɑv maɪ waɪf ænd mi ɑn ðə biʧ, ænd ðɪs wʌn ɪz ˈaʊər ˈdɔtər ˈɛmɪli ˈstændɪŋ nɛkst tu maɪ waɪf. </item>
+        <item>Kathy: Your daughter looks like her mother.</item>
+        <item>ˈkæθi: jʊər ˈdɔtər lʊks laɪk hɜr ˈmʌðər. </item>
+        <item>Jim: I know, they look very similar.</item>
+        <item>ʤɪm: aɪ noʊ, ðeɪ lʊk ˈvɛri ˈsɪmələr. </item>
+        <item>Kathy: Where was this picture taken?</item>
+        <item>ˈkæθi: wɛr wʌz ðɪs ˈpɪkʧər ˈteɪkən? </item>
+        <item>Jim: That was taken at the train station before we left.</item>
+        <item>ʤɪm: ðæt wʌz ˈteɪkən æt ðə treɪn ˈsteɪʃən bɪˈfɔr wi lɛft. </item>
+        <item>Kathy: Did you have time to go to the zoo?</item>
+        <item>ˈkæθi: dɪd ju hæv taɪm tu goʊ tu ðə zu? </item>
+        <item>Jim: No, not this time. We went there last time.</item>
+        <item>ʤɪm: noʊ, nɑt ðɪs taɪm. wi wɛnt ðeər læst taɪm. </item>
+        <item>Kathy: It looks like you all had a nice time.</item>
+        <item>ˈkæθi: ɪt lʊks laɪk ju ɔl hæd ə naɪs taɪm. </item>
+        <item>Jim: Yeah, it was a lot of fun.</item>
+        <item>ʤɪm: jæ, ɪt wʌz ə lɑt ɑv fʌn. </item>
+        <item>\n</item>
+        <item>UNIT 45:  ORDERING FLOWERS.</item>
+        <item>ˈjunət 45:  ˈɔrdərɪŋ ˈflaʊɜrz. </item>
+        <item>Receptionist: Good afternoon, how may I help you?</item>
+        <item>rɪˈsɛpʃənɪst: gʊd ˌæftərˈnun, haʊ meɪ aɪ hɛlp ju? </item>
+        <item>Ryan: Hi, I\'d like to order some flowers.</item>
+        <item>ˈraɪən: haɪ, aɪd laɪk tu ˈɔrdər sʌm ˈflaʊɜrz. </item>
+        <item>Receptionist: Who are they for?</item>
+        <item>rɪˈsɛpʃənɪst: hu ɑr ðeɪ fɔr? </item>
+        <item>Ryan: They\'re for my Wife. Her name is Samantha.</item>
+        <item>ˈraɪən: ðɛr fɔr maɪ waɪf. hɜr neɪm ɪz səˈmænθə. </item>
+        <item>Receptionist: What kind of flowers would you like?</item>
+        <item>rɪˈsɛpʃənɪst: wʌt kaɪnd ɑv ˈflaʊɜrz wʊd ju laɪk? </item>
+        <item>Ryan: I don\'t know. I don\'t know too much about flowers. Can you recommend something?</item>
+        <item>ˈraɪən: aɪ doʊnt noʊ. aɪ doʊnt noʊ tu mʌʧ əˈbaʊt ˈflaʊɜrz. kæn ju ˌrɛkəˈmɛnd ˈsʌmθɪŋ? </item>
+        <item>Receptionist: OK. What\'s the reason you are sending her flowers?</item>
+        <item>rɪˈsɛpʃənɪst: ˈoʊˈkeɪ. wʌts ðə ˈrizən ju ɑr ˈsɛndɪŋ hɜr ˈflaʊɜrz? </item>
+        <item>Ryan: Today\'s her birthday and she told me she wants me to buy her flowers.</item>
+        <item>ˈraɪən: təˈdeɪz hɜr ˈbɜrθˌdeɪ ænd ʃi toʊld mi ʃi wɑnts mi tu baɪ hɜr ˈflaʊɜrz. </item>
+        <item>Receptionist: Do you know what kind of flowers she likes?</item>
+        <item>rɪˈsɛpʃənɪst: du ju noʊ wʌt kaɪnd ɑv ˈflaʊɜrz ʃi laɪks? </item>
+        <item>Ryan: I\'m not sure. I know I should know that, but I can\'t remember right now.</item>
+        <item>ˈraɪən: aɪm nɑt ʃʊr. aɪ noʊ aɪ ʃʊd noʊ ðæt, bʌt aɪ kænt rɪˈmɛmbər raɪt naʊ. </item>
+        <item>Receptionist: Well, they\'re for your wife, so I think you should give her roses.</item>
+        <item>rɪˈsɛpʃənɪst: wɛl, ðɛr fɔr jʊər waɪf, soʊ aɪ θɪŋk ju ʃʊd gɪv hɜr ˈroʊzɪz. </item>
+        <item>Ryan: Roses will be fine.</item>
+        <item>ˈraɪən: ˈroʊzɪz wɪl bi faɪn. </item>
+        <item>Receptionist: What color?</item>
+        <item>rɪˈsɛpʃənɪst: wʌt ˈkʌlər? </item>
+        <item>Ryan: I think red would be nice.</item>
+        <item>ˈraɪən: aɪ θɪŋk rɛd wʊd bi naɪs. </item>
+        <item>Receptionist: Do you want to pick them up or should we deliver them?</item>
+        <item>rɪˈsɛpʃənɪst: du ju wɑnt tu pɪk ðɛm ʌp ɔr ʃʊd wi dɪˈlɪvər ðɛm? </item>
+        <item>Ryan: Can you deliver them please.</item>
+        <item>ˈraɪən: kæn ju dɪˈlɪvər ðɛm pliz. </item>
+        <item>Receptionist: What\'s the address?</item>
+        <item>rɪˈsɛpʃənɪst: wʌts ði ˈæˌdrɛs? </item>
+        <item>Ryan: 241 Main street.</item>
+        <item>ˈraɪən: 241 meɪn strit. </item>
+        <item>\n</item>
+        <item>UNIT 46:  LEAVING A MESSAGE.</item>
+        <item>ˈjunət 46:  ˈlivɪŋ ə ˈmɛsəʤ. </item>
+        <item>Laura: Hello?</item>
+        <item>ˈlɔrə: həˈloʊ? </item>
+        <item>Jack: Hi, is Heather there please?</item>
+        <item>ʤæk: haɪ, ɪz ˈhɛðər ðeər pliz? </item>
+        <item>Laura: Sorry, I think you have the wrong number.</item>
+        <item>ˈlɔrə: ˈsɑri, aɪ θɪŋk ju hæv ðə rɔŋ ˈnʌmbər. </item>
+        <item>Jack: Is this 617-228-2289?</item>
+        <item>ʤæk: ɪz ðɪs 617-228-2289? </item>
+        <item>Laura: Yes. Who are you looking for again?</item>
+        <item>ˈlɔrə: jɛs. hu ɑr ju ˈlʊkɪŋ fɔr əˈgɛn? </item>
+        <item>Jack: Heather Johnson.</item>
+        <item>ʤæk: ˈhɛðər ˈʤɑnsən. </item>
+        <item>Laura: Oh, I thought you said Laura. Sorry about that. This is the right number, but Heather\'s not here right now.</item>
+        <item>ˈlɔrə: oʊ, aɪ θɔt ju sɛd ˈlɔrə. ˈsɑri əˈbaʊt ðæt. ðɪs ɪz ðə raɪt ˈnʌmbər, bʌt ˈhɛðɜrz nɑt hir raɪt naʊ. </item>
+        <item>Jack: Do you know where she went?</item>
+        <item>ʤæk: du ju noʊ wɛr ʃi wɛnt? </item>
+        <item>Laura: She went to the store to buy some groceries. Would you like to leave a message?</item>
+        <item>ˈlɔrə: ʃi wɛnt tu ðə stɔr tu baɪ sʌm ˈgroʊsəriz. wʊd ju laɪk tu liv ə ˈmɛsəʤ? </item>
+        <item>Jack: Yes, would you please tell her Eric Martin called?</item>
+        <item>ʤæk: jɛs, wʊd ju pliz tɛl hɜr ˈɛrɪk ˈmɑrtən kɔld? </item>
+        <item>Laura: Hi Eric, this is her roommate Kathy. I met you a couple months ago at the Christmas party.</item>
+        <item>ˈlɔrə: haɪ ˈɛrɪk, ðɪs ɪz hɜr ˈruˌmeɪt ˈkæθi. aɪ mɛt ju ə ˈkʌpəl mʌnθs əˈgoʊ æt ðə ˈkrɪsməs ˈpɑrti. </item>
+        <item>Jack: Oh, yes. How are you?</item>
+        <item>ʤæk: oʊ, jɛs. haʊ ɑr ju? </item>
+        <item>Laura: Good. Heather will be back in about 20 minutes. I\'ll tell her you called.</item>
+        <item>ˈlɔrə: gʊd. ˈhɛðər wɪl bi bæk ɪn əˈbaʊt 20 ˈmɪnəts. aɪl tɛl hɜr ju kɔld. </item>
+        <item>Jack: OK. Thanks.</item>
+        <item>ʤæk: ˈoʊˈkeɪ. θæŋks. </item>
+        <item>Laura: Bye bye.</item>
+        <item>ˈlɔrə: baɪ baɪ. </item>
+        <item>\n</item>
+        <item>UNIT 47:  TALKING ABOUT THE WEATHER.</item>
+        <item>ˈjunət 47:  ˈtɔkɪŋ əˈbaʊt ðə ˈwɛðər. </item>
+        <item>Tina: Hello?</item>
+        <item>ˈtinə: həˈloʊ? </item>
+        <item>Joe: Hi Tina, It\'s Joe.</item>
+        <item>ʤoʊ: haɪ ˈtinə, ɪts ʤoʊ. </item>
+        <item>Tina: Hi Joe.</item>
+        <item>ˈtinə: haɪ ʤoʊ. </item>
+        <item>Joe: How\'s the weather there today?</item>
+        <item>ʤoʊ: haʊz ðə ˈwɛðər ðeər təˈdeɪ? </item>
+        <item>Tina: It\'s really cold. It snowed all day and the schools closed early.</item>
+        <item>ˈtinə: ɪts ˈrɪli koʊld. ɪt snoʊd ɔl deɪ ænd ðə skulz kloʊzd ˈɜrli. </item>
+        <item>Joe: What\'s the temperature?</item>
+        <item>ʤoʊ: wʌts ðə ˈtɛmprəʧər? </item>
+        <item>Tina: It\'s 30 degrees now. It was even colder this morning.</item>
+        <item>ˈtinə: ɪts 30 dɪˈgriz naʊ. ɪt wʌz ˈivɪn ˈkoʊldər ðɪs ˈmɔrnɪŋ. </item>
+        <item>Joe: Have you heard what the weather is going to be like tomorrow?</item>
+        <item>ʤoʊ: hæv ju hɜrd wʌt ðə ˈwɛðər ɪz ˈgoʊɪŋ tu bi laɪk təˈmɑˌroʊ? </item>
+        <item>Tina: I was watching the news a little earlier. They said it\'s probably going to snow tomorrow.</item>
+        <item>ˈtinə: aɪ wʌz ˈwɑʧɪŋ ðə nuz ə ˈlɪtəl ˈɜrliər. ðeɪ sɛd ɪts ˈprɑbəbli ˈgoʊɪŋ tu snoʊ təˈmɑˌroʊ. </item>
+        <item>Joe: I really don\'t like the winter. I wish it were summer.</item>
+        <item>ʤoʊ: aɪ ˈrɪli doʊnt laɪk ðə ˈwɪntər. aɪ wɪʃ ɪt wɜr ˈsʌmər. </item>
+        <item>Tina: Me too. How\'s the weather where you are?</item>
+        <item>ˈtinə: mi tu. haʊz ðə ˈwɛðər wɛr ju ɑr? </item>
+        <item>Joe: It\'s not too bad, but it\'s pretty cold here too. It was about 45 today and it rained this afternoon. I heard it\'s going to be a little warmer tomorrow.</item>
+        <item>ʤoʊ: ɪts nɑt tu bæd, bʌt ɪts ˈprɪti koʊld hir tu. ɪt wʌz əˈbaʊt 45 təˈdeɪ ænd ɪt reɪnd ðɪs ˌæftərˈnun. aɪ hɜrd ɪts ˈgoʊɪŋ tu bi ə ˈlɪtəlˈwɔrmər təˈmɑˌroʊ. </item>
+        <item>\n</item>
+        <item>UNIT 48:  MAKING PLANS.</item>
+        <item>ˈjunət 48:  ˈmeɪkɪŋ plænz. </item>
+        <item>Tom: It\'s almost Christmas. What are you doing this weekend?</item>
+        <item>tɑm: ɪts ˈɔlˌmoʊst ˈkrɪsməs. wʌt ɑr ju ˈduɪŋ ðɪs ˈwiˌkɛnd? </item>
+        <item>Sara: Nothing special, just working. Why do you ask?</item>
+        <item>ˈsɛrə: ˈnʌθɪŋ ˈspɛʃəl, ʤʌst ˈwɜrkɪŋ. waɪ du ju æsk? </item>
+        <item>Tom: Well, I still haven\'t finished my Christmas shopping. Do you want to go shopping with me this weekend?</item>
+        <item>tɑm: wɛl, aɪ stɪl ˈhævənt ˈfɪnɪʃt maɪ ˈkrɪsməs ˈʃɑpɪŋ. du ju wɑnt tu goʊ ˈʃɑpɪŋ wɪð mi ðɪs ˈwiˌkɛnd? </item>
+        <item>Sara: I\'d like to, but I\'m not sure if I can. Work has been really busy lately. Why don\'t we go on Friday instead?</item>
+        <item>ˈsɛrə: aɪd laɪk tu, bʌt aɪm nɑt ʃʊr ɪf aɪ kæn. wɜrk hæz bɪn ˈrɪli ˈbɪzi ˈleɪtli. waɪ doʊnt wi goʊ ɑn ˈfraɪdi ɪnˈstɛd? </item>
+        <item>Tom: Friday\'s not good. I think the stores will be very crowded and I have to work.</item>
+        <item>tɑm: ˈfraɪdiz nɑt gʊd. aɪ θɪŋk ðə stɔrz wɪl bi ˈvɛri ˈkraʊdəd ænd aɪ hæv tu wɜrk. </item>
+        <item>Sara: OK, then let\'s try to go this weekend. I should know if I can go by Friday. Is it OK if I call you then?</item>
+        <item>ˈsɛrə: ˈoʊˈkeɪ, ðɛn lɛts traɪ tu goʊ ðɪs ˈwiˌkɛnd. aɪ ʃʊd noʊ ɪf aɪ kæn goʊ baɪ ˈfraɪdi. ɪz ɪt ˈoʊˈkeɪ ɪf aɪ kɔl ju ðɛn? </item>
+        <item>Tom: Yeah, that\'s fine.</item>
+        <item>tɑm: jæ, ðæts faɪn. </item>
+        <item>Sara: What\'s your number?</item>
+        <item>ˈsɛrə: wʌts jʊər ˈnʌmbər? </item>
+        <item>Tom: 223-331-8828. Let me give you my email address too. It\'s tom861@gmail.com</item>
+        <item>tɑm: 223-331-8828. lɛt mi gɪv ju maɪ iˈmeɪl ˈæˌdrɛs tu. ɪts tɑm861@gmail.kɑm </item>
+        <item>Sara: OK, I\'ll talk to you soon.</item>
+        <item>ˈsɛrə: ˈoʊˈkeɪ, aɪl tɔk tu ju sun. </item>
+        <item>Tom: OK.</item>
+        <item>tɑm: ˈoʊˈkeɪ. </item>
+        <item>\n</item>
+        <item>UNIT 49:  MEETING A FRIEND.</item>
+        <item>ˈjunət 49:  ˈmitɪŋ ə frɛnd. </item>
+        <item>Vicky: Hello?</item>
+        <item>ˈvɪki: həˈloʊ? </item>
+        <item>Ben: Hi Vicky.</item>
+        <item>bɛn: haɪ ˈvɪki. </item>
+        <item>Vicky: Are you there yet?</item>
+        <item>ˈvɪki: ɑr ju ðeər jɛt? </item>
+        <item>Ben: Yes.</item>
+        <item>bɛn: jɛs. </item>
+        <item>Vicky: I just got off the subway. I\'m almost there. Sorry I\'m late.</item>
+        <item>ˈvɪki: aɪ ʤʌst gɑt ɔf ðə ˈsʌˌbweɪ. aɪm ˈɔlˌmoʊst ðeər. ˈsɑri aɪm leɪt. </item>
+        <item>Ben: That\'s no problem. I just wanted to tell you I\'m inside.</item>
+        <item>bɛn: ðæts noʊ ˈprɑbləm. aɪ ʤʌst ˈwɑntəd tu tɛl ju aɪm ɪnˈsaɪd. </item>
+        <item>Vicky: Where are you?</item>
+        <item>ˈvɪki: wɛr ɑr ju? </item>
+        <item>Ben: On the 2nd floor.</item>
+        <item>bɛn: ɑn ði 2nd flɔr. </item>
+        <item>Vicky: Should I come to the 2nd floor or do you want to come to the 1st floor?</item>
+        <item>ˈvɪki: ʃʊd aɪ kʌm tu ði 2nd flɔr ɔr du ju wɑnt tu kʌm tu ði 1strit flɔr? </item>
+        <item>Ben: Come upstairs.</item>
+        <item>bɛn: kʌm əpˈstɛrz. </item>
+        <item>Vicky: What?</item>
+        <item>ˈvɪki: wʌt? </item>
+        <item>Ben: Oh, Can you hear me OK? I said, come to the 2nd floor.</item>
+        <item>bɛn: oʊ, kæn ju hir mi ˈoʊˈkeɪ? aɪ sɛd, kʌm tu ði 2nd flɔr. </item>
+        <item>Vicky: Oh, OK. What are you doing there?</item>
+        <item>ˈvɪki: oʊ, ˈoʊˈkeɪ. wʌt ɑr ju ˈduɪŋ ðeər? </item>
+        <item>Ben: Just looking at some books on how to learn English.</item>
+        <item>bɛn: ʤʌst ˈlʊkɪŋ æt sʌm bʊks ɑn haʊ tu lɜrn ˈɪŋglɪʃ. </item>
+        <item>Vicky: Do you want to get something to eat later?</item>
+        <item>ˈvɪki: du ju wɑnt tu gɛt ˈsʌmθɪŋ tu it ˈleɪtər? </item>
+        <item>Ben: No, I\'m still full from dinner.</item>
+        <item>bɛn: noʊ, aɪm stɪl fʊl frʌm ˈdɪnər. </item>
+        <item>Vicky: What do you want to do?</item>
+        <item>ˈvɪki: wʌt du ju wɑnt tu du? </item>
+        <item>Ben: I don\'t know for sure. When you get here we\'ll talk about it.</item>
+        <item>bɛn: aɪ doʊnt noʊ fɔr ʃʊr. wɛn ju gɛt hir wil tɔk əˈbaʊt ɪt. </item>
+        <item>Vicky: OK, see you soon.</item>
+        <item>ˈvɪki: ˈoʊˈkeɪ, si ju sun. </item>
+        <item>Ben: Bye.</item>
+        <item>bɛn: baɪ.</item>
+    </string-array>
+</resources>

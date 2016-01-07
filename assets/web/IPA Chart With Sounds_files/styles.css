@@ -1,0 +1,267 @@
+@font-face {
+	font-family: CustomIPA;
+	src: url('http://www.internationalphoneticalphabet.org/ipa-sounds-folder/dejavusans-ipa.ttf') format("truetype");
+	/*src: local("DejaVu Sans"), local("Arial Unicode MS"), local("Lucida Sans Unicode"), url(http://www.internationalphoneticalphabet.org/ipa-sounds-folder/dejavusans-ipa.ttf) format('truetype');*/
+}
+.IPA {
+	font-family: CustomIPA, "DejaVu Sans", "Arial Unicode MS", "Lucida Sans Unicode", sans-serif;
+}
+body {
+	font-family: sans-serif;
+}
+h2 {
+	text-align: center;
+	margin: 1em 0 0 0;
+}
+.text h1, .text h2 {
+	margin: 0.25em 0;
+	text-align: left;
+}
+.nowrap {
+	white-space: nowrap;
+}
+.problem {
+	background-color: #faa;
+	border: 1px solid #f00;
+	padding: 0 1em;
+	margin: 1em auto;
+	max-width: 37em;
+}
+.text {
+	background-color: #cfc;
+	border: 1px solid #bdb;
+	padding: 0 1em;
+	margin: 1em auto;
+	max-width: 37em;
+}
+#object {
+	display: none;
+	margin: 1em 0;
+	padding: 0;
+	text-align: center;
+	height: 2em;
+}
+#object object {
+	margin: 0;
+	padding: 0;
+	width: 20em;
+	height: 3em;
+}
+#noaudio {
+	display: none;
+}
+
+.at, .ct, .rt {
+	text-align: center;
+	margin: 0 auto 0.1em auto;
+	border-spacing: 0.15em;
+}
+.at {
+	width: 49em;
+}
+.at td, .at th {
+	vertical-align: middle;
+}
+.at th {
+	line-height: 100%;
+	padding: 0.15em;
+}
+.at td {
+	width: 1.5em;
+	height: 1.5em;
+	padding: 0.1em;
+	line-height: 1.3em;
+}
+.at tr:nth-child(1) td:nth-child(1) {
+	background-color: white !important;
+	min-width: 10em;
+}
+.at tr th:nth-child(even), .at tr .interactive:nth-child(4n+2), .at tr .interactive:nth-child(4n+3), .ct td, .rt td {
+	background-color: #99ccff;
+}
+.at tr th:nth-child(odd), .at tr .interactive:nth-child(4n+4), .at tr .interactive:nth-child(4n+1), .ct th, .rt th, .vowels .interactive {
+	background-color: #60b0d8;
+}
+.at td, .ct .blank {
+	background-color: #eeffea;
+}
+.interactive {
+	cursor: pointer;
+}
+.interactive:hover {
+	background-color: #22f !important;
+	color: #fff;
+}
+.at .extended:nth-child(even) {
+	padding-left: 3.85em !important;
+}
+.at .extended:nth-child(odd) {
+	padding-right: 3.85em !important;
+}
+.at .impossible {
+	background-color: #d2d2d2 !important;
+}
+.ct .IPA, .rt .IPA {
+	float: left;
+	display: block;
+	width: 2em;
+	text-align: center;
+}
+.nofloat {
+	float: none !important;
+	display: inline !important;
+	width: auto !important;
+	text-align: inherit !important;
+}
+.ct td, .rt td {
+	padding: 0.2em 1em 0.2em 0.2em;
+	text-align: left;
+	line-height: 1.5em;
+}
+.ct .IPA, .rt .IPA {
+	font-size: 1.3em;
+}
+.vowels {
+	position: relative;
+	width: 35em;
+	height: 20em;
+	margin: 1.5em auto 0.1em auto;
+}
+.vowels .trapezoid {
+	position: absolute:
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+.vowels .v {
+	width: 14%;
+	text-align: center;
+	position: absolute;
+}
+.vowels .close_front {
+	top: 4%;
+	left: 4%;
+}
+.vowels .close_central {
+	top: 4%;
+	left: 44%;
+}
+.vowels .close_back {
+	top: 4%;
+	left: 84%;
+}
+.vowels .nearclose_nearfront {
+	top: 18%;
+	left: 23%;
+}
+.vowels .nearclose_nearback {
+	top: 18%;
+	left: 71%;
+}
+.vowels .closemid_front {
+	top: 33%;
+	left: 18%;
+}
+.vowels .closemid_central {
+	top: 33%;
+	left: 51%;
+}
+.vowels .closemid_back {
+	top: 33%;
+	left: 84%;
+}
+.vowels .mid_central {
+	top: 47%;
+	left: 54%;
+}
+.vowels .openmid_front {
+	top: 61%;
+	left: 31%;
+}
+.vowels .openmid_central {
+	top: 61%;
+	left: 58%;
+}
+.vowels .openmid_back {
+	top: 61%;
+	left: 84%;
+}
+.vowels .nearopen_front {
+	top: 79%;
+	left: 34%;
+}
+.vowels .nearopen_central {
+	top: 73%;
+	left: 60%;
+}
+.vowels .open_front {
+	top: 90%;
+	left: 44%;
+}
+.vowels .open_back {
+	top: 90%;
+	left: 84%;
+}
+.vowels .interactive {
+	font-size: 1.3em;
+	padding: 0.3em;
+}
+.vowels .l {
+	position: absolute;
+	font-size: 90%;
+}
+.vowels .front {
+	top: -1.5em;
+	left: 7%;
+}
+.vowels .central {
+	top: -1.5em;
+	left: 45%;
+}
+.vowels .back {
+	top: -1.5em;
+	left: 87%;
+}
+.vowels .close {
+	top: 5%;
+	left: 0.5em;
+}
+.vowels .closemid {
+	top: 34%;
+	left: 0.5em;
+}
+.vowels .openmid {
+	top: 62%;
+	left: 0.5em;
+}
+.vowels .open {
+	top: 90%;
+	left: 0.5em;
+}
+.caption {
+	font-size: 90%;
+	text-align: center;
+	margin: 0.1em auto 0.2em auto;
+}
+.copyright {
+	font-size: 90%;
+}
+.ad {
+	text-align: center;
+}
+.twins {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.twin1, .twin2 {
+	margin: 0;
+	padding: 0;
+        display: -moz-inline-stack;
+        display: inline-block;
+        vertical-align: top;
+        margin: 5px;
+        zoom: 1;
+        *display: inline;
+}

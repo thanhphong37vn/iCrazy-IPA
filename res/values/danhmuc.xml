@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="danhMucThuList">
+        <item>Thu</item>
+        <item>Thu nhập tổng quan</item>
+        <item>An sinh xã hội</item>
+        <item>Lương</item>
+        <item>Quà đã nhận</item>
+        <item>Tiền cho thuê đã nhận</item>
+    </string-array>
+    <string-array name="danhMucChiList">
+        <item>Food</item>
+        <item>Shelter</item>
+        <item>Principal accommodation</item>
+        <item>Other accommodation</item>
+        <item>Household operation</item>
+        <item>Household furnishings and equipment</item>
+        <item>Clothing and accessories</item>
+        <item>Transportation</item>
+        <item>Health care</item>
+        <item>Personal care</item>
+        <item>Entertaiment</item>
+        <item>Education</item>
+        <item>Materials and other printed</item>
+        <item>Tobacco and alcoholic beverages</item>
+        <item>Games of chance</item>
+        <item>Miscellaneous expenditures</item>
+        <item>Income taxes</item>
+        <item>Personal insurance</item>
+        <item>Gifts of money</item>
+    </string-array>
+
+</resources>
